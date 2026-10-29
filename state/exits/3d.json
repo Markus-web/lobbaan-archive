@@ -1,0 +1,86 @@
+{
+ "MAR-24-16-P": {
+  "key": "MAR-24-16-P",
+  "versions": [
+   {
+    "data": {
+     "activityNotification": {
+      "activityAmount": "",
+      "activityNotificationDate": "2024-10-22",
+      "companyId": "3082751-9",
+      "companyName": "Maria - Meret ry",
+      "companyType": "company_id",
+      "createdAt": "2024-10-22",
+      "diaryNumber": "MAR-24-1519-T",
+      "id": 1519,
+      "isEdited": false,
+      "isOnlyFinancials": false,
+      "isOverdue": false,
+      "mainIndustry": null,
+      "otherCompanyId": null,
+      "reportingEndDate": null,
+      "reportingStartDate": null,
+      "termId": 2,
+      "useForExit": true
+     },
+     "companyId": "3082751-9",
+     "companyName": "Maria - Meret ry",
+     "companyType": "company_id",
+     "createdAt": "2024-10-22",
+     "diaryNumber": "MAR-24-16-P",
+     "exitDate": "2024-10-22",
+     "exitReason": "minimal",
+     "id": 16,
+     "isEdited": false,
+     "otherCompanyId": null,
+     "reportingEndDate": null
+    },
+    "firstSeen": "2026-08-07",
+    "hash": "4f352594a23613e85b647d840333d0d3f2dd118f01d01657c203664fc402e465",
+    "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "OUT-26-61-P": {
+  "key": "OUT-26-61-P",
+  "versions": [
+   {
+    "data": {
+     "activityNotification": {
+      "activityAmount": null,
+      "activityNotificationDate": "2026-02-26",
+      "companyId": "0823312-4",
+      "companyName": "Outokumpu Europe Oy",
+      "companyType": "company_id",
+      "createdAt": "2026-02-26",
+      "diaryNumber": "OUT-26-5797-T",
+      "id": 5797,
+      "isEdited": false,
+      "isOnlyFinancials": false,
+      "isOverdue": false,
+      "mainIndustry": "Raudan, teräksen ja rautaseosten valmistus",
+      "otherCompanyId": null,
+      "reportingEndDate": "2026-02-26T17:17:57.720Z",
+      "reportingStartDate": null,
+      "termId": 5,
+      "useForExit": true
+     },
+     "companyId": "0823312-4",
+     "companyName": "Outokumpu Europe Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-02-26",
+     "diaryNumber": "OUT-26-61-P",
+     "exitDate": "2026-02-26",
+     "exitReason": "minimal",
+     "id": 61,
+     "isEdited": false,
+     "otherCompanyId": null,
+     "reportingEndDate": "2026-02-26"
+    },
+    "firstSeen": "2026-08-07",
+    "hash": "5a71f8f8b986b1d577975c61993d912c0bc82dd518b3970217a4a47e44c1d3b9",
+    "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ }
+}

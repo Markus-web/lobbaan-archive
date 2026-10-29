@@ -1,0 +1,68 @@
+[
+ {
+  "collectFinancials": false,
+  "createdAt": "2024-06-20",
+  "id": 1,
+  "reportingEndDate": "2024-06-30T20:59:59.999Z",
+  "reportingPeriodOngoing": false,
+  "reportingStartDate": "2024-04-01T00:00:00.000Z",
+  "signUpEndDate": "2024-08-31T20:59:59.999Z",
+  "signUpStartDate": "2024-07-01T00:00:00.000Z",
+  "status": "closed"
+ },
+ {
+  "collectFinancials": false,
+  "createdAt": "2024-06-20",
+  "id": 2,
+  "reportingEndDate": "2024-12-31T20:59:59.999Z",
+  "reportingPeriodOngoing": false,
+  "reportingStartDate": "2024-07-01T00:00:00.000Z",
+  "signUpEndDate": "2025-02-28T20:59:59.999Z",
+  "signUpStartDate": "2025-01-01T00:00:00.000Z",
+  "status": "closed"
+ },
+ {
+  "collectFinancials": false,
+  "createdAt": "2024-06-20",
+  "id": 3,
+  "reportingEndDate": "2025-06-30T00:00:00.000Z",
+  "reportingPeriodOngoing": false,
+  "reportingStartDate": "2025-01-01T00:00:00.000Z",
+  "signUpEndDate": "2025-08-31T00:00:00.000Z",
+  "signUpStartDate": "2025-07-01T00:00:00.000Z",
+  "status": "closed"
+ },
+ {
+  "collectFinancials": false,
+  "createdAt": "2024-06-20",
+  "id": 4,
+  "reportingEndDate": "2025-12-31T00:00:00.000Z",
+  "reportingPeriodOngoing": false,
+  "reportingStartDate": "2025-07-01T00:00:00.000Z",
+  "signUpEndDate": "2026-02-28T00:00:00.000Z",
+  "signUpStartDate": "2026-01-01T00:00:00.000Z",
+  "status": "closed"
+ },
+ {
+  "collectFinancials": true,
+  "createdAt": "2024-06-20",
+  "id": 5,
+  "reportingEndDate": "2026-06-30T00:00:00.000Z",
+  "reportingPeriodOngoing": false,
+  "reportingStartDate": "2026-01-01T00:00:00.000Z",
+  "signUpEndDate": "2026-08-31T00:00:00.000Z",
+  "signUpStartDate": "2026-07-01T00:00:00.000Z",
+  "status": "closed"
+ },
+ {
+  "collectFinancials": false,
+  "createdAt": "2024-06-20",
+  "id": 6,
+  "reportingEndDate": "2026-12-31T00:00:00.000Z",
+  "reportingPeriodOngoing": true,
+  "reportingStartDate": "2026-07-01T00:00:00.000Z",
+  "signUpEndDate": "2027-02-28T00:00:00.000Z",
+  "signUpStartDate": "2027-01-01T00:00:00.000Z",
+  "status": "draft"
+ }
+]

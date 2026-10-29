@@ -1,0 +1,43 @@
+{
+ "5": {
+  "key": "5",
+  "versions": [
+   {
+    "data": {
+     "collectFinancials": true,
+     "createdAt": "2024-06-20",
+     "id": 5,
+     "reportingEndDate": "2026-06-30T00:00:00.000Z",
+     "reportingPeriodOngoing": false,
+     "reportingStartDate": "2026-01-01T00:00:00.000Z",
+     "signUpEndDate": "2026-08-31T00:00:00.000Z",
+     "signUpStartDate": "2026-07-01T00:00:00.000Z",
+     "status": "open"
+    },
+    "firstSeen": "2026-08-07",
+    "hash": "c5fb384cb5998c14367c72bf1628ee8effedbd4200029c810b3f30c4243ae4fb",
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "status"
+    ],
+    "data": {
+     "collectFinancials": true,
+     "createdAt": "2024-06-20",
+     "id": 5,
+     "reportingEndDate": "2026-06-30T00:00:00.000Z",
+     "reportingPeriodOngoing": false,
+     "reportingStartDate": "2026-01-01T00:00:00.000Z",
+     "signUpEndDate": "2026-08-31T00:00:00.000Z",
+     "signUpStartDate": "2026-07-01T00:00:00.000Z",
+     "status": "closed"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "d76618964c8af3b600289274a5204d79c337d6351d4940dd0a621402362a1b12",
+    "observedVia": "live"
+   }
+  ]
+ }
+}

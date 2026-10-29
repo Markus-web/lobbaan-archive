@@ -1,0 +1,84 @@
+{
+ "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
+ "changes": {
+  "added": 3570,
+  "edited": 1224,
+  "removed": 21
+ },
+ "date": "2026-08-07",
+ "generatedAt": "2026-10-29T10:08:31.699Z",
+ "sources": [
+  {
+   "bytes": 1497436,
+   "fetchedAt": "2026-08-07T00:00:00.000Z",
+   "note": "Imported from lobbaan.fi's own stored copy of 2026-08-07; fields lobbaan.fi derived were stripped.",
+   "ok": true,
+   "partial": false,
+   "records": 1319,
+   "sha256": "adcd8e01dc043b8743feb6085375f8e974ae3edcf5ed8cf70758c29dca6576f3",
+   "snapshotKey": "imports/lobbaan-kv-2026-08-07/register-notification.json.gz",
+   "source": "register-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification"
+  },
+  {
+   "bytes": 39208121,
+   "fetchedAt": "2026-08-07T00:00:00.000Z",
+   "note": "Imported from lobbaan.fi's own stored copy of 2026-08-07; fields lobbaan.fi derived were stripped.",
+   "ok": true,
+   "partial": false,
+   "records": 4794,
+   "sha256": "b7afe4f3f1dcdcd6e0260352c63fad67ec61e2356afc0f066f1ac4c61d0a3a39",
+   "snapshotKey": "imports/lobbaan-kv-2026-08-07/activity-notification.json.gz",
+   "source": "activity-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-activity-notification"
+  },
+  {
+   "bytes": 59345,
+   "fetchedAt": "2026-08-07T00:00:00.000Z",
+   "note": "Imported from lobbaan.fi's own stored copy of 2026-08-07; fields lobbaan.fi derived were stripped.",
+   "ok": true,
+   "partial": false,
+   "records": 68,
+   "sha256": "05045eea7e66eed96d6881d7d5854ce0c7de6f6be2ebbe0a90b0e322254d113a",
+   "snapshotKey": "imports/lobbaan-kv-2026-08-07/exit-notification.json.gz",
+   "source": "exit-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-exit-notification"
+  },
+  {
+   "bytes": 3,
+   "fetchedAt": "2026-08-07T00:00:00.000Z",
+   "note": "Imported from lobbaan.fi's own stored copy of 2026-08-07; fields lobbaan.fi derived were stripped.",
+   "ok": true,
+   "partial": true,
+   "records": 0,
+   "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+   "snapshotKey": "imports/lobbaan-kv-2026-08-07/penalty-payments.json.gz",
+   "source": "penalty-payments",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-penalty-payments"
+  },
+  {
+   "bytes": 1984,
+   "fetchedAt": "2026-08-07T00:00:00.000Z",
+   "note": "Imported from lobbaan.fi's own stored copy of 2026-08-07; fields lobbaan.fi derived were stripped.",
+   "ok": true,
+   "partial": false,
+   "records": 6,
+   "sha256": "20d01ee2eeaac83a2e285a95e9eff1b2757c77624442e9e2105706d42ec2e5c5",
+   "snapshotKey": "imports/lobbaan-kv-2026-08-07/term.json.gz",
+   "source": "term",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-term"
+  },
+  {
+   "bytes": 3667032,
+   "fetchedAt": "2026-08-07T00:00:00.000Z",
+   "note": "Imported from lobbaan.fi's own stored copy of 2026-08-07; fields lobbaan.fi derived were stripped.",
+   "ok": true,
+   "partial": false,
+   "records": 4532,
+   "sha256": "bad29f17950fb50805b5ce0741ad95130237ca6afe40a3da14fe1c70ab6db2ec",
+   "snapshotKey": "imports/lobbaan-kv-2026-08-07/targets.json.gz",
+   "source": "targets",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-target/targets"
+  }
+ ]
+}

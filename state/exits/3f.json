@@ -1,0 +1,86 @@
+{
+ "RAU-25-30-P": {
+  "key": "RAU-25-30-P",
+  "versions": [
+   {
+    "data": {
+     "activityNotification": {
+      "activityAmount": "",
+      "activityNotificationDate": "2025-05-05",
+      "companyId": "0529693-9",
+      "companyName": "Rauman Yrittäjät ry",
+      "companyType": "company_id",
+      "createdAt": "2025-05-05",
+      "diaryNumber": "RAU-25-3066-T",
+      "id": 3066,
+      "isEdited": false,
+      "isOnlyFinancials": false,
+      "isOverdue": false,
+      "mainIndustry": null,
+      "otherCompanyId": null,
+      "reportingEndDate": "2025-05-05T12:13:05.761Z",
+      "reportingStartDate": null,
+      "termId": 3,
+      "useForExit": true
+     },
+     "companyId": "0529693-9",
+     "companyName": "Rauman Yrittäjät ry",
+     "companyType": "company_id",
+     "createdAt": "2025-05-05",
+     "diaryNumber": "RAU-25-30-P",
+     "exitDate": "2025-05-05",
+     "exitReason": "minimal",
+     "id": 30,
+     "isEdited": false,
+     "otherCompanyId": null,
+     "reportingEndDate": "2025-05-05"
+    },
+    "firstSeen": "2026-08-07",
+    "hash": "da233c4a5f3e001edf7ee149bd72ea105f3f1d0a1d7a4b92361808ec615e4eee",
+    "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "YHT-26-78-P": {
+  "key": "YHT-26-78-P",
+  "versions": [
+   {
+    "data": {
+     "activityNotification": {
+      "activityAmount": null,
+      "activityNotificationDate": "2026-08-31",
+      "companyId": "0215435-3",
+      "companyName": "Yhteinen Toimialaliitto ry",
+      "companyType": "company_id",
+      "createdAt": "2026-08-31",
+      "diaryNumber": "YHT-26-7954-T",
+      "id": 7954,
+      "isEdited": false,
+      "isOnlyFinancials": false,
+      "isOverdue": false,
+      "mainIndustry": "Elinkeinoelämän ja työnantajajärjestöjen toiminta",
+      "otherCompanyId": null,
+      "reportingEndDate": "2026-08-31T15:22:18.553Z",
+      "reportingStartDate": null,
+      "termId": 6,
+      "useForExit": true
+     },
+     "companyId": "0215435-3",
+     "companyName": "Yhteinen Toimialaliitto ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "YHT-26-78-P",
+     "exitDate": "2026-08-31",
+     "exitReason": "minimal",
+     "id": 78,
+     "isEdited": false,
+     "otherCompanyId": null,
+     "reportingEndDate": "2026-08-31"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "d0092a4cb35597a29029c1620cc2c6fb6d04fed9bf905d401c881262658a0ca1",
+    "observedVia": "live"
+   }
+  ]
+ }
+}

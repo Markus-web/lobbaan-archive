@@ -1,0 +1,86 @@
+{
+ "BON-25-48-P": {
+  "key": "BON-25-48-P",
+  "versions": [
+   {
+    "data": {
+     "activityNotification": {
+      "activityAmount": "none",
+      "activityNotificationDate": "2025-12-19",
+      "companyId": "2298640-5",
+      "companyName": "Bonalive Oy",
+      "companyType": "company_id",
+      "createdAt": "2025-12-19",
+      "diaryNumber": "BON-25-4754-T",
+      "id": 4754,
+      "isEdited": false,
+      "isOnlyFinancials": false,
+      "isOverdue": false,
+      "mainIndustry": "Biotekninen tutkimus ja kehittäminen",
+      "otherCompanyId": null,
+      "reportingEndDate": "2025-12-19T12:35:08.217Z",
+      "reportingStartDate": null,
+      "termId": 4,
+      "useForExit": true
+     },
+     "companyId": "2298640-5",
+     "companyName": "Bonalive Oy",
+     "companyType": "company_id",
+     "createdAt": "2025-12-19",
+     "diaryNumber": "BON-25-48-P",
+     "exitDate": "2025-12-19",
+     "exitReason": "none",
+     "id": 48,
+     "isEdited": false,
+     "otherCompanyId": null,
+     "reportingEndDate": "2025-12-19"
+    },
+    "firstSeen": "2026-08-07",
+    "hash": "5bd1dad38a416fec81f44db3cd6b12490af2db251b4944ece82a1b6492c1fadf",
+    "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "LEM-26-77-P": {
+  "key": "LEM-26-77-P",
+  "versions": [
+   {
+    "data": {
+     "activityNotification": {
+      "activityAmount": null,
+      "activityNotificationDate": "2026-08-26",
+      "companyId": "1017267-4",
+      "companyName": "Lempeä Lämpö Oy",
+      "companyType": "company_id",
+      "createdAt": "2026-08-26",
+      "diaryNumber": "LEM-26-7351-T",
+      "id": 7351,
+      "isEdited": false,
+      "isOnlyFinancials": false,
+      "isOverdue": false,
+      "mainIndustry": "Sähkön jakelu",
+      "otherCompanyId": null,
+      "reportingEndDate": "2026-08-26T07:50:57.721Z",
+      "reportingStartDate": null,
+      "termId": 6,
+      "useForExit": true
+     },
+     "companyId": "1017267-4",
+     "companyName": "Lempeä Lämpö Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-08-26",
+     "diaryNumber": "LEM-26-77-P",
+     "exitDate": "2026-08-26",
+     "exitReason": "minimal",
+     "id": 77,
+     "isEdited": false,
+     "otherCompanyId": null,
+     "reportingEndDate": "2026-08-26"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "300bcf06a6d0d2fbd2136f968d699457ab3e8afa36ce770272366ad0e6f8781d",
+    "observedVia": "live"
+   }
+  ]
+ }
+}
