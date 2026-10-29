@@ -837,6 +837,270 @@
    }
   ]
  },
+ "0987030-1": {
+  "key": "0987030-1",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "20",
+       "postCode": "02460",
+       "postOffices": [
+        {
+         "city": "KANTVIK",
+         "languageCode": "1",
+         "municipalityCode": "257"
+        },
+        {
+         "city": "KANTVIK",
+         "languageCode": "2",
+         "municipalityCode": "257"
+        }
+       ],
+       "registrationDate": "2008-02-08",
+       "source": "0",
+       "street": "SOKERITEHTAANTIE",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "20",
+       "co": "",
+       "entrance": "",
+       "postCode": "02460",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "KANTVIK",
+         "languageCode": "1",
+         "municipalityCode": "257"
+        },
+        {
+         "city": "KANTVIK",
+         "languageCode": "2",
+         "municipalityCode": "257"
+        }
+       ],
+       "registrationDate": "1999-11-03",
+       "source": "0",
+       "street": "SOKERITEHTAANTIE",
+       "type": 2
+      }
+     ],
+     "businessId": "0987030-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1994-11-30",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0987030-1"
+     },
+     "lastModified": "2026-07-08T17:35:01",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Manufacture of sugar",
+        "languageCode": "3"
+       },
+       {
+        "description": "Sockertillverkning",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sokerin valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "10810",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Suomen Sokeri Oy",
+       "registrationDate": "1998-01-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1997-12-31",
+       "name": "Porkkalan Sokeripuhdistamo Oy",
+       "registrationDate": "1994-11-30",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Finnsugar Ltd",
+       "registrationDate": "1998-01-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Finska Socker Ab",
+       "registrationDate": "1998-01-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1994-11-30",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1994-12-09",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2003-12-30",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1995-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1994-11-30",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "1843a6294429c3e255884e2a7f5a9aea2543b00621cc6f4e4c7b3c9591d0d5a9",
+    "observedVia": "live"
+   }
+  ]
+ },
  "1003909-9": {
   "key": "1003909-9",
   "versions": [

@@ -1243,6 +1243,552 @@
    }
   ]
  },
+ "2064886-7": {
+  "key": "2064886-7",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "11",
+       "co": "",
+       "entrance": "B",
+       "postCode": "10300",
+       "postOffices": [
+        {
+         "city": "KARIS",
+         "languageCode": "2",
+         "municipalityCode": "710"
+        },
+        {
+         "city": "KARJAA",
+         "languageCode": "1",
+         "municipalityCode": "710"
+        }
+       ],
+       "registrationDate": "2024-12-23",
+       "source": "0",
+       "street": "Elin Kurcksgatan",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "11",
+       "co": "",
+       "entrance": "B",
+       "postCode": "10300",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "KARIS",
+         "languageCode": "2",
+         "municipalityCode": "710"
+        },
+        {
+         "city": "KARJAA",
+         "languageCode": "1",
+         "municipalityCode": "710"
+        }
+       ],
+       "registrationDate": "2024-12-23",
+       "source": "0",
+       "street": "Elin Kurcksgatan",
+       "type": 2
+      }
+     ],
+     "businessId": "2064886-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2006-10-11",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2064886-7"
+     },
+     "lastModified": "2026-05-22T08:39:29",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Toisen asteen ammatillinen koulutus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Vocational secondary education",
+        "languageCode": "3"
+       },
+       {
+        "description": "Yrkesförberedande gymnasial utbildning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85320",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Axxell Utbildning Ab",
+       "registrationDate": "2008-01-07",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2008-01-06",
+       "name": "Ab Västra Finlands yrkesinstitut",
+       "registrationDate": "2006-10-11",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Överby Trädgårdar",
+       "registrationDate": "2023-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2006-10-10",
+       "register": "1",
+       "registrationDate": "2006-10-05",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2006-10-11",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2006-10-10",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2008-08-12",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2008-08-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2008-08-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2006-10-11",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2008-08-12",
+      "source": "0",
+      "url": "www.axxell.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "57c4a125bfc88a4ee49bae06646a6ffb07c70ed15bb06df66c05ea18b685215c",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "2528792-5": {
+  "key": "2528792-5",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "11",
+       "co": "",
+       "entrance": "C",
+       "postCode": "96300",
+       "postOffices": [
+        {
+         "city": "ROVANIEMI",
+         "languageCode": "1",
+         "municipalityCode": "698"
+        },
+        {
+         "city": "ROVANIEMI",
+         "languageCode": "2",
+         "municipalityCode": "698"
+        }
+       ],
+       "registrationDate": "2013-01-31",
+       "source": "0",
+       "street": "Jokiväylä",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "11",
+       "co": "",
+       "entrance": "C",
+       "postCode": "96300",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "ROVANIEMI",
+         "languageCode": "1",
+         "municipalityCode": "698"
+        },
+        {
+         "city": "ROVANIEMI",
+         "languageCode": "2",
+         "municipalityCode": "698"
+        }
+       ],
+       "registrationDate": "2013-01-31",
+       "source": "0",
+       "street": "Jokiväylä",
+       "type": 2
+      }
+     ],
+     "businessId": "2528792-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2013-03-15",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2528792-5"
+     },
+     "lastModified": "2026-08-12T09:58:13",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Korkea-asteen koulutus yliopistoissa ja ammattikorkeakouluissa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tertiary education",
+        "languageCode": "3"
+       },
+       {
+        "description": "Universitets- eller högskoleutbildning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85400",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Lapin ammattikorkeakoulu Oy",
+       "registrationDate": "2013-03-15",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Lapland University of Applied Sciences Ltd",
+       "registrationDate": "2016-01-28",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2013-03-14",
+       "register": "1",
+       "registrationDate": "2013-01-31",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2013-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2013-04-04",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2013-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2014-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2015-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2013-03-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2013-03-15",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2013-01-31",
+      "source": "0",
+      "url": "www.lapinamk.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "798328d34cb5e4a137afe1f93b4c5fcf93d5288250c042f57b1759f4e4a367a1",
+    "observedVia": "live"
+   }
+  ]
+ },
  "2759441-9": {
   "key": "2759441-9",
   "versions": [
@@ -1462,6 +2008,515 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "4a1b58613149fd873f6b15b71d40c6c2ca63664299a8b34e91e7972be07e06e4",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "2863321-3": {
+  "key": "2863321-3",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "6",
+       "co": "",
+       "entrance": "B",
+       "postCode": "02600",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2024-02-26",
+       "source": "0",
+       "street": "Linnoitustie",
+       "type": 2
+      }
+     ],
+     "businessId": "2863321-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2017-10-25",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2863321-3"
+     },
+     "lastModified": "2026-10-21T20:04:12",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Dental practice care activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Hammaslääkäripalvelut",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tandläkarverksamhet",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "86230",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Oral Hammaslääkärit Oy",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2022-05-31",
+       "name": "Colosseum Dental Finland Oy",
+       "registrationDate": "2017-10-25",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Ison Omenan Hammaslääkärikeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ison Omenan Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Colosseum Dental Finland",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Viherlaakson Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helilän Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Niittyhuipun Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "HammasKarisma",
+       "registrationDate": "2025-03-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammasklinikka Puijon Hammas",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammaskeijut",
+       "registrationDate": "2025-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tandläkarstation Vitadent",
+       "registrationDate": "2023-07-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hallituskadun hammaslääkäriasema",
+       "registrationDate": "2026-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Hammaslääkärikeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rantasalmen ja Varkauden Hammaskolmio",
+       "registrationDate": "2025-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammaslääkäriasema Vitadent",
+       "registrationDate": "2023-07-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "City Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "A-Hammas",
+       "registrationDate": "2024-08-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Espan Hammaslääkärikeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Renideo Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oral Clinics Finland",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "QMedical",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oral Health Finland",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Renideo Holding",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oral Healthcare Finland",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammassairaala Oral",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammasasema MediKemi",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Hammaspiste",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tampereen Hammaskeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Renideo Group",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Erottajan hammaslääkärikeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Töölöntorin Hammaslääkärit",
+       "registrationDate": "2025-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pellavanhammas",
+       "registrationDate": "2025-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ison Omenan Hammaslääkäriasema",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sun Hymy",
+       "registrationDate": "2025-03-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Opushammas",
+       "registrationDate": "2026-03-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oral Hammaslääkärit Ltd",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Oral Hammaslääkärit Ab",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2017-10-24",
+       "register": "1",
+       "registrationDate": "2017-10-18",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2017-10-25",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2017-11-02",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2022-06-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2020-10-31",
+       "register": "6",
+       "registrationDate": "2017-10-04",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2022-06-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2017-10-25",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2022-05-31",
+      "source": "0",
+      "url": "www.oral.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "d0eaf51fd6cdff5336878040b7ff4ad531d54404462b7f4d20e4789904bd1d68",
     "observedVia": "live"
    }
   ]

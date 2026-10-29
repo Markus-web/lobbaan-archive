@@ -1,4 +1,287 @@
 {
+ "0117089-6": {
+  "key": "0117089-6",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "5",
+       "co": "",
+       "entrance": "",
+       "postCode": "00410",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2020-05-05",
+       "source": "0",
+       "street": "Pakarituvantie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00411",
+       "postOfficeBox": "39",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2020-05-05",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0117089-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Foundation",
+         "languageCode": "3"
+        },
+        {
+         "description": "Stiftelse",
+         "languageCode": "2"
+        },
+        {
+         "description": "Säätiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1945-11-20",
+       "source": "1",
+       "type": "18",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-06-29T08:06:15",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Hospital activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Sluten sjukvård",
+        "languageCode": "2"
+       },
+       {
+        "description": "Terveydenhuollon laitospalvelut",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "86100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Kuntoutussäätiö sr",
+       "registrationDate": "2016-10-25",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Stiftelsen för Rehabilitering sr",
+       "registrationDate": "2016-10-25",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Rehabilitation Foundation sr",
+       "registrationDate": "2016-10-25",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2026-06-16",
+       "register": "1",
+       "registrationDate": "2026-06-16",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2026-06-17",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2023-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2021-08-12",
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1950-09-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2026-06-17",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2006-04-27",
+      "source": "0",
+      "url": "www.kuntoutussaatio.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "b22eabe8256c0ba9d5257f26cf9276f9d3d591c590d38716a4eb7f7e9f8a6c47",
+    "observedVia": "live"
+   }
+  ]
+ },
  "0590953-9": {
   "key": "0590953-9",
   "versions": [

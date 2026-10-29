@@ -1,16 +1,12 @@
 {
  "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
- "changes": {
-  "added": 1082,
-  "edited": 214,
-  "removed": 41
- },
+ "changes": {},
  "date": "2026-10-29",
- "generatedAt": "2026-10-29T20:06:48.610Z",
+ "generatedAt": "2026-10-29T21:18:04.462Z",
  "sources": [
   {
    "bytes": 1361952,
-   "fetchedAt": "2026-10-29T20:06:48.610Z",
+   "fetchedAt": "2026-10-29T21:18:04.462Z",
    "httpStatus": 200,
    "ok": true,
    "records": 1382,
@@ -21,7 +17,7 @@
   },
   {
    "bytes": 36699693,
-   "fetchedAt": "2026-10-29T20:06:55.853Z",
+   "fetchedAt": "2026-10-29T21:18:11.351Z",
    "httpStatus": 200,
    "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
    "ok": true,
@@ -33,7 +29,7 @@
   },
   {
    "bytes": 59281,
-   "fetchedAt": "2026-10-29T20:07:42.407Z",
+   "fetchedAt": "2026-10-29T21:18:54.486Z",
    "httpStatus": 200,
    "ok": true,
    "records": 81,
@@ -44,7 +40,7 @@
   },
   {
    "bytes": 2,
-   "fetchedAt": "2026-10-29T20:07:42.620Z",
+   "fetchedAt": "2026-10-29T21:18:54.669Z",
    "httpStatus": 200,
    "note": "Implausibly few records; removals not inferred.",
    "ok": true,
@@ -57,7 +53,7 @@
   },
   {
    "bytes": 1744,
-   "fetchedAt": "2026-10-29T20:07:42.796Z",
+   "fetchedAt": "2026-10-29T21:18:54.845Z",
    "httpStatus": 200,
    "ok": true,
    "records": 6,
@@ -68,7 +64,7 @@
   },
   {
    "bytes": 2962096,
-   "fetchedAt": "2026-10-29T20:07:42.962Z",
+   "fetchedAt": "2026-10-29T21:18:55.343Z",
    "httpStatus": 200,
    "ok": true,
    "records": 4550,
@@ -79,7 +75,7 @@
   },
   {
    "error": "HTTP 403",
-   "fetchedAt": "2026-10-29T20:07:44.660Z",
+   "fetchedAt": "2026-10-29T21:18:56.583Z",
    "ok": false,
    "partial": true,
    "records": 0,
@@ -87,11 +83,23 @@
    "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
   },
   {
-   "fetchedAt": "2026-10-29T20:13:43.815Z",
+   "bytes": 698296,
+   "fetchedAt": "2026-10-29T21:18:57.821Z",
+   "httpStatus": 200,
+   "note": "Finnish head offices from the export of 2026-10-29T21:00:00.079+00:00 (18072 organisations, 118130359 bytes, SHA-256 26bb3c11043c2d110e013fd45d709662763e8b23301f20ef54e2d847801762a0).",
+   "ok": true,
+   "records": 397,
+   "sha256": "99e2665d619b285c015b05d34c9a6c262eb6119874dd1050144ec99f3d03dde7",
+   "snapshotKey": "snapshots/2026-10-29/eu-register.json.gz",
+   "source": "eu-register",
+   "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
+  },
+  {
+   "fetchedAt": "2026-10-29T21:25:34.123Z",
    "note": "Rotating refresh: 700 of 1371 business IDs, 0 failed.",
    "ok": true,
    "partial": true,
-   "records": 344,
+   "records": 343,
    "source": "prh-ytj",
    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
   }
