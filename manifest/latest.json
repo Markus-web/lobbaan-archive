@@ -1,35 +1,39 @@
 {
  "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
  "changes": {
-  "added": 1
+  "added": 1082,
+  "edited": 214,
+  "removed": 41
  },
  "date": "2026-10-29",
- "generatedAt": "2026-10-29T14:05:20.087Z",
+ "generatedAt": "2026-10-29T20:06:48.610Z",
  "sources": [
   {
-   "bytes": 1361950,
-   "fetchedAt": "2026-10-29T14:05:20.087Z",
+   "bytes": 1361952,
+   "fetchedAt": "2026-10-29T20:06:48.610Z",
    "httpStatus": 200,
    "ok": true,
    "records": 1382,
-   "sha256": "2c4605f34e9bfc7a5c0f67045feb349b09bfbc37f29c54f7fa53e93e3dad1bf1",
+   "sha256": "af36c84f525cdf29fd709eb186d6f47b90390c361bb06947e3cbd25027c13587",
    "snapshotKey": "snapshots/2026-10-29/register-notification.json.gz",
    "source": "register-notification",
    "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification"
   },
   {
-   "error": "HTTP 500",
-   "fetchedAt": "2026-10-29T14:05:33.333Z",
-   "httpStatus": 500,
-   "note": "Fetch failed; previous versions kept, no removals inferred.",
-   "ok": false,
-   "partial": true,
+   "bytes": 36699693,
+   "fetchedAt": "2026-10-29T20:06:55.853Z",
+   "httpStatus": 200,
+   "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
+   "ok": true,
+   "records": 5835,
+   "sha256": "c0f31c8c2b57b6f5a2af10eac8f91f4fbe2fffd4ed328930b12f52395053583d",
+   "snapshotKey": "snapshots/2026-10-29/activity-notification.json.gz",
    "source": "activity-notification",
    "url": "https://public.api.avoimuusrekisteri.fi/open-data-activity-notification"
   },
   {
    "bytes": 59281,
-   "fetchedAt": "2026-10-29T14:06:02.767Z",
+   "fetchedAt": "2026-10-29T20:07:42.407Z",
    "httpStatus": 200,
    "ok": true,
    "records": 81,
@@ -40,7 +44,7 @@
   },
   {
    "bytes": 2,
-   "fetchedAt": "2026-10-29T14:06:05.883Z",
+   "fetchedAt": "2026-10-29T20:07:42.620Z",
    "httpStatus": 200,
    "note": "Implausibly few records; removals not inferred.",
    "ok": true,
@@ -53,7 +57,7 @@
   },
   {
    "bytes": 1744,
-   "fetchedAt": "2026-10-29T14:06:06.050Z",
+   "fetchedAt": "2026-10-29T20:07:42.796Z",
    "httpStatus": 200,
    "ok": true,
    "records": 6,
@@ -64,7 +68,7 @@
   },
   {
    "bytes": 2962096,
-   "fetchedAt": "2026-10-29T14:06:06.214Z",
+   "fetchedAt": "2026-10-29T20:07:42.962Z",
    "httpStatus": 200,
    "ok": true,
    "records": 4550,
@@ -75,7 +79,7 @@
   },
   {
    "error": "HTTP 403",
-   "fetchedAt": "2026-10-29T14:06:08.301Z",
+   "fetchedAt": "2026-10-29T20:07:44.660Z",
    "ok": false,
    "partial": true,
    "records": 0,
@@ -83,11 +87,11 @@
    "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
   },
   {
-   "fetchedAt": "2026-10-29T14:08:58.318Z",
-   "note": "Rotating refresh: 200 of 1371 business IDs, 0 failed.",
+   "fetchedAt": "2026-10-29T20:13:43.815Z",
+   "note": "Rotating refresh: 700 of 1371 business IDs, 0 failed.",
    "ok": true,
    "partial": true,
-   "records": 82,
+   "records": 344,
    "source": "prh-ytj",
    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
   }

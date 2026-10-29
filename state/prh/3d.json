@@ -1,4 +1,250 @@
 {
+ "0956502-4": {
+  "key": "0956502-4",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "9",
+       "co": "",
+       "entrance": "",
+       "postCode": "60220",
+       "postOffices": [
+        {
+         "city": "SEINÄJOKI",
+         "languageCode": "1",
+         "municipalityCode": "743"
+        },
+        {
+         "city": "SEINÄJOKI",
+         "languageCode": "2",
+         "municipalityCode": "743"
+        }
+       ],
+       "registrationDate": "2022-01-23",
+       "source": "0",
+       "street": "Seuralantie",
+       "type": 1
+      },
+      {
+       "buildingNumber": "9",
+       "postCode": "60220",
+       "postOffices": [
+        {
+         "city": "SEINÄJOKI",
+         "languageCode": "1",
+         "municipalityCode": "743"
+        },
+        {
+         "city": "SEINÄJOKI",
+         "languageCode": "2",
+         "municipalityCode": "743"
+        }
+       ],
+       "registrationDate": "2022-01-25",
+       "source": "0",
+       "street": "Seuralantie",
+       "type": 2
+      }
+     ],
+     "businessId": "0956502-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aatteellinen yhdistys",
+         "languageCode": "1"
+        },
+        {
+         "description": "Ideell förening",
+         "languageCode": "2"
+        },
+        {
+         "description": "Non-profit association",
+         "languageCode": "3"
+        }
+       ],
+       "registrationDate": "1994-01-13",
+       "source": "1",
+       "type": "6",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-02-11T09:42:41",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Activities of other miscellaneous membership organisations n.e.c.",
+        "languageCode": "3"
+       },
+       {
+        "description": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Övrig verksamhet i intresseorganisationer som inte klassificerats på annat håll",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "94999",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Pohjanmaan Liikunta ja Urheilu PLU ry",
+       "registrationDate": "2000-11-09",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2000-11-08",
+       "name": "Pohjanmaan Liikunta ja Urheilu ry",
+       "registrationDate": "1993-10-20",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2022-03-08",
+       "register": "1",
+       "registrationDate": "2022-01-25",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Ei rekisteröity perustaminen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Oregistrerat grundande",
+         "languageCode": "2"
+        },
+        {
+         "description": "Start-up not registered",
+         "languageCode": "3"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2022-03-09",
+       "type": "3"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1994-02-14",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2025-12-31",
+       "register": "6",
+       "registrationDate": "2017-01-15",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1994-01-13",
+       "type": "41"
+      }
+     ],
+     "status": "2",
+     "tradeRegisterStatus": "3"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "f02785ca915f3456fe3b2f9c51cefd2673b3785103113e4c804038eef9b8934e",
+    "observedVia": "live"
+   }
+  ]
+ },
  "1072894-3": {
   "key": "1072894-3",
   "versions": [
@@ -1081,6 +1327,505 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "3889a80d8cd0c52b0f45a2bb667871cf2d3f58adad4d849b3c1e153aa2b4e4f0",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "3182627-8": {
+  "key": "3182627-8",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "9",
+       "co": "",
+       "entrance": "",
+       "postCode": "02150",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2023-06-05",
+       "source": "0",
+       "street": "Miestentie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "9",
+       "co": "",
+       "entrance": "",
+       "postCode": "02150",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2023-06-05",
+       "source": "0",
+       "street": "MIestentie",
+       "type": 2
+      }
+     ],
+     "businessId": "3182627-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2021-01-20",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3182627-8"
+     },
+     "lastModified": "2026-03-07T06:28:58",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Business and other management consultancy activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Konsultverksamhet avseende företags organisation",
+        "languageCode": "2"
+       },
+       {
+        "description": "Liikkeenjohdon konsultointi",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-03-06",
+      "source": "2",
+      "type": "70200",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Skarta Energy Oy",
+       "registrationDate": "2021-01-20",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2021-01-19",
+       "register": "1",
+       "registrationDate": "2021-01-11",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2021-01-20",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2021-01-20",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2021-01-11",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2021-02-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2021-01-11",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2021-01-20",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2023-06-05",
+      "source": "0",
+      "url": "www.skartaenergy.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "050f31da045ec70b4390637b83e92e93e156a5ba490ce07c3226898bb413cc0d",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "3428523-5": {
+  "key": "3428523-5",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "c/o OX2",
+       "entrance": "",
+       "postCode": "00100",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-02-15",
+       "source": "0",
+       "street": "Kansakoulukuja",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "c/o OX2",
+       "entrance": "",
+       "postCode": "00100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-02-15",
+       "source": "0",
+       "street": "Kansakoulukuja",
+       "type": 2
+      }
+     ],
+     "businessId": "3428523-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2024-03-27",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3428523-5"
+     },
+     "lastModified": "2026-02-10T08:38:19",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Production of electricity from hydropower",
+        "languageCode": "3"
+       },
+       {
+        "description": "Produktion av elektricitet med vattenkraft",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sähkön tuotanto vesivoimalla",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35121",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "OX2 Finland Oy",
+       "registrationDate": "2024-03-27",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2024-03-26",
+       "register": "1",
+       "registrationDate": "2024-02-15",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2024-03-27",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2024-03-27",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2024-05-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2024-05-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2024-05-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2024-03-27",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "37f32923f1f41f9c2b2f1de43309ba9ded325340b3a33d6cd6d060c2378a4912",
     "observedVia": "live"
    }
   ]

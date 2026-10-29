@@ -1,4 +1,498 @@
 {
+ "0201375-3": {
+  "key": "0201375-3",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "2",
+       "co": "",
+       "entrance": "",
+       "postCode": "02650",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2021-01-26",
+       "source": "0",
+       "street": "Kiannonkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "2",
+       "co": "",
+       "entrance": "",
+       "postCode": "02650",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2021-01-26",
+       "source": "0",
+       "street": "Kiannonkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "0201375-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Foundation",
+         "languageCode": "3"
+        },
+        {
+         "description": "Stiftelse",
+         "languageCode": "2"
+        },
+        {
+         "description": "Säätiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1940-06-29",
+       "source": "1",
+       "type": "18",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-10-22T01:51:32",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Toisen asteen ammatillinen koulutus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Vocational secondary education",
+        "languageCode": "3"
+       },
+       {
+        "description": "Yrkesförberedande gymnasial utbildning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85320",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Live-säätiö sr",
+       "registrationDate": "2021-05-26",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Live Opisto",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Hankkeet",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Kuntoutus",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Verkkokauppa",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Innolive",
+       "registrationDate": "2019-09-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Akatemia",
+       "registrationDate": "2019-12-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Työkykypalvelut",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Terveyspuisto",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Koulutus",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Valmennus",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Osaamiskeskus",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Livepassi",
+       "registrationDate": "2019-09-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Invalidisäätiö",
+       "registrationDate": "2021-05-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Invalidisäätiö Live",
+       "registrationDate": "2019-12-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Cafe",
+       "registrationDate": "2019-12-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Polku",
+       "registrationDate": "2018-09-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live International",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Invalidstiftelsen",
+       "registrationDate": "2021-05-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Invalid Foundation",
+       "registrationDate": "2021-05-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Galleria Live",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Kauppa",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ravintola Live",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Ammattiopisto",
+       "registrationDate": "2019-05-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Työkykypalvelu",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Palvelut",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Työelämä",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Kampus",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keskuspuiston ammattiopisto",
+       "registrationDate": "2016-03-14",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kahvila Live",
+       "registrationDate": "2019-12-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Reititin",
+       "registrationDate": "2018-09-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ammattiopisto Live",
+       "registrationDate": "2018-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Live Stiftelsen sr",
+       "registrationDate": "2021-05-26",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Live Foundation sr",
+       "registrationDate": "2021-05-26",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2021-08-11",
+       "register": "1",
+       "registrationDate": "2021-06-30",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2021-08-12",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-06-30",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2009-12-22",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1944-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2021-08-12",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "ecee5b7296708b9209dec1f5791339d39dd965851f2732c3fd1e29a2540cc9e3",
+    "observedVia": "live"
+   }
+  ]
+ },
  "0573126-7": {
   "key": "0573126-7",
   "versions": [
@@ -694,6 +1188,834 @@
    }
   ]
  },
+ "1615779-0": {
+  "key": "1615779-0",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "7",
+       "co": "",
+       "entrance": "",
+       "postCode": "02200",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2017-04-27",
+       "source": "0",
+       "street": "Niittymäentie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "02201",
+       "postOfficeBox": "500",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2017-04-27",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "1615779-0",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Kommandiittiyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Kommanditbolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited partnership",
+         "languageCode": "3"
+        }
+       ],
+       "registrationDate": "2000-09-07",
+       "source": "1",
+       "type": "13",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-08-27T08:05:59",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Detaljhandel med brett sortiment, mest livsmedel, drycker och tobak",
+        "languageCode": "2"
+       },
+       {
+        "description": "Erikoistumaton elintarvikkeiden, juomien tai tupakan vähittäiskauppa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Non-specialised retail sale of predominately food, beverages or tobacco",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "47110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Lidl Suomi Kommandiittiyhtiö",
+       "registrationDate": "2000-09-07",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Lidl",
+       "registrationDate": "2001-04-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2000-09-07",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2000-09-05",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2000-09-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2000-09-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2001-12-04",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2000-09-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2000-09-07",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "3be3a6fb5594c9015e746d7922e5ffa7a38519a3fed7868c85f08a93a1074740",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "1710128-9": {
+  "key": "1710128-9",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "34",
+       "co": "",
+       "entrance": "",
+       "postCode": "33100",
+       "postOffices": [
+        {
+         "city": "TAMPERE",
+         "languageCode": "1",
+         "municipalityCode": "837"
+        },
+        {
+         "city": "TAMPERE",
+         "languageCode": "2",
+         "municipalityCode": "837"
+        }
+       ],
+       "registrationDate": "2023-12-20",
+       "source": "0",
+       "street": "Peltokatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "34",
+       "co": "",
+       "entrance": "",
+       "postCode": "33100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "TAMPERE",
+         "languageCode": "1",
+         "municipalityCode": "837"
+        },
+        {
+         "city": "TAMPERE",
+         "languageCode": "2",
+         "municipalityCode": "837"
+        }
+       ],
+       "registrationDate": "2023-12-20",
+       "source": "0",
+       "street": "Peltokatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1710128-9",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2017-10-19",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1710128-9"
+     },
+     "lastModified": "2026-10-22T00:32:28",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Computer programming activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Dataprogrammering",
+        "languageCode": "2"
+       },
+       {
+        "description": "Ohjelmistojen suunnittelu ja valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "62100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Gofore Oyj",
+       "registrationDate": "2017-10-19",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2017-10-19",
+       "name": "Gofore Oy",
+       "registrationDate": "2001-06-25",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Gofore Plc",
+       "registrationDate": "2017-10-19",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Leadin",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Solinor",
+       "registrationDate": "2019-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2001-06-24",
+       "register": "1",
+       "registrationDate": "2001-06-11",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2001-06-25",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2001-06-27",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2002-08-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2002-08-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2001-09-07",
+       "register": "6",
+       "registrationDate": "2001-06-04",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2005-02-02",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2002-08-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2001-06-25",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2002-08-16",
+      "source": "0",
+      "url": "http://www.gofore.com"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "5810533db5e662a8339051f02c71e0402f1d10cb57f68c7912ad179b395bcf29",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "1737565-0": {
+  "key": "1737565-0",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "90590",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "OULU",
+         "languageCode": "1",
+         "municipalityCode": "564"
+        },
+        {
+         "city": "OULU",
+         "languageCode": "2",
+         "municipalityCode": "564"
+        }
+       ],
+       "registrationDate": "2017-10-23",
+       "source": "0",
+       "street": "Ritaharjuntie",
+       "type": 2
+      }
+     ],
+     "businessId": "1737565-0",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2001-12-18",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1737565-0"
+     },
+     "lastModified": "2026-05-13T11:20:29",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Luonnontieteen ja tekniikan tutkimus ja kehittäminen",
+        "languageCode": "1"
+       },
+       {
+        "description": "Naturvetenskaplig och teknisk forskning och utveckling",
+        "languageCode": "2"
+       },
+       {
+        "description": "Research and experimental development on natural sciences and engineering",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "72100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Bittium Wireless Oy",
+       "registrationDate": "2015-07-23",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2015-07-23",
+       "name": "Elektrobit Wireless Communications Oy",
+       "registrationDate": "2006-10-02",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Bittium Wireless Ltd",
+       "registrationDate": "2015-07-23",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Softbit",
+       "registrationDate": "2004-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Teraflops",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2001-12-17",
+       "register": "1",
+       "registrationDate": "2001-12-12",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2001-12-18",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2001-12-21",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2002-01-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2002-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2002-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2001-12-18",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2015-08-27",
+      "source": "0",
+      "url": "www.bittium.com"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "0fb59508e1a4f85a939d39264281ae2926ad082704283c0d3c5af5fef393cedb",
+    "observedVia": "live"
+   }
+  ]
+ },
  "2017532-6": {
   "key": "2017532-6",
   "versions": [
@@ -975,6 +2297,288 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "291c4f5403227fcc71901a58ae408738157d95084aceda404b98e1fb51544d48",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "2389445-7": {
+  "key": "2389445-7",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "420",
+       "co": "",
+       "entrance": "",
+       "postCode": "13300",
+       "postOffices": [
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "1",
+         "municipalityCode": "109"
+        },
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "2",
+         "municipalityCode": "109"
+        }
+       ],
+       "registrationDate": "2015-03-23",
+       "source": "0",
+       "street": "Harvialantie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "420",
+       "co": "",
+       "entrance": "",
+       "postCode": "13300",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "1",
+         "municipalityCode": "109"
+        },
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "2",
+         "municipalityCode": "109"
+        }
+       ],
+       "registrationDate": "2015-03-23",
+       "source": "0",
+       "street": "Harvialantie",
+       "type": 2
+      }
+     ],
+     "businessId": "2389445-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2011-02-17",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2389445-7"
+     },
+     "lastModified": "2026-10-21T23:45:08",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Framställning av järn och stål samt ferrolegeringar",
+        "languageCode": "2"
+       },
+       {
+        "description": "Manufacture of basic iron and steel and of ferro-alloys",
+        "languageCode": "3"
+       },
+       {
+        "description": "Raudan, teräksen ja rautaseosten valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "24100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "SSAB Europe Oy",
+       "registrationDate": "2014-10-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2014-10-01",
+       "name": "Ruukki Metals Oy",
+       "registrationDate": "2011-02-17",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Ruukki Metals",
+       "registrationDate": "2015-01-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2011-02-16",
+       "register": "1",
+       "registrationDate": "2011-02-04",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2011-02-17",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2011-02-18",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2011-05-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2011-03-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2011-07-11",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2011-05-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2011-02-17",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "0b316cd467ba9261a6eef57dcfaf8f93c2b1739486e15d7638ef1738fac754c4",
     "observedVia": "live"
    }
   ]

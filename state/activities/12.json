@@ -3728,6 +3728,113 @@
    }
   ]
  },
+ "ERI-26-8155-T": {
+  "key": "ERI-26-8155-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-27",
+     "companyId": "1750534-7",
+     "companyName": "Erilaisten oppijoiden liitto ry",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "ERI-26-8155-T",
+     "id": 8155,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8155,
+      "createdAt": "2026-09-02",
+      "id": 661,
+      "lobbying": {
+       "employeeTotal": 1,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8155,
+       "activityType": "direct",
+       "contactTopicOther": "Oppimisen vaikeuksia kokevien ihmisten yhdenvertaisuus, oppimisen esteiden poistaminen varhaiskasvatuksesta työelämään, oppimisen tuen edistäminen kaikilla oppiasteilla ja työelämässä\n\nAiheesta annettu lausuntoja (OKM, TEM, kokoomuksen eduskuntaryhmä, sivistysvaliokunta, tarkastusvaliokunta) ja pidetty tapaamisia.\nOsallistuttu Eduskunnan erilaisten oppijoiden tukiryhmän järjestämään seminaariin, jota varten tehty kooste \"Oppimisen tuki läpi elämän\" ja jossa pidetty puheenvuoro työikäisten oppimisen tuesta, kutsuttuina kommenttipuheenvuoron pitäjinä edustajat kaikista eduskuntapuolueista.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34803,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4182,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34803,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4212,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34803,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3825,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34803,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3822,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34803,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "3d4faebcbe819fb403a226719a1b2d83f6b05e83b7790f3422861fa96d50cdb7",
+    "observedVia": "live"
+   }
+  ]
+ },
  "ESE-24-260-T": {
   "key": "ESE-24-260-T",
   "versions": [
@@ -3810,6 +3917,546 @@
     "formatOnly": true,
     "hash": "85f7741479bacff11e2ee1aff42db011aaa6c15dc92ca345306cf54d2418f9ed",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "ETA-26-8091-T": {
+  "key": "ETA-26-8091-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-12",
+     "companyId": "3125489-8",
+     "companyName": "Etanoliautoilijat ry",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "ETA-26-8091-T",
+     "id": 8091,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8091,
+      "createdAt": "2026-09-02",
+      "id": 601,
+      "lobbying": {
+       "employeeTotal": 1,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "between_5000_and_9999",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8091,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-09-02",
+        "en": null,
+        "fi": "Liikenteen verotuksen ja rahoituksen kokonaisuudistus",
+        "id": 4751,
+        "projectId": "LVM013:00/2024",
+        "sv": "Reform av beskattningen och finansieringen av trafiken"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3973,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3981,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4225,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4161,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 5328,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 5326,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4145,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4138,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34593,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4077,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34593,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8091,
+       "activityType": "direct",
+       "contactTopicOther": "EU: Henkilö- ja pakettiautojen raja-arvoasetuksen arviointi",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 3973,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 4161,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 5328,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 4077,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 4138,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 4145,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 4225,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34594,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 5326,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34594,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8091,
+       "activityType": "direct",
+       "contactTopicOther": "Keskipitkän aikavälin ilmastosuunnitelman toimeenpano",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4138,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4077,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4145,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4540,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3981,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3973,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4161,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4225,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 5326,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34595,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 5328,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34595,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8091,
+       "activityType": "direct",
+       "contactTopicOther": "Jakeluvelvoite (Laki uusiutuvien polttoaineiden käytön edistämisestä liikenteessä)",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3830,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4565,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3960,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3823,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3824,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4547,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4471,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4428,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4342,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34596,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4437,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34596,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "2d7f81f6758e979b67b442e4761cc3281451a093019f008cdaa0be8c8f5163dc",
+    "observedVia": "live"
    }
   ]
  },
@@ -11109,6 +11756,49 @@
    }
   ]
  },
+ "JYV-26-8356-T": {
+  "key": "JYV-26-8356-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-09-29",
+     "companyId": "0208201-1",
+     "companyName": "Jyväskylän koulutuskuntayhtymä Gradia",
+     "companyType": "company_id",
+     "createdAt": "2026-09-29",
+     "diaryNumber": "JYV-26-8356-T",
+     "id": 8356,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Keskiasteen ammatillinen koulutus",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "19133c598c2ab492b6163c5ae2b667a24b9f420afa813af6f8dadedee649bbaa",
+    "observedVia": "live"
+   }
+  ]
+ },
  "KAI-25-2802-T": {
   "key": "KAI-25-2802-T",
   "versions": [
@@ -12905,7 +13595,50 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "9efde20da43498ad425d17e10c3ee9c50e3cae0f42fb05498be4ebef769cc0ab",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-07-05",
+     "companyId": "2916497-3",
+     "companyName": "Käsityöliike AhkeraLiisa Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-07-05",
+     "diaryNumber": "KÄS-26-6563-T",
+     "id": 6563,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Kankaiden vähittäiskauppa",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "1a250cdad1a1521e5c3bdef0fd4c0df37c17186ac213e3e8de81c451a25043f2",
+    "observedVia": "live"
    }
   ]
  },
@@ -14804,6 +15537,244 @@
    }
   ]
  },
+ "NYY-26-6988-T": {
+  "key": "NYY-26-6988-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-17",
+     "companyId": "0618512-2",
+     "companyName": "Nyyti ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-17",
+     "diaryNumber": "NYY-26-6988-T",
+     "id": 6988,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 6988,
+      "createdAt": "2026-08-17",
+      "id": 170,
+      "lobbying": {
+       "employeeTotal": 3,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 6988,
+       "activityType": "direct",
+       "contactTopicOther": "Opiskelijoiden mielenterveyden edistäminen ja sosiaali- ja terveysalan järjestöjen rahoitus",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 29168,
+         "contactMethods": [
+          "mail",
+          "other"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": "Materiaalien välitys avustajan kautta"
+        },
+        {
+         "activityNotificationTopicId": 29168,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29168,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4348,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-17",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 29168,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 6988,
+       "activityType": "direct",
+       "contactTopicOther": "Sosiaali- ja terveysalan järjestöjen valtionavustukset",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4433,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4352,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4353,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4368,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4470,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4432,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29169,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4205,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-17",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 29169,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 6988,
+       "activityType": "direct",
+       "contactTopicOther": "Sosiaali- ja terveysalan järjestöjen avustuskriteerit ja valtionavustukset",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 29170,
+         "contactMethods": [
+          "other"
+         ],
+         "contactedTargetId": 4182,
+         "otherContactMethod": "Keskustelu muun tilaisuuden yhteydessä"
+        },
+        {
+         "activityNotificationTopicId": 29170,
+         "contactMethods": [
+          "other"
+         ],
+         "contactedTargetId": 4144,
+         "otherContactMethod": "Keskustelu muun tilaisuuden yhteydessä"
+        },
+        {
+         "activityNotificationTopicId": 29170,
+         "contactMethods": [
+          "other"
+         ],
+         "contactedTargetId": 4133,
+         "otherContactMethod": "Keskustelu muun tilaisuuden yhteydessä"
+        }
+       ],
+       "createdAt": "2026-08-17",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 29170,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "64bf3e4a825d8b1b130a0f0bf41d0bd58d394bb8b55c94021b2e63f57e1510fe",
+    "observedVia": "live"
+   }
+  ]
+ },
  "OAJ-24-509-T": {
   "key": "OAJ-24-509-T",
   "versions": [
@@ -15761,6 +16732,2199 @@
    }
   ]
  },
+ "PAL-26-8126-T": {
+  "key": "PAL-26-8126-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-26",
+     "companyId": "0668222-5",
+     "companyName": "Palvelualojen ammattiliitto PAM ry, Servicefacket PAM rf",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "PAL-26-8126-T",
+     "id": 8126,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattiyhdistysten toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8126,
+      "createdAt": "2026-09-02",
+      "id": 632,
+      "lobbying": {
+       "employeeTotal": 8,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "between_one_and_three",
+       "marketingCosts": "between_10000_and_24999",
+       "representationCosts": "between_1000_and_4999"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8126,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-09-02",
+        "en": "Working group preparing amendments to the provisions on the grounds for the fixed-term employment contract, the period of notice of lay-off and the re-employment obligation,  changing the grounds for temporary employment, the notice period for lay-offs and the re-employment obligation",
+        "fi": "Työsopimuksen määräaikaisuuden perustetta, lomautusilmoitusaikaa ja takaisinottovelvollisuutta koskevan sääntelyn muuttamista valmisteleva työryhmä",
+        "id": 4765,
+        "projectId": "TEM061:00/2024",
+        "sv": "Arbetsgrupp som bereder ändring av bestämmelserna om grunden för arbetsavtals tidsbundenhet, tidpunkten för meddelande om permittering och skyldigheten att återanställa"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4075,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4081,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4085,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4343,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3959,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4142,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34717,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4092,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34717,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8126,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-09-02",
+        "en": null,
+        "fi": "Yrityslähestymiskielto",
+        "id": 4766,
+        "projectId": "OM159:00/2023",
+        "sv": "Kontaktförbud för företag"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34718,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4428,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34718,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3992,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34718,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34718,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4165,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34718,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8126,
+       "activityType": "direct",
+       "contactTopicOther": "Ajankohtaiset työmarkkina-asiat sekä tulevat eduskuntavaalit ja työelämä toimet tulevalle hallituskaudelle",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34719,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4137,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34719,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4085,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34719,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4078,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34719,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34719,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34719,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8126,
+       "activityType": "direct",
+       "contactTopicOther": "Kutsu PAMin joka vuotiseen tasa-arvon juhlaan. Paikalla päättäjiä ja muita sidosryhmiä sekä yhteistyökumppaneita",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3832,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3855,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3856,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4137,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4104,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4103,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4141,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4139,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4102,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4101,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4098,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4096,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4094,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4093,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4097,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4168,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4169,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4068,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4067,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4216,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4105,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4214,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4213,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4212,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4210,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4108,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4136,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4135,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4133,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4132,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4131,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4130,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4134,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4129,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4125,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4092,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4091,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4090,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4089,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4088,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4087,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4106,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4085,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4084,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4083,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4082,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4081,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4079,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4258,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4256,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4542,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3826,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3828,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3820,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4078,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4077,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4076,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3854,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4432,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4162,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4163,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4164,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4128,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4015,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4217,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4218,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4220,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4221,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4222,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4223,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4225,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4226,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4227,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4107,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4228,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4235,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4257,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4229,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4230,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4232,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4233,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4234,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4236,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4161,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4201,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4165,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4166,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4167,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4170,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4171,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4172,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4173,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4198,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4174,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4175,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4176,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4199,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4177,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4179,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4180,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4181,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4182,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4183,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4184,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4572,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4185,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4186,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4187,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4188,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4189,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4190,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4191,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4192,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4193,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4194,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4195,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4196,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4197,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4200,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4204,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4206,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4205,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4207,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4237,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5334,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4239,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4240,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4241,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4242,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4243,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4244,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4245,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4246,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4247,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4248,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4249,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4250,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4251,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4252,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4253,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4254,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4150,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4149,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4148,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4147,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4145,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4144,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4142,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4138,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4140,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4075,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4073,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4072,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4071,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4069,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4126,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4124,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4123,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4122,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4121,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4120,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4119,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4118,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4117,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4266,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4265,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4264,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4262,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4263,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4231,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4261,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4260,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4259,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4157,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4255,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4151,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 6296,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4152,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4153,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4154,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4155,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4156,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4064,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4470,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3930,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3929,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4352,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4353,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3989,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4032,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4576,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4293,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4433,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4368,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4373,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3958,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4503,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3992,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4435,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4504,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34720,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4428,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34720,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8126,
+       "activityType": "direct",
+       "contactTopicOther": "veronumeron laajentaminen koskemaan kiinteistöpalvelualaa ja ravintola-alaa",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34721,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4343,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34721,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 3823,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34721,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8126,
+       "activityType": "direct",
+       "contactTopicOther": "PAMilaisten luottamusmiesten vierailu työministeriöön",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34722,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34722,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8126,
+       "activityType": "direct",
+       "contactTopicOther": "Alkoholilainsäädännön muuttaminen ja alkoholin kotiinkuljetuksen mahdollistaminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34723,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34723,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 5339,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34723,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8126,
+       "activityType": "direct",
+       "contactTopicOther": "työperäisen hyväksikäytön kitkeminen työelämästä ja siihen liittyvät toimet",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34724,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34724,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4343,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34724,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "5759d8fd94b869693923fba475d6d59796d288f626cde02b0dc1185164ed0fa8",
+    "observedVia": "live"
+   }
+  ]
+ },
  "PAT-25-2027-T": {
   "key": "PAT-25-2027-T",
   "versions": [
@@ -15844,6 +19008,49 @@
     "firstSeen": "2026-08-07",
     "hash": "030b50a1174de207c06a36f226b1258618ff291230a16c1166e4444f29971415",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "POR-26-7541-T": {
+  "key": "POR-26-7541-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-28",
+     "companyId": "0804891-4",
+     "companyName": "Porin Yrittäjät r.y.",
+     "companyType": "company_id",
+     "createdAt": "2026-08-28",
+     "diaryNumber": "POR-26-7541-T",
+     "id": 7541,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "fdf275615d7976edd9a3cfff1e75c7d7809ca04227a2bf6e5b30df5538842969",
+    "observedVia": "live"
    }
   ]
  },
@@ -16142,7 +19349,50 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "3016a4632efcc6611297262428b10a895ac1fe19f7671b4f4a43ab123a22c889",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-07-08",
+     "companyId": null,
+     "companyName": "QIC European Investment Services Limited",
+     "companyType": "other_company_id",
+     "createdAt": "2026-07-08",
+     "diaryNumber": "QIC-26-6596-T",
+     "id": 6596,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Financial services",
+     "otherCompanyId": "GB07804418",
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "75ddbd7219b650ab6d56d030f3e096f9c6b9a28548cb97368d20dfe87263c334",
+    "observedVia": "live"
    }
   ]
  },
@@ -16631,6 +19881,49 @@
     "firstSeen": "2026-08-07",
     "hash": "bf4a06b6b6373b2ab617cd62e9ee7a7902ad95ceae031078df0b7e8a952d2c2c",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "SAT-26-7415-T": {
+  "key": "SAT-26-7415-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-08-27",
+     "companyId": "0137281-8",
+     "companyName": "Satakunnan Osuuskauppa",
+     "companyType": "company_id",
+     "createdAt": "2026-08-27",
+     "diaryNumber": "SAT-26-7415-T",
+     "id": 7415,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Erikoistumaton elintarvikkeiden, juomien tai tupakan vähittäiskauppa",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "aa534a263c1db1a1abdddf6650d4b9f5fb597ad28f752fa5707c01fe678ebdbb",
+    "observedVia": "live"
    }
   ]
  },
@@ -19460,6 +22753,990 @@
    }
   ]
  },
+ "SUO-26-7287-T": {
+  "key": "SUO-26-7287-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-25",
+     "companyId": "1481383-8",
+     "companyName": "Suomen Lukiolaisten Liitto ry:n Helsingin Piiri ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-25",
+     "diaryNumber": "SUO-26-7287-T",
+     "id": 7287,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "a2b20544551f12f6302664a858a5ebc94b95e34e4e30f54af5c91cfaae29675d",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-7379-T": {
+  "key": "SUO-26-7379-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-26",
+     "companyId": "0685202-8",
+     "companyName": "Suomen Hiihtokeskusyhdistys ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-26",
+     "diaryNumber": "SUO-26-7379-T",
+     "id": 7379,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Liikunta- ja urheiluseurojen toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "3b6b7257251dacaa6682501a86e384f722c73e4f97a316cbe635c5c507fdcc01",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-7409-T": {
+  "key": "SUO-26-7409-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-08-26",
+     "companyId": "2314127-9",
+     "companyName": "Suomen Lukiolaisten Liitto ry:n Hämeen piiri ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-26",
+     "diaryNumber": "SUO-26-7409-T",
+     "id": 7409,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "aab9d2fe1ac000ddff6b3398ddce740b99334f2aebce4ab4149164b22d428d1d",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-7467-T": {
+  "key": "SUO-26-7467-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-27",
+     "companyId": "0202094-5",
+     "companyName": "Suomen apteekkariliitto - Finlands apotekareförbund r.y.",
+     "companyType": "company_id",
+     "createdAt": "2026-08-27",
+     "diaryNumber": "SUO-26-7467-T",
+     "id": 7467,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattialajärjestöjen toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 7467,
+      "createdAt": "2026-08-20",
+      "id": 187,
+      "lobbying": {
+       "employeeTotal": 8,
+       "externalLobbyingGuidanceCosts": 24276.72,
+       "manYears": "between_one_and_three",
+       "marketingCosts": "between_1000_and_4999",
+       "representationCosts": "between_1000_and_4999"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7467,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-08-27",
+        "en": null,
+        "fi": "Lääkkeet ja apteekkitalous -hanke",
+        "id": 4306,
+        "projectId": "STM076:00/2024",
+        "sv": "Projekt inom apoteksekonomi och läkemedelsdistribution"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4312,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting",
+          "phone",
+          "online"
+         ],
+         "contactedTargetId": 4314,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4131,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4342,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4343,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4135,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "online",
+          "mail"
+         ],
+         "contactedTargetId": 4198,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4429,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4354,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4181,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4206,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4239,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "mail",
+          "phone"
+         ],
+         "contactedTargetId": 4263,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "phone",
+          "meeting",
+          "social_media"
+         ],
+         "contactedTargetId": 4288,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4562,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "online",
+          "mail"
+         ],
+         "contactedTargetId": 4259,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4540,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5343,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4200,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4340,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4132,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30867,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4301,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-27",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 30867,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7467,
+       "activityType": "direct",
+       "contactTopicOther": "Apteekkitoiminnan pitkäjänteinen ja vastuullinen kehittäminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4259,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4340,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4312,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4131,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4342,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4343,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4135,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4200,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "social_media"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4133,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5329,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4198,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4429,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4354,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4282,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30868,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4186,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-27",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 30868,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7467,
+       "activityType": "direct",
+       "contactTopicOther": "Digi- ja väestötietoviraston apteekkitoimintaan kohdistamat maksut",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4288,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4540,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4345,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4340,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4259,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5335,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3962,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4263,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 30869,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4239,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-27",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 30869,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "5249100ad9b093538a8e6f532064de4457a5863987b8c43c0498357895f22872",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-8170-T": {
+  "key": "SUO-26-8170-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "0202170-2",
+     "companyName": "Suomen Kotiseutuliitto ry, ruotsiksi Finlands Hembygdsförbund rf",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "SUO-26-8170-T",
+     "id": 8170,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8170,
+      "createdAt": "2026-09-02",
+      "id": 676,
+      "lobbying": {
+       "employeeTotal": 2,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8170,
+       "activityType": "direct",
+       "contactTopicOther": "Seurantalojen korjausavustus. Suomen Kotiseutuliitto hoitaa avustusta OKM:n toimeksiannosta, rahoituksella ja ohjauksella. Avustusta koordinoivassa seurantaloasiain neuvottelukunnassa on edustajat mm. OKM:stä ja YM:stä. Korjausavustusjärjestelmä palkittiin vuonna 2024 Euroopan kulttuuriperintöpalkinnolla.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34848,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34848,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4561,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34848,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4363,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34848,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4514,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34848,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5334,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34848,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5328,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34848,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8170,
+       "activityType": "direct",
+       "contactTopicOther": "Euroopan kulttuuriympäristöpäivät. Suomen Kotiseutuliitto hoitaa tapahtuman koordinointia sopimusperustaisesti YM:n kanssa.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34849,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "online",
+          "phone"
+         ],
+         "contactedTargetId": 4514,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34849,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8170,
+       "activityType": "direct",
+       "contactTopicOther": "Kulttuuriympäristöviestijöiden (epävirallinen) yhteistyöryhmä Kyvyt. Ryhmässä on mukana OKM:n ja YM:n virkamiehiä.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34850,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting"
+         ],
+         "contactedTargetId": 4514,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34850,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting"
+         ],
+         "contactedTargetId": 4363,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34850,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting"
+         ],
+         "contactedTargetId": 4112,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34850,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8170,
+       "activityType": "direct",
+       "contactTopicOther": "Suomen kotiseutuarkistojen asema, merkitys arkistokentässä ja niiden pitkän tähtäimen kehittäminen.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34851,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4561,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34851,
+         "contactMethods": [
+          "mail",
+          "online"
+         ],
+         "contactedTargetId": 4363,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34851,
+         "contactMethods": [
+          "mail",
+          "online"
+         ],
+         "contactedTargetId": 4514,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34851,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "a84ef2e2054ebe838a378dfc47bcbee89ef4a5a811bd410bffd5957c5b67a33d",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-8271-T": {
+  "key": "SUO-26-8271-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-09-16",
+     "companyId": "0202300-3",
+     "companyName": "Suomen Taitoluisteluliitto ry",
+     "companyType": "company_id",
+     "createdAt": "2026-09-16",
+     "diaryNumber": "SUO-26-8271-T",
+     "id": 8271,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muu urheilutoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "bbd0fd52072f29adf2cfe2da9ae64797fa52fb02139ea76d1dcfbaf441c42afe",
+    "observedVia": "live"
+   }
+  ]
+ },
  "SVE-25-2227-T": {
   "key": "SVE-25-2227-T",
   "versions": [
@@ -19543,6 +23820,194 @@
     "firstSeen": "2026-08-07",
     "hash": "ada20fdac4939f23aaf6abc47d92f14a702b22e1e4b94c84c58da324d11019bd",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "TAI-26-7906-T": {
+  "key": "TAI-26-7906-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "2220818-7",
+     "companyName": "Taiteen perusopetusliitto TPO ry, Förbundet för grundläggande konstundervisning i Finland rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "TAI-26-7906-T",
+     "id": 7906,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7906,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Taiteen perusopetusta koskevan lainsäädännön uudistaminen, jatkovalmistelu",
+        "id": 4650,
+        "projectId": "OKM034:00/2025",
+        "sv": "Revidering av lagstiftningen om grundläggande konstundervisning, fortsatt beredning"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4352,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4355,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4338,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4067,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4345,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4220,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4226,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4149,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4212,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4093,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 6296,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33603,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4561,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 33603,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "4f8509956e51a51b43b5ad87adfe85e71c10e0c9ef809af8b748fb5b8b992820",
+    "observedVia": "live"
    }
   ]
  },
@@ -22999,6 +27464,2345 @@
     "formatOnly": true,
     "hash": "0f522998bfc5bff7ced8795334e0a97bb8b8d2182c87e9bfda184690f10144e3",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "VEL-26-8073-T": {
+  "key": "VEL-26-8073-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2025-07-06",
+     "companyId": "2539105-2",
+     "companyName": "Velipoika Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "VEL-26-8073-T",
+     "id": 8073,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muu liikkeenjohdon konsultointi",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": false,
+      "createdAt": "2024-06-20",
+      "id": 3,
+      "reportingEndDate": "2025-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2025-01-01T00:00:00.000Z",
+      "signUpEndDate": "2025-08-31T00:00:00.000Z",
+      "signUpStartDate": "2025-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 3,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "e301ce63346697bc2ec86c976cb3da6367e44568a723377b8aef491fa5759841",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "YLI-26-7826-T": {
+  "key": "YLI-26-7826-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "0202637-8",
+     "companyName": "Ylioppilaiden terveydenhoitosäätiö sr",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "YLI-26-7826-T",
+     "id": 7826,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Lääkäriasemat, yksityislääkärit ja vastaavat erikoislääkäripalvelut",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7826,
+       "activityType": "direct",
+       "contactTopicOther": "Korkeakouluopiskelijoiden opiskeluterveydenhuollon valtakunnallisen toiminnan ajankohtaiset ja esittely",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32757,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32757,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4374,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32757,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4107,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32757,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4187,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32757,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4544,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32757,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4177,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32757,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7826,
+       "activityType": "direct",
+       "contactTopicOther": "YTHS:n lainsäädännön kehittäminen (ratkaisut tulevaisuuden opiskeluterveydenhuolloksi, hallitusohjelmatavoitteet 2027)",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4188,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5328,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5343,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4144,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4286,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4288,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4182,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5329,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5342,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32758,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7826,
+       "activityType": "direct",
+       "contactTopicOther": "Yhteisöterveyden ja korkeakouluyhteisöjen hyvinvoinnin kehittäminen (pilottihanke)",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4353,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4362,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4361,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4350,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32759,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7826,
+       "activityType": "direct",
+       "contactTopicOther": "Toivotun lapsiluvun tukemisen pilottihanke hedelmällisyystietouden vahvistamiseksi korkeakouluopiskelijoiden keskuudessa",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32760,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32760,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32760,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7826,
+       "activityType": "direct",
+       "contactTopicOther": "Palveluvalikoimaneuvosto ja mielenterveyspalvelut (terapiatakuun toteutuminen ja menetelmät)",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32761,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4303,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32761,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7826,
+       "activityType": "direct",
+       "contactTopicOther": "O 41/2023 vp Terveydenhuollon toimivuus, tarkastusvaliokunnan mietintö",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32762,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4217,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32762,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "b36fb34bf63f426fc24798dc944106f30a787d931eb2083dbb85ab4e7d9a054d",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "ÄID-26-6818-T": {
+  "key": "ÄID-26-6818-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-08-07",
+     "companyId": "1650783-4",
+     "companyName": "Äidit irti synnytysmasennuksesta ÄIMÄ ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-07",
+     "diaryNumber": "ÄID-26-6818-T",
+     "id": 6818,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 6818,
+      "createdAt": "2026-08-07",
+      "id": 111,
+      "lobbying": {
+       "employeeTotal": 1,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "7ab7832ee4f35f6b0fff215c9312e625ee65ce1c8f4dee99e228686f3efe7e7e",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "ÅLA-26-7585-T": {
+  "key": "ÅLA-26-7585-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-28",
+     "companyId": "0280695-6",
+     "companyName": "Ålands Penningautomatförening",
+     "companyType": "company_id",
+     "createdAt": "2026-08-28",
+     "diaryNumber": "ÅLA-26-7585-T",
+     "id": 7585,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Rahapeli- ja vedonlyöntipalvelut",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 7585,
+      "createdAt": "2026-08-24",
+      "id": 218,
+      "lobbying": {
+       "employeeTotal": 2,
+       "externalLobbyingGuidanceCosts": 75000,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "between_5000_and_9999"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7585,
+       "activityType": "direct",
+       "contactTopicOther": "Siirtyminen rahapelialalla lisenssijärjestelmään; vastuullisen pelaamisen ratkaisut ja työkalut, kanavointiaste, toimilupamenettelyt",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4243,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4250,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4264,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4240,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4262,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4249,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 5334,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4450,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4352,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting",
+          "social_media"
+         ],
+         "contactedTargetId": 4133,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting",
+          "social_media",
+          "phone",
+          "mail"
+         ],
+         "contactedTargetId": 4132,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting",
+          "social_media"
+         ],
+         "contactedTargetId": 4428,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4124,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4072,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4098,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4225,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting",
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4189,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail",
+          "social_media",
+          "meeting"
+         ],
+         "contactedTargetId": 5338,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4157,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4251,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4128,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4015,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4173,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4198,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4174,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4187,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4188,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4190,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4191,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4192,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4193,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4204,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4206,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4205,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4102,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4139,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4141,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4103,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4104,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4137,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4138,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4140,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4217,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4218,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4220,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4221,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4222,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4223,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4226,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4227,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4107,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4228,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4235,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4257,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4229,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4230,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4232,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4233,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4234,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4236,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4161,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4201,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4162,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4163,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4164,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4165,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4166,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4167,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4168,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4169,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4170,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4171,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4172,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4175,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4176,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4199,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4177,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4179,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4180,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4181,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4182,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4183,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4184,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4572,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4185,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4186,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4194,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4195,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4196,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4197,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4200,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4207,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4237,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4239,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4241,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4242,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4244,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4245,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4246,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4247,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4248,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4252,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4253,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4254,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4255,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4256,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4258,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4259,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4260,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4261,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4231,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4263,
+         "otherContactMethod": "Kirje"
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4265,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4266,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4117,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4118,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4119,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4120,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4121,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4122,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4123,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4126,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4125,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4129,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4134,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4130,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4131,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4135,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4136,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4108,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4210,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4212,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4213,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4214,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4105,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4216,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4067,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4068,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4069,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4071,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4073,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4075,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4076,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4077,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4078,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4097,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4079,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4081,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4082,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4083,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4084,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4085,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4106,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4087,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4088,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4089,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4090,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4091,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4093,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4092,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4094,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4096,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4101,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4142,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4144,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4145,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4147,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4148,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4149,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4150,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4151,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 6296,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4152,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4153,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4154,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4156,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4155,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4064,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4470,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3930,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3929,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4353,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3989,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4032,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4293,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4576,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4542,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3826,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3828,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3820,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3832,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3855,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3856,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3854,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4432,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4433,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4368,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4373,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3958,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31415,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4503,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-28",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31415,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "33884f7806f2a608d3aec5e9dc62592ef809db4a52aad9cd38c229ec1ac3b844",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "ŠKO-26-8004-T": {
+  "key": "ŠKO-26-8004-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "1098257-0",
+     "companyName": "ŠKODA TRANSTECH Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "ŠKO-26-8004-T",
+     "id": 8004,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Raideliikenteen kulkuneuvojen valmistus",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "5178b60b37bcfa595fe7b951d3ba4d43dbc0c56f5af1bef6e29ac859b6376de9",
+    "observedVia": "live"
    }
   ]
  }

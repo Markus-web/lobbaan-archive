@@ -778,7 +778,50 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "f96bf60d9831a2a449a64b9bdd4ce7468347f947c2f8415e8c1e24ea5c08017b",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-07-01",
+     "companyId": "1044854-6",
+     "companyName": "Aspa-säätiö sr",
+     "companyType": "company_id",
+     "createdAt": "2026-07-01",
+     "diaryNumber": "ASP-26-6452-T",
+     "id": 6452,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Kehitysvammaisten asumis- ja laitospalvelut",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "c6b4ccdc2b75923b2c072b4f95bb582878c4310e2c09d3a6d4d1d73853f566ba",
+    "observedVia": "live"
    }
   ]
  },
@@ -822,6 +865,49 @@
     "firstSeen": "2026-08-07",
     "hash": "34e2cc0b4552edb2835607b701bdf0da395614c2e8c4f5592132eb999b536a2e",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "BIT-26-6925-T": {
+  "key": "BIT-26-6925-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-14",
+     "companyId": "1737565-0",
+     "companyName": "Bittium Wireless Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-08-14",
+     "diaryNumber": "BIT-26-6925-T",
+     "id": 6925,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Tekniikan tutkimus ja kehittäminen",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "b4e3d63a06c9c8f848cdfe310a942231739a385a0b8fba0d62dd50b950a63662",
+    "observedVia": "live"
    }
   ]
  },
@@ -1675,7 +1761,50 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "7fac70ec4a41423d4be7af995a4ca101e019993fe66974094bdba15cbf4ccb7f",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-03",
+     "companyId": "2480326-2",
+     "companyName": "Finnish Business Angels Network ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-03",
+     "diaryNumber": "FIN-26-6735-T",
+     "id": 6735,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "5a88c421b9025c29f566cec0ac5654ddbd8f741e891fb3ceac77c065ba161b7f",
+    "observedVia": "live"
    }
   ]
  },
@@ -1768,6 +1897,49 @@
     "firstSeen": "2026-08-07",
     "hash": "dbe730c04494956f631bdfdee79a79a456b0eb6e74782093f781b76ffc006e93",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "GOS-26-7201-T": {
+  "key": "GOS-26-7201-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-24",
+     "companyId": "2682149-9",
+     "companyName": "Go Strong Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-08-24",
+     "diaryNumber": "GOS-26-7201-T",
+     "id": 7201,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muu liikkeenjohdon konsultointi",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "a6b11cd10bb139a692b2d52f74472f59a911c8dd8da8ea0f003f4dab23937aab",
+    "observedVia": "live"
    }
   ]
  },
@@ -2565,7 +2737,646 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "62fb949609b98a317c4cee770aa92b13efcfc6d359a1222e30d479adcb008063",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-05",
+     "companyId": "1778388-1",
+     "companyName": "Haus Kehittämiskeskus Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-08-05",
+     "diaryNumber": "HAU-26-6780-T",
+     "id": 6780,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Koulutuskeskukset",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 6780,
+      "createdAt": "2026-08-05",
+      "id": 100,
+      "lobbying": {
+       "employeeTotal": 45,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "over_ten",
+       "marketingCosts": "between_1000_and_4999",
+       "representationCosts": "between_1000_and_4999"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 6780,
+       "activityType": "direct",
+       "contactTopicOther": "Koulutus- ja kehittämispalveluiden tarjoaminen lakisääteisille asiakkaillemme valtionhallinnossa. Tuemme valtionhallintoa osaamisen kehittämisessä, koulutuksessa ja johtamisessa. Toiminta ja yhteydenpito eri ministeriöiden ja valtion virastojen virkamiestasolle on jatkuvaa erilaisilla yhteydenpitotavoilla (sähköposti, puhelin, etä ja läsnätapaamiset).",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4282,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4031,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3845,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3817,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3988,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4469,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4063,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4426,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3957,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 3928,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4337,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4284,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28645,
+         "contactMethods": [
+          "mail",
+          "online",
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4502,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-05",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28645,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "4abd21e10009a67188618bfbadc99a6d99c09f135949b975b31fc76de18f34c5",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "HEL-26-7330-T": {
+  "key": "HEL-26-7330-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-26",
+     "companyId": "0830337-2",
+     "companyName": "Helsingin varhaiskasvatuksen opettajat ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-26",
+     "diaryNumber": "HEL-26-7330-T",
+     "id": 7330,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattiyhdistysten toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "75c45d9c415f6a72f9462dd719eb4f5537fbb17b402ea1e2ad328f1df0edd4ff",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "ICE-26-8002-T": {
+  "key": "ICE-26-8002-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "2639822-1",
+     "companyName": "ICEYE Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "ICE-26-8002-T",
+     "id": 8002,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Yhdyskuntasuunnittelu",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8002,
+      "createdAt": "2026-08-31",
+      "id": 551,
+      "lobbying": {
+       "employeeTotal": 4,
+       "externalLobbyingGuidanceCosts": 54000,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8002,
+       "activityType": "direct",
+       "contactTopicOther": "Alustus liittyen Suomen kasvuyhtiöihin ja innovaatoiden ja teknologian kehitykseen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34230,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4180,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34230,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8002,
+       "activityType": "direct",
+       "contactTopicOther": "ICEYE Oy:n toimintaan liittyvät erityisjärjestelyt",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34231,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4437,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34231,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4372,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34231,
+         "contactMethods": [
+          "meeting",
+          "phone"
+         ],
+         "contactedTargetId": 4451,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34231,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4320,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34231,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8002,
+       "activityType": "direct",
+       "contactTopicOther": "Ulkomaankauppaan ja vienninedistämiseen liittyvät kysymykset",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34232,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4170,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34232,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3846,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34232,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3893,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34232,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4019,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34232,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 3990,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34232,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 3859,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34232,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3845,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34232,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8002,
+       "activityType": "direct",
+       "contactTopicOther": "ICEYE Oy:n ajankohtaiset asiat ja avaruustoimintalain uudistukseen liittyvät asiat",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4269,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3842,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3825,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4145,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4148,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4169,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4190,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4185,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4439,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4065,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3988,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34233,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4451,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34233,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8002,
+       "activityType": "direct",
+       "contactTopicOther": "Kutsu keskustelutilaisuuteen liittyen kasvun vauhdittamiseen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34234,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4433,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34234,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4503,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34234,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34234,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "05ede36173afb1d9e9acb9c11789c3f4d405bb7c815e0f4728100d595a7e8161",
+    "observedVia": "live"
    }
   ]
  },
@@ -2740,6 +3551,176 @@
    }
   ]
  },
+ "JAL-26-8286-T": {
+  "key": "JAL-26-8286-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-09-17",
+     "companyId": "1041866-2",
+     "companyName": "Jalkapallon Pelaajayhdistys ry",
+     "companyType": "company_id",
+     "createdAt": "2026-09-17",
+     "diaryNumber": "JAL-26-8286-T",
+     "id": 8286,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Ammattialajärjestöjen toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8286,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-09-17",
+        "en": null,
+        "fi": "Hallituksen esitys maatalousyrittäjän eläkelain ja maatalousyrittäjän työtapaturma- ja ammattitautilain muuttamisesta",
+        "id": 4794,
+        "projectId": "STM050:00/2026",
+        "sv": "Regeringens proposition med förslag till lagar om ändring av lagen om pension för lantbruksföretagare och lagen om lantbruksföretagares olycksfall i arbetet och yrkessjukdomar"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35078,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35078,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35078,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4344,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-17",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35078,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8286,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-09-17",
+        "en": null,
+        "fi": "Hallituksen esitys laiksi urheilijan tapaturma- ja eläketurvasta annetun lain muuttamisesta",
+        "id": 4795,
+        "projectId": "STM085:00/2025",
+        "sv": "Regeringens proposition med förslag till lag om ändring av lagen om olycksfalls- och pensionsskydd för idrottsutövare"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35079,
+         "contactMethods": [
+          "meeting",
+          "mail",
+          "social_media"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35079,
+         "contactMethods": [
+          "meeting",
+          "mail",
+          "social_media"
+         ],
+         "contactedTargetId": 4344,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35079,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-17",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35079,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8286,
+       "activityType": "direct",
+       "contactTopicOther": "Urheilijarahaston omien varojen tulouttamisen joutavoittaminen.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35080,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 3959,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-17",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35080,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "abd33aaf2777e9625c436af60d882fc365e63535a9f1f4571a7154ebe595f285",
+    "observedVia": "live"
+   }
+  ]
+ },
  "KAA-25-3067-T": {
   "key": "KAA-25-3067-T",
   "versions": [
@@ -2866,6 +3847,1468 @@
     "firstSeen": "2026-08-07",
     "hash": "024ee48ab9e988d88f0e4164aef88f2539aaae487c23265ec9986276aa1ec8bd",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "KES-26-7606-T": {
+  "key": "KES-26-7606-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-28",
+     "companyId": "0196826-7",
+     "companyName": "Keskinäinen Vakuutusyhtiö Fennia",
+     "companyType": "company_id",
+     "createdAt": "2026-08-28",
+     "diaryNumber": "KES-26-7606-T",
+     "id": 7606,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Vahinkovakuutusyhtiöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 7606,
+      "createdAt": "2026-08-28",
+      "id": 389,
+      "lobbying": {
+       "employeeTotal": 2,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [
+      {
+       "createdAt": "2026-08-28",
+       "title": "Entrepreneur's Fennia"
+      },
+      {
+       "createdAt": "2026-08-28",
+       "title": "Yrittäjän Fennia"
+      },
+      {
+       "createdAt": "2026-08-28",
+       "title": "Yrittäjäinvakuutus-Fennia"
+      },
+      {
+       "createdAt": "2026-08-28",
+       "title": "Företagarens Fennia"
+      }
+     ],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7606,
+       "activityType": "direct",
+       "contactTopicOther": "Asian aihe käsittää yleisesti verotuksellisiin ja eläkkeisiin liittyviä asioita.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31535,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4432,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31535,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4168,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31535,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4185,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31535,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4217,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31535,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4228,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-28",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31535,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7606,
+       "activityType": "direct",
+       "contactTopicOther": "Finanssiala ry / Hyvinvoinnin rahoituksen työryhmä Suomi Areenassa.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31536,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31536,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4504,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31536,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4352,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31536,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4342,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31536,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-28",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31536,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "ef58540bde363f923b5e37fb9c9125335389fdae520fcfd36c193509ad6670e2",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "KIN-26-7810-T": {
+  "key": "KIN-26-7810-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": null,
+     "companyName": "Kindred Group plc",
+     "companyType": "other_company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "KIN-26-7810-T",
+     "id": 7810,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Online-rahapelit",
+     "otherCompanyId": "MT26127",
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7810,
+       "activityType": "direct",
+       "contactTopicOther": "Rahapelilain toimeenpano ja alan sääntelykysymykset",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4437,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4370,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3822,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4434,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 6292,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4435,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4197,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4166,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4087,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4071,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4082,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4232,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4228,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4175,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3830,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4430,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4563,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3850,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 6293,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5329,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32617,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5339,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32617,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "eba0a6131a2ee003f8ea5b154bbcbed97892f504989c28eed03bd65e2fd00746",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "KON-26-8141-T": {
+  "key": "KON-26-8141-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-24",
+     "companyId": "0201722-8",
+     "companyName": "Koneyrittäjät ry",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "KON-26-8141-T",
+     "id": 8141,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Elinkeinoelämän ja työnantajajärjestöjen toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8141,
+      "createdAt": "2026-09-02",
+      "id": 647,
+      "lobbying": {
+       "employeeTotal": 5,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "between_one_and_three",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "between_1000_and_4999"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Ympäristölainsäädäntö, luonnonsuojelulainsäädännön kehittäminen ja lintujen pesimäaika",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 3821,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4495,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4250,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4262,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4119,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4120,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4249,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34756,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34756,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Energia- ja ilmastopolitiikka, jakelijoiden päästökaupan hyvitysjärjestelmä",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34757,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4484,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34757,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34757,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 3839,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34757,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34757,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4471,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34757,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Ympäristösuojelulainsäädännön kehittäminen ja soveltaminen, kasvu- ja kuiviketurvetuotannon luvitus",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4250,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4262,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3821,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4484,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34758,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4489,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34758,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Luonnonsuojelulainsäädännön kehittäminen, Suomen ennallistamissuunnitelma",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4528,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 3821,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4250,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4565,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4262,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4120,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4119,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4249,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34759,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4470,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34759,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Julkinen rahoitus ja sen kohdentaminen tie- ja ratahankkeisiin",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34760,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4119,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34760,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4249,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34760,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3984,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34760,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3971,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34760,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34760,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4262,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34760,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4120,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34760,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Metsäalaa koskeva lainsäädäntö, metsälain kehittäminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34761,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34761,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34761,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4470,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34761,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "AdBlue-järjestelmien vaikeudet talvella työkoneissa",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34762,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4225,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34762,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4138,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34762,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4164,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34762,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4088,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34762,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4244,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34762,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4064,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34762,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4065,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34762,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3986,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34762,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Julkinen rahoitus ja sen kohdentaminen kestävän metsätalouden harjoittamiseen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34763,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4496,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34763,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34763,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34763,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Energiatehokkuuslaki ja yritysten energiakatselmukset",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34764,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 3821,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34764,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 3839,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34764,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34764,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4565,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34764,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Energiakriisin aiheuttamien haasteiden kompensointi koneyrittäjille",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4433,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4373,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4352,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3820,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4470,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4064,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4565,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4504,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34765,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34765,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Metsäalaa koskeva lainsäädäntö sekä metsäkatoasetus",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34766,
+         "contactMethods": [
+          "phone",
+          "meeting"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34766,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4470,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34766,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Vesilainsäädännön kehittäminen ja sen soveltaminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34767,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34767,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Sopimusten maksuehtoja koskevan lainsäädännön kehittäminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34768,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34768,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3984,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34768,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4262,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34768,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4119,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34768,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4120,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34768,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4249,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34768,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Energia- ja ilmastopolitiikka sekä energiaturpeen verotus",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34769,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4565,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34769,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4262,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34769,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 3821,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34769,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 3839,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34769,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4192,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34769,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4175,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34769,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4336,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34769,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8141,
+       "activityType": "direct",
+       "contactTopicOther": "Tieliikennelain kehittäminen sekä soveltaminen Suomessa",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34770,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4547,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-02",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34770,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "3e430e57f9f4f697f43675196eec01b1d02d0530f5d75711ea30977a925c7b47",
+    "observedVia": "live"
    }
   ]
  },
@@ -4905,6 +7348,1471 @@
    }
   ]
  },
+ "LÄÄ-26-8283-T": {
+  "key": "LÄÄ-26-8283-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-09-16",
+     "companyId": "0275947-5",
+     "companyName": "Lääkäripalveluyritykset ry, Läkarföretagen rf",
+     "companyType": "company_id",
+     "createdAt": "2026-09-16",
+     "diaryNumber": "LÄÄ-26-8283-T",
+     "id": 8283,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Ammattialajärjestöjen toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8283,
+      "createdAt": "2026-09-16",
+      "id": 721,
+      "lobbying": {
+       "employeeTotal": 2,
+       "externalLobbyingGuidanceCosts": 30000,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "between_1000_and_4999"
+      },
+      "lobbyingGuidance": {
+       "revenue": 30000
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8283,
+       "activityType": "direct",
+       "contactTopicOther": "Sote-alojen lainsäädäntöhankkeet. soten järjestämislaki ja valvontalaki sekä terveydenhuoltolaki\n + tartuntatautilaki ja siihen liittyvät asetukset.\n\nMyös muut lääkäripalveluyritysten toimintaympäristöön vaikuttavat lainsäädäntöhankkeet, mm. valmiuslaki ja hankintalaki",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "meeting",
+          "social_media",
+          "online"
+         ],
+         "contactedTargetId": 4271,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4227,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4161,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4166,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4172,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4173,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4198,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4177,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4182,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4188,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4190,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4191,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4200,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4206,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4207,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4131,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4064,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3930,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4289,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4541,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4543,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4288,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4542,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4290,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4304,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3826,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3830,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3856,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4439,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3966,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4368,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4369,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35075,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4553,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-16",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35075,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8283,
+       "activityType": "direct",
+       "contactTopicOther": "Sote-alojen lainsäädäntöhankkeet. soten järjestämislaki ja valvontalaki sekä terveydenhuoltolaki\n + tartuntatautilaki ja siihen liittyvät asetukset.\n\nMyös muut lääkäripalveluyritysten toimintaympäristöön vaikuttavat lainsäädäntöhankkeet, mm. valmiuslaki ja hankintalaki",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "meeting",
+          "social_media",
+          "online"
+         ],
+         "contactedTargetId": 4271,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4227,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4161,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4166,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4172,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4173,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4198,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4177,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4182,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4188,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4190,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4191,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4200,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4206,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4207,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4131,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4064,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3930,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4289,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4541,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4543,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4288,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4542,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4290,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4304,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3826,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3830,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3856,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4439,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3966,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4368,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4369,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35076,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4553,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-16",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35076,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8283,
+       "activityType": "direct",
+       "contactTopicOther": "Sote-alojen lainsäädäntöhankkeet. soten järjestämislaki ja valvontalaki sekä terveydenhuoltolaki\n + tartuntatautilaki ja siihen liittyvät asetukset.\n\nMyös muut lääkäripalveluyritysten toimintaympäristöön vaikuttavat lainsäädäntöhankkeet, mm. valmiuslaki ja hankintalaki",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4064,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3930,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4289,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4541,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4543,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4288,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4542,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4290,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4304,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3826,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3829,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3830,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3856,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "meeting",
+          "social_media",
+          "online"
+         ],
+         "contactedTargetId": 4271,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4227,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4161,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4166,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4172,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4173,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4198,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4177,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4182,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4188,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4190,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4191,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4200,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4206,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4207,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4131,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4439,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 3966,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4368,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4369,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35077,
+         "contactMethods": [
+          "mail",
+          "phone",
+          "social_media"
+         ],
+         "contactedTargetId": 4553,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-16",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35077,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "4ee902ffc9dc7582d048e18bcaac8dfa2331bf26662b3ce3fe74b044ac726511",
+    "observedVia": "live"
+   }
+  ]
+ },
  "MEN-26-4825-T": {
   "key": "MEN-26-4825-T",
   "versions": [
@@ -5668,6 +9576,257 @@
     "firstSeen": "2026-08-07",
     "hash": "6472aad8f909ae829308d4f2fe758aa218a5a2bd9ea2b366b595d75d5234f2fa",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "MET-26-8042-T": {
+  "key": "MET-26-8042-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-26",
+     "companyId": "0347443-9",
+     "companyName": "METO - Metsäalan Asiantuntijat ry, METO - Skogsbranschens Experter rf",
+     "companyType": "company_id",
+     "createdAt": "2026-09-01",
+     "diaryNumber": "MET-26-8042-T",
+     "id": 8042,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattiyhdistysten toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8042,
+      "createdAt": "2026-09-01",
+      "id": 571,
+      "lobbying": {
+       "employeeTotal": 4,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8042,
+       "activityType": "direct",
+       "contactTopicOther": "Esityksiä tulevan hallitusohjelman tavoitteiksi. Pääteemat: Suomen huoltovarmuuden säilyminen ja kehittyminen uudessa maailmanpoliittisessa tilanteessa, tutkimus-, kehitys- ja innovaatiorahoituksen määrän nostaminen vähintään 4 %:iin bkt:stä, nykymetsien hiilinielujen kasvattaminen kestävästi toteutettujen hakkuiden ja metsien hoidon avulla.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4129,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4134,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4156,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4217,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4015,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4218,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4236,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4476,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4574,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4092,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4192,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4175,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4142,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4237,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5337,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5329,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34435,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5335,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-01",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34435,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "06f9bc5ede9394bb9380b5ebeddc1e0b0aa54f760507a493d0d7839a945ad407",
+    "observedVia": "live"
    }
   ]
  },
@@ -8001,6 +12160,49 @@
     "firstSeen": "2026-08-07",
     "hash": "d064e441223b9832d4a54a0442d1f9f5cbdf146cf97c77fb45697141bf6bb0a3",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "OAJ-26-7708-T": {
+  "key": "OAJ-26-7708-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-30",
+     "companyId": "1075162-5",
+     "companyName": "OAJ:n Varsinais-Suomen alueyhdistys ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-30",
+     "diaryNumber": "OAJ-26-7708-T",
+     "id": 7708,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "dffacf848239d773368594096145f0e8403d3004b09d55ef5706b3b635a135af",
+    "observedVia": "live"
    }
   ]
  },
@@ -14686,6 +18888,115 @@
    }
   ]
  },
+ "PYÖ-26-7130-T": {
+  "key": "PYÖ-26-7130-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-24",
+     "companyId": "2662156-9",
+     "companyName": "Pyöräliitto ry, Cykelförbundet rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-24",
+     "diaryNumber": "PYÖ-26-7130-T",
+     "id": 7130,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7130,
+       "activityType": "direct",
+       "contactTopicOther": "Pyöräilyn ja pyöräliikenteen edistäminen, Liikenne 12-suunnitelma",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 29592,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4116,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29592,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4225,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29592,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4089,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29592,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4156,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29592,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4133,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 29592,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4138,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-24",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 29592,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "c7e6ded8a8d1a418eb376edd702e249cabe438cbfb84e4a96c6c530d7b3dff06",
+    "observedVia": "live"
+   }
+  ]
+ },
  "RMC-26-5968-T": {
   "key": "RMC-26-5968-T",
   "versions": [
@@ -14888,6 +19199,1838 @@
     "firstSeen": "2026-08-07",
     "hash": "05f4d7a031ea302d3bbd06b623e3845f12d858e3bdda86b4a993d5062fc4f214",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "SOS-26-7883-T": {
+  "key": "SOS-26-7883-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "0202063-8",
+     "companyName": "Sosiaalialan korkeakoulutettujen ammattijärjestö Talentia ry, Fackorganisationen för högutbildade inom socialbranschen Talentia rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "SOS-26-7883-T",
+     "id": 7883,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattiyhdistysten toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 7883,
+      "createdAt": "2026-08-31",
+      "id": 498,
+      "lobbying": {
+       "employeeTotal": 8,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "between_one_and_three",
+       "marketingCosts": "between_10000_and_24999",
+       "representationCosts": "between_1000_and_4999"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Sosiaali- ja terveydenhuollon ammattihenkilölainsäädännön kokonaisuudistus",
+        "id": 4581,
+        "projectId": "STM096:00/2023",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33313,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33313,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33313,
+         "contactMethods": [
+          "other"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": "Keskustelu kohdatessa"
+        },
+        {
+         "activityNotificationTopicId": 33313,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4301,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33313,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Hallituksen esitys eduskunnalle sosiaalihuollon ammattihenkilöistä annetun lain 12 ja 16 §:n muuttamisesta",
+        "id": 4582,
+        "projectId": "STM044:00/2024",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33314,
+         "contactMethods": [
+          "other"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": "Keskustelu kohdatessa"
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33314,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Vakavasti päihteitä ja väkivaltaa käyttäviä sekä rikoksia tekeviä alaikäisiä nuoria koskevan lastensuojelulainsäädännön uudistamisen valmisteluryhmä",
+        "id": 4583,
+        "projectId": "STM029:00/2024",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33315,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33315,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Hallituksen esitys eduskunnalle laiksi toimeentulotuesta annetun lain muuttamisesta",
+        "id": 4584,
+        "projectId": "STM154:00/2024",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33316,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33316,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33316,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": "Sosionomi YAMK kelpoisuus päiväkodinjohtajaksi. Varhaiskasvatuslakia tulee muuttaa niin, että varhaiskasvatukseen suuntautuneella, sosionomi YAMK -tutkinnon suorittaneella on jatkossakin oikeus toimia päiväkodin johtajan tehtävässä. Hänellä on osaaminen ja valmiudet päiväkodin johtajan tehtävään, mutta nykyisen lain mukaan päiväkodin johtajalta edellytetään kasvatustieteen maisterin tutkintoa vuodesta 2030 alkaen.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33317,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3855,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33317,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4352,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33317,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4355,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33317,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4353,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33317,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4212,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33317,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4119,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33317,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4348,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33317,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Hallituksen esitys eduskunnalle laiksi sosiaalihuoltolain muuttamisesta ja siihen liittyviksi laeiksi",
+        "id": 4585,
+        "projectId": "STM107:00/2023",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33318,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4300,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33318,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4101,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33318,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33318,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4286,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33318,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33318,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4301,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33318,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3924,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33318,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4302,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33318,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": "Talentia puolustaa lastensuojelun sosiaalityöntekijöiden asiakasmitoitusta. siakasmitoitus kertoo, kuinka monen asiakaslapsen vastuutyöntekijänä yksittäinen sosiaalityöntekijä toimii. Vuoden 2024 alusta enimmäismäärä on ollut 30 lasta lapsen asioista vastaavaa sosiaalityöntekijää kohden. Talentian suositus on ollut 25 lasta.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4072,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4300,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3930,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3826,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4368,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4137,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4194,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4078,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4222,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4096,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4204,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3828,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4032,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4206,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4259,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4239,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4125,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4542,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4263,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4226,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4432,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4181,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4200,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4155,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4131,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3966,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33319,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5343,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33319,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": "Talentia ehdottaa konkreettista mallia sosiaalihuollon tutkimus- ja kehittämistoiminnalle – tavoite: asiakaslähtöisemmät, vaikuttavammat ja kustannustehokkaammat palvelut.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33320,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4101,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33320,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33320,
+         "contactMethods": [
+          "other"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": "Keskustelu kohdatessa"
+        },
+        {
+         "activityNotificationTopicId": 33320,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33320,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Hallituksen esitys eduskunnalle laiksi sosiaalihuoltolain muuttamisesta ja siihen liittyviksi laeiksi",
+        "id": 4586,
+        "projectId": "STM107:00/2023",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4286,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 3966,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3930,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3826,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4368,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail",
+          "other"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": "Keskustelu kohdatessa"
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4204,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3828,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4032,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4125,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4542,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4432,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4155,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4301,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3924,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4302,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33321,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5343,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33321,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Hallituksen esitys eduskunnalle laiksi sosiaalihuoltolain muuttamisesta ja siihen liittyviksi laeiksi",
+        "id": 4587,
+        "projectId": "STM107:00/2023",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4137,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail",
+          "other"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": "Keskustelu kohdatessa"
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4078,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4155,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "other"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": "Keskustelu kohdatessa"
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33322,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5343,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33322,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Hallituksen esitys lastensuojelulainsäädännön uudistamiseksi; 2. vaihe",
+        "id": 4588,
+        "projectId": "STM057:00/2025",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3966,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4016,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4137,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4209,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4100,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4095,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4155,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "other"
+         ],
+         "contactedTargetId": 4215,
+         "otherContactMethod": "Keskustelu kohdatessa"
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5339,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5341,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33323,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 5343,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33323,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": "Talentia painottaa, että sosionomien tehtäväkuvaa ja roolia varhaiskasvatuksessa on edelleen selkeytettävä.  Kun sosionomien osaaminen tunnistetaan ja sitä hyödynnetään täysimääräisesti, koko varhaiskasvatuksen laatu paranee. Kyse ei ole ammattiryhmien vastakkainasettelusta, vaan lasten edusta.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4136,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4198,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4093,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4083,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4149,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4254,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4241,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4220,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4179,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4178,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4140,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3959,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4080,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4119,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4226,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4243,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4181,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33324,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 4212,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33324,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Hallituksen esitys eduskunnalle laeiksi terveydenhuoltolain ja sosiaalihuollon ammattihenkilöistä annetun lain muuttamisesta (Kaksiportainen psykoterapiakoulutus)",
+        "id": 4589,
+        "projectId": "STM063:00/2025",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33325,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4362,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33325,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4301,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33325,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": null,
+       "contactTopicProject": {
+        "createdAt": "2026-08-31",
+        "en": null,
+        "fi": "Lainsäädäntöhanke poliisin rikostiedustelua koskevaksi lainsäädännöksi ja siihen liittyväksi lainsäädännöksi, 2. vaihe",
+        "id": 4590,
+        "projectId": "SM033:00/2025",
+        "sv": null
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33326,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4146,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33326,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4074,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33326,
+       "supportQuality": null,
+       "title": null
+      },
+      {
+       "activityNotificationId": 7883,
+       "activityType": "direct",
+       "contactTopicOther": "Sosiaalityön valtion tutkimusrahoituksen leikkausten peruminen ja rahoitustason vahvistaminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33327,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4295,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33327,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3966,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": null,
+       "customerCompanyName": null,
+       "customerOtherCompanyId": null,
+       "customerSupplementaryCompanyNames": [],
+       "id": 33327,
+       "supportQuality": null,
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "20ac1a716dfb78880eda003b2735b5ac82a63a7a6f8c71a91a21ee2508e396da",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SOS-26-7889-T": {
+  "key": "SOS-26-7889-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "0101346-0",
+     "companyName": "SOS-Lapsikylä r.y.",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "SOS-26-7889-T",
+     "id": 7889,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Lasten ja nuorten laitokset ja ammatillinen perhehoito",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7889,
+       "activityType": "direct",
+       "contactTopicOther": "Pelastakaa Lapset toteuttaa yhdessä SOS-Lapsikylän ja 18 muun toimijan 11 eri maasta kanssa Lapsivaikutusten arviointi ja lapsen osallisuus -hanketta (ICPN eli Inclusive Child Participation Networks, 2025-2026). Tavoitteena hankkeessa on edistää lasten osallistumista päätöksentekoon paikalliselta tasolta EU-tasolle asti. Hanke on saanut rahoituksensa EU:n CERV-2024-CHILD -hausta.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33331,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4212,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33331,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4149,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33331,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4140,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 33331,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7889,
+       "activityType": "direct",
+       "contactTopicOther": "Tavattiin ministeri ja keskusteltiin lasten digilaitteiden käytöstä ja mahdollisista ikärajoista",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33332,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4294,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 33332,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7889,
+       "activityType": "direct",
+       "contactTopicOther": "Keskiviikkona 18.3.2026 SOS-Lapsikylän edustajat luovuttivat ulkomaankauppa- ja kehitysministeri Ville Taviolle tasa-arvoista koulutusta koskevan vetoomuksen. Vetoomuksen allekirjoitti yli 2 300 henkilöä, mikä kertoo huolesta lasten koulutuksen tilanteesta maailmalla.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33333,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3854,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 33333,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7889,
+       "activityType": "direct",
+       "contactTopicOther": "Perjantaina 30.1.2026 SOS-Lapsikylän edustajat luovuttivat sosiaali- ja terveysministeri Kaisa Juusolle Ei jätetä lapsia yksin -vetoomuksen, jossa vaaditaan konkreettisia toimia lasten ja perheiden hyvinvoinnin turvaamiseksi. Sen vastaanotti erityisavustaja Hannu Peurasaari. Vetoomuksen on allekirjoittanut 5 238 henkilöä, mikä kertoo laajasta huolesta lasten tilanteesta.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 33334,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4286,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 33334,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4293,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 33334,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "b5edfad894c524ea40ab823bc74ca18f5fa097ee4c6a0a1a37f135704cc7fdd0",
+    "observedVia": "live"
    }
   ]
  },
@@ -24226,6 +30369,647 @@
    }
   ]
  },
+ "SUO-26-6847-T": {
+  "key": "SUO-26-6847-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-11",
+     "companyId": "0202256-1",
+     "companyName": "Suomen Poliisijärjestöjen Liitto SPJL ry, Finlands Polisorganisationers Förbund SPJL rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-11",
+     "diaryNumber": "SUO-26-6847-T",
+     "id": 6847,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattiyhdistysten toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 6847,
+       "activityType": "direct",
+       "contactTopicOther": "Sisäiseen turvallisuuteen ja oikeudenhoitoon liittyvät asiat",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28743,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4034,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28743,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28743,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28743,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4032,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28743,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4176,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28743,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4234,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28743,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4230,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28743,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4232,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28743,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 6847,
+       "activityType": "direct",
+       "contactTopicOther": "Hallitusohjelma, nimikirjalainsäädäntö, oikeudenkäyntikuluja koskevan erityislain (269/1974) säännöksen ajantasaistaminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28744,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28744,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4070,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28744,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4032,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28744,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4176,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28744,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4234,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28744,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4230,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28744,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4232,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28744,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 6847,
+       "activityType": "direct",
+       "contactTopicOther": "Valtion seuraavan vuoden talousarvioesitys (budjettiriihi): poliisitoiminta, hätäkeskuslaitos, oikeushallinnonala",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28745,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28745,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "76b6fb1970e40ec1aed0d43cd654b0bdb089bc80872a3251cc6f7a5611b8e373",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-7729-T": {
+  "key": "SUO-26-7729-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "0202160-6",
+     "companyName": "Suomen Kirjailijaliitto r.y.",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "SUO-26-7729-T",
+     "id": 7729,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Tutkimusta ja kulttuuria palvelevat järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7729,
+       "activityType": "direct",
+       "contactTopicOther": "Kirja-alan selvityksen kommentointi ja oma kannanotto selvityksen puutteista",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32072,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4337,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32072,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4561,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32072,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4228,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32072,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4188,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32072,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4212,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32072,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4154,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32072,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7729,
+       "activityType": "direct",
+       "contactTopicOther": "Suomen Kirjailijaliiton vaalitavoitteiden ja niiden taustojen esittely",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32073,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4151,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32073,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 6296,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 32073,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4211,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32073,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7729,
+       "activityType": "direct",
+       "contactTopicOther": "Kirja-alan selvityksen kommentointi liittyen selvityksen puutteisiin",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 32074,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4587,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-31",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 32074,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "3c2792a710d01dadc2828290cc5a05ff9f293d19d520cf2fdb610123e964e2ab",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-7982-T": {
+  "key": "SUO-26-7982-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "2466851-5",
+     "companyName": "Suomen Lukiolaisten Liitto ry:n Itä-Suomen piiri ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "SUO-26-7982-T",
+     "id": 7982,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "9237e1f4638d3e9e5c70ce0698ad734c0ff19d23d97f8bcb0fd40dc83fd9b988",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-8052-T": {
+  "key": "SUO-26-8052-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-09-02",
+     "companyId": "2073770-4",
+     "companyName": "Suomen Palliatiivisen Hoidon Yhdistys ry. ruotsiksi Föreningen för Palliativ Vård i Finland rf",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "SUO-26-8052-T",
+     "id": 8052,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "cf1d9e4dd7f956dc554a1466c50c4028248ef820f0e1dfa4781dd419096427d7",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-8104-T": {
+  "key": "SUO-26-8104-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-06",
+     "companyId": "0468705-7",
+     "companyName": "Suomen Kalankasvattajaliitto ry, ruotsiksi Finlands Fiskodlarförbund rf",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "SUO-26-8104-T",
+     "id": 8104,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Elinkeinoelämän ja työnantajajärjestöjen toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8104,
+      "createdAt": "2026-09-02",
+      "id": 612,
+      "lobbying": {
+       "employeeTotal": 2,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "between_1000_and_4999"
+      },
+      "lobbyingGuidance": {
+       "revenue": 0
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "9076e87c967110aafec133a106c280ee487b4a173eb88719eaa5f873e0af07a3",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-8230-T": {
+  "key": "SUO-26-8230-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-09-04",
+     "companyId": "3081778-3",
+     "companyName": "Suomen eläinoikeusjuristit ry, Finlands djurrättsjurister rf",
+     "companyType": "company_id",
+     "createdAt": "2026-09-04",
+     "diaryNumber": "SUO-26-8230-T",
+     "id": 8230,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8230,
+      "createdAt": "2026-09-04",
+      "id": 708,
+      "lobbying": {
+       "employeeTotal": 0,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "6cece156b1c91c8733a17a8d1dd713f2b75147c33854c2d1fe559fabec758358",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-8288-T": {
+  "key": "SUO-26-8288-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-09-17",
+     "companyId": "0433684-7",
+     "companyName": "Suomen Kanttori-urkuriliitto - Finlands Kantor-organistförbund ry",
+     "companyType": "company_id",
+     "createdAt": "2026-09-17",
+     "diaryNumber": "SUO-26-8288-T",
+     "id": 8288,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Ammattiyhdistysten toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "0d9c37bd01a207357613657b49dce139033bf86e1e61ea5b6be9c85ac525fd83",
+    "observedVia": "live"
+   }
+  ]
+ },
  "SVE-25-2808-T": {
   "key": "SVE-25-2808-T",
   "versions": [
@@ -25060,6 +31844,49 @@
     "firstSeen": "2026-08-07",
     "hash": "8280f43cdf40245a167361a79d427ee34d4d2f645e60896c2484467516e1d38a",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "SVE-26-7786-T": {
+  "key": "SVE-26-7786-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "0200138-1",
+     "companyName": "Svenska litteratursällskapet i Finland rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "SVE-26-7786-T",
+     "id": 7786,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Tutkimusta ja kulttuuria palveleva järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "45256d9538bb4ce43cd192aaed27fbeeaa73e2b63fa814e612c3d30329cadc45",
+    "observedVia": "live"
    }
   ]
  },

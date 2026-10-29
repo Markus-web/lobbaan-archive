@@ -8716,6 +8716,132 @@
    }
   ]
  },
+ "DIF-26-6845-T": {
+  "key": "DIF-26-6845-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-11",
+     "companyId": "0221172-5",
+     "companyName": "DIFF - Ingenjörerna i Finland rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-11",
+     "diaryNumber": "DIF-26-6845-T",
+     "id": 6845,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattiyhdistysten toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 6845,
+       "activityType": "direct",
+       "contactTopicOther": "Ändra lagstiftning angående permittering samt ersättning vid permittering",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28738,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4129,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28738,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4432,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28738,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4081,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28738,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 6845,
+       "activityType": "direct",
+       "contactTopicOther": "Läroverksingenjörernas klassificering samt rapportering om den till EQF",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28739,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4129,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28739,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4432,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28739,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4134,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28739,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "efc8c91cf2fe6886934915173530b768657cf2095ab8de2be301016306eb7af9",
+    "observedVia": "live"
+   }
+  ]
+ },
  "DOT-24-1105-T": {
   "key": "DOT-24-1105-T",
   "versions": [
@@ -9473,6 +9599,49 @@
    }
   ]
  },
+ "ELÄ-26-7520-T": {
+  "key": "ELÄ-26-7520-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-27",
+     "companyId": "0116413-8",
+     "companyName": "Eläkeläiset ry, ruotsiksi Pensionärerna rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-27",
+     "diaryNumber": "ELÄ-26-7520-T",
+     "id": 7520,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "ad45a65b7e92a51e240b5659358963e2e19f5524c527bca6d2002f8bb520778d",
+    "observedVia": "live"
+   }
+  ]
+ },
  "EPV-25-4075-T": {
   "key": "EPV-25-4075-T",
   "versions": [
@@ -9786,6 +9955,259 @@
     "firstSeen": "2026-08-07",
     "hash": "2c6f05ecac50ed7a487a9f3e9185e985f5760295fa18836f0c9ec3b1b1adbecf",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "FID-26-6938-T": {
+  "key": "FID-26-6938-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-14",
+     "companyId": "0280613-9",
+     "companyName": "Fida International ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-14",
+     "diaryNumber": "FID-26-6938-T",
+     "id": 6938,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Seurakuntien ja uskonnollisten järjestöjen toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 6938,
+      "createdAt": "2026-08-06",
+      "id": 103,
+      "lobbying": {
+       "employeeTotal": 1,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "between_one_and_three",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": 0
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 6938,
+       "activityType": "direct",
+       "contactTopicOther": "Keskustelua kehitysjärjestöjen kehityspoliittisista suosituksista tulevan vaalikauden valmisteluissa.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 5326,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5342,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5330,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5331,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4130,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4136,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4129,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5336,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28980,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4149,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-14",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28980,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 6938,
+       "activityType": "direct",
+       "contactTopicOther": "Keskustelua kansalaisjärjestöjen kehitysyhteistyöstä (uuden ohjelmakauden suunnitelmien esittelyä), keskustelua kehitysyhteistyön prioriteeteista ja rahoituksesta.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28981,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4470,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28981,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28981,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4474,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28981,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4560,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28981,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3851,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-14",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28981,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 6938,
+       "activityType": "direct",
+       "contactTopicOther": "Keskustelua kansalaisjärjestöjen kehitysyhteistyöstä Ukrainassa, keskustelua kehitysyhteistyöstä osana kansainvälistä kokonaisturvallisuutta.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 28982,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28982,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4224,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28982,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 5326,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 28982,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 4221,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-14",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 28982,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "8d187bc29dc572163cbb82fa594dccea54b2fa622d674b9a5752caed94f85410",
+    "observedVia": "live"
    }
   ]
  },
@@ -10632,6 +11054,7 @@
  },
  "FIN-26-6658-T": {
   "key": "FIN-26-6658-T",
+  "removedAt": "2026-10-29",
   "versions": [
    {
     "data": {
@@ -10777,7 +11200,8 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "abfcde3838038c5953655c0e6e141a3766f656c6287edd4ba919c7917b9f66a3",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
    }
   ]
  },
@@ -10837,7 +11261,67 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "b3755d8d82eabf7abf15c269eede753a1849e84798fa360164010f043bd9ff76",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-07-28",
+     "companyId": "2767840-1",
+     "companyName": "Fintraffic Lennonvarmistus Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-07-28",
+     "diaryNumber": "FIN-26-6684-T",
+     "id": 6684,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ilmaliikennettä palveleva toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [
+      {
+       "createdAt": "2026-07-28",
+       "title": "Avia College"
+      },
+      {
+       "createdAt": "2026-07-28",
+       "title": "ANS Finland"
+      },
+      {
+       "createdAt": "2026-07-28",
+       "title": "Air Navigation Services Finland"
+      },
+      {
+       "createdAt": "2026-07-28",
+       "title": "Fintraffic ANS"
+      }
+     ],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "ff9734b56b2d5fe9b68b9acbbd78343b7fc0a0c72e23fc685bf01649bdeb8333",
+    "observedVia": "live"
    }
   ]
  },
@@ -11464,6 +11948,276 @@
     "firstSeen": "2026-08-07",
     "hash": "caca97eb813a40ed8a260e11881f1f44f002e7504239741db950af1e963caf43",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "HKF-26-7683-T": {
+  "key": "HKF-26-7683-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-28",
+     "companyId": "0111425-3",
+     "companyName": "HKFoods Oyj",
+     "companyType": "company_id",
+     "createdAt": "2026-08-28",
+     "diaryNumber": "HKF-26-7683-T",
+     "id": 7683,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Liha- ja siipikarjatuotteiden valmistus",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 7683,
+      "createdAt": "2026-08-28",
+      "id": 417,
+      "lobbying": {
+       "employeeTotal": 3,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "b023e643270a6ec00ff0a0b2db6850962d3355ac1a0fb8599a95240cf8e76f5e",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "HUH-26-8036-T": {
+  "key": "HUH-26-8036-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-07-07",
+     "companyId": "0140879-6",
+     "companyName": "Huhtamäki Oyj",
+     "companyType": "company_id",
+     "createdAt": "2026-09-01",
+     "diaryNumber": "HUH-26-8036-T",
+     "id": 8036,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Pääkonttorien toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8036,
+      "createdAt": "2026-09-01",
+      "id": 565,
+      "lobbying": {
+       "employeeTotal": 2,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8036,
+       "activityType": "direct",
+       "contactTopicOther": "EU:n pakkaus- ja pakkausjäteasetukseen sekä asetuksen tulkintaan ja EU:n toissijaiseen lainsäädäntöön liittyvät avoimet kysymykset.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34411,
+         "contactMethods": [
+          "online",
+          "mail",
+          "social_media",
+          "phone"
+         ],
+         "contactedTargetId": 4504,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34411,
+         "contactMethods": [
+          "online",
+          "mail",
+          "social_media",
+          "phone"
+         ],
+         "contactedTargetId": 4565,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34411,
+         "contactMethods": [
+          "online",
+          "mail",
+          "social_media",
+          "phone"
+         ],
+         "contactedTargetId": 4503,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34411,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 4512,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-01",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34411,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8036,
+       "activityType": "direct",
+       "contactTopicOther": "Tulevaan EU:n kiertotalouslakiin (CEA) liittyvät mahdollisuudet ja haasteet",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34412,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "social_media"
+         ],
+         "contactedTargetId": 4504,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34412,
+         "contactMethods": [
+          "mail",
+          "meeting",
+          "social_media"
+         ],
+         "contactedTargetId": 4565,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34412,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 5327,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34412,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4484,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-01",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34412,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8036,
+       "activityType": "direct",
+       "contactTopicOther": "EU:n metsäkatoasetus sekä siihen liittyvät tulkinnat ja aikataulut",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 34413,
+         "contactMethods": [
+          "mail",
+          "social_media"
+         ],
+         "contactedTargetId": 4472,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34413,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4494,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 34413,
+         "contactMethods": [
+          "mail",
+          "social_media"
+         ],
+         "contactedTargetId": 4471,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-09-01",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 34413,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "e98e283efc41ad6e8a6c2e1a8b05bbe43932bd0f71cee2382649148e9567d0ad",
+    "observedVia": "live"
    }
   ]
  },
@@ -12979,7 +13733,50 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "11add3f3914d9efe4184ba225583bee99dfa481715645b0d8ff8664a51201588",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-07-01",
+     "companyId": "0217229-5",
+     "companyName": "Koululiikuntaliitto KLL ry",
+     "companyType": "company_id",
+     "createdAt": "2026-07-01",
+     "diaryNumber": "KOU-26-6491-T",
+     "id": 6491,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muu muualla luokittelematon liikunta- ja urheilutoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "0337685ea1951e630b7fc462fd0c644e333755b4f9630c7268422b6ed6f89405",
+    "observedVia": "live"
    }
   ]
  },
@@ -13473,6 +14270,383 @@
     "formatOnly": true,
     "hash": "bdb6d815cbcd6fcc8ad010d418f9862e3d8fb8c442c981bd9a7d0ddeee6dcb80",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "LIH-26-7699-T": {
+  "key": "LIH-26-7699-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-08-30",
+     "companyId": "0201612-9",
+     "companyName": "Lihakeskusliitto ry, Finska Köttbranschens Förbund rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-30",
+     "diaryNumber": "LIH-26-7699-T",
+     "id": 7699,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattialajärjestöjen toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 7699,
+      "createdAt": "2026-08-30",
+      "id": 421,
+      "lobbying": {
+       "employeeTotal": 1,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 7699,
+       "activityType": "direct",
+       "contactTopicOther": "Elintarvikemarkkinalain muutos, kuka määrittelee poikkeukselliset olosuhteet?",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31965,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 4495,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31965,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-30",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31965,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7699,
+       "activityType": "direct",
+       "contactTopicOther": "Saunapalvituotteet, savustus. Savuaromeihin ja perinteiseen savustukseen liittyvät säädökset.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31966,
+         "contactMethods": [
+          "mail",
+          "phone"
+         ],
+         "contactedTargetId": 4480,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-30",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31966,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7699,
+       "activityType": "direct",
+       "contactTopicOther": "Pakkausjäteasetus PPWR. Säädösten kansallinen tulkinta ja ohjeistus.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31967,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4189,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31967,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-30",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31967,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7699,
+       "activityType": "direct",
+       "contactTopicOther": "Lihantarkastus ja -maksut. Laajemmin maksujen vaikutus kilpailutilanteeseen, suppeammin myös esim. digitalisaation hyödyntäminen.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31968,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4481,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31968,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31968,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4189,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-30",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31968,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7699,
+       "activityType": "direct",
+       "contactTopicOther": "Lihateollisuuden raaka-aineen saatavuus, sekä kotimaisen että tuontiraaka-aineen. Vaikutus ruokavientiin.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31969,
+         "contactMethods": [
+          "online",
+          "mail"
+         ],
+         "contactedTargetId": 4480,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31969,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4189,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31969,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-30",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31969,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7699,
+       "activityType": "direct",
+       "contactTopicOther": "EU-metsäkatoasetus EUDR, kansallinen toimeenpano pk-yritysten kannalta.",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31970,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-30",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31970,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 7699,
+       "activityType": "direct",
+       "contactTopicOther": "Ruokapoliittinen selonteko ja kansallinen ruokastrategia, pk-yritysten ja kuluttajan näkökulma",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 31971,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4236,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 31971,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 4086,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-08-30",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 31971,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "df25a7936cc620f989bced6bce29e91e9654a88f3e16433b6df59b168496d497",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "LOC-26-8471-T": {
+  "key": "LOC-26-8471-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-10-27",
+     "companyId": "3439557-3",
+     "companyName": "Locus Hydro Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-10-27",
+     "diaryNumber": "LOC-26-8471-T",
+     "id": 8471,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Sähkön tuotanto vesi- ja tuulivoimalla",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "d4b965e2a665ed6fc7a9eedf0165e298ffc6d869c2950e2a162ffa99d562762c",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "LUO-26-8196-T": {
+  "key": "LUO-26-8196-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-09-02",
+     "companyId": "0584723-5",
+     "companyName": "Luona Hoiva Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-09-02",
+     "diaryNumber": "LUO-26-8196-T",
+     "id": 8196,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muualla luokittelematon muu terveyspalvelutoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "ebbe7481690fca45c85f53ea6c17b40878bb94810a6d95ccc5ed436c9f60497a",
+    "observedVia": "live"
    }
   ]
  },
@@ -14519,7 +15693,50 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "069a9a0660af014f899028b43db5bb1cd8343c811cd5cb7c11afc881ed33f875",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-07-01",
+     "companyId": "2081600-7",
+     "companyName": "Metalliteollisuuden Standardisointiyhdistys ry, Metallindustrins Standardiseringsförening rf",
+     "companyType": "company_id",
+     "createdAt": "2026-07-01",
+     "diaryNumber": "MET-26-6493-T",
+     "id": 6493,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelemattomat muut järjestöt",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "24f10a1d37daef246775a9cbd31e1b15daa81a3d844d999a4005538d963b9648",
+    "observedVia": "live"
    }
   ]
  },
@@ -17466,6 +18683,49 @@
    }
   ]
  },
+ "PAT-26-6977-T": {
+  "key": "PAT-26-6977-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-17",
+     "companyId": "2334159-6",
+     "companyName": "Patria Oyj",
+     "companyType": "company_id",
+     "createdAt": "2026-08-17",
+     "diaryNumber": "PAT-26-6977-T",
+     "id": 6977,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Julkinen yleishallinto",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "055f2f0d2a455f09c2115bad02cf7d83243babe5fde58402e420fe6b72e11fe2",
+    "observedVia": "live"
+   }
+  ]
+ },
  "PEI-26-6738-T": {
   "key": "PEI-26-6738-T",
   "versions": [
@@ -17505,7 +18765,50 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "1ef674be6e5d94296c4ca1fe6bf7973105f0cf630077cd2101e18ac315e4f2b2",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-08-03",
+     "companyId": "0823246-3",
+     "companyName": "Peimarin koulutuskuntayhtymä",
+     "companyType": "company_id",
+     "createdAt": "2026-08-03",
+     "diaryNumber": "PEI-26-6738-T",
+     "id": 6738,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Keskiasteen ammatillinen koulutus",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "7f4e4156e88fe35a110eb559562e287a99ff4b2f38133f390c6233f533971870",
+    "observedVia": "live"
    }
   ]
  },
@@ -18159,6 +19462,7 @@
  },
  "PRO-26-6509-T": {
   "key": "PRO-26-6509-T",
+  "removedAt": "2026-10-29",
   "versions": [
    {
     "data": {
@@ -18270,7 +19574,51 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "c9bdce9fe85041215b1b05c7eb3222ad592c8b93ff6cdb4d44095dc5033c1635",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   }
+  ]
+ },
+ "PRO-26-7228-T": {
+  "key": "PRO-26-7228-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-08-24",
+     "companyId": "1453757-0",
+     "companyName": "Pro Rautatie ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-24",
+     "diaryNumber": "PRO-26-7228-T",
+     "id": 7228,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Ammattiyhdistysten toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "e42744721ce8d9fba95f935c5738d1a3d5ecda8db8316881008e62f29bba8c1b",
+    "observedVia": "live"
    }
   ]
  },
@@ -19249,7 +20597,50 @@
     },
     "firstSeen": "2026-08-07",
     "hash": "c22f4214be9d6a38b2bf997067d4b00d6fae02f7e8ec6582a13f4cdbdff5068f",
-    "observedVia": "local-snapshot:2026-08-07"
+    "observedVia": "local-snapshot:2026-08-07",
+    "until": "2026-10-29"
+   },
+   {
+    "changedFields": [
+     "term"
+    ],
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-07-27",
+     "companyId": "0967813-3",
+     "companyName": "SESKO ry, SESKO rf",
+     "companyType": "company_id",
+     "createdAt": "2026-07-27",
+     "diaryNumber": "SES-26-6679-T",
+     "id": 6679,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muu tekninen testaus ja analysointi",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "formatOnly": true,
+    "hash": "e6f7e8ff95134d6b3a7575bd6cc538339ea1eea3e40f106e69deb93a598bd9bb",
+    "observedVia": "live"
    }
   ]
  },
@@ -22720,6 +24111,92 @@
     "firstSeen": "2026-08-07",
     "hash": "46b5270b0cb04bb7fd65d6691f20a6748817190d3b4f4be07fcbe7bb27c954a0",
     "observedVia": "local-snapshot:2026-08-07"
+   }
+  ]
+ },
+ "SUO-26-7112-T": {
+  "key": "SUO-26-7112-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-24",
+     "companyId": "1947529-2",
+     "companyName": "Suomen Sopimuspalokuntien Liitto ry, Finlands Avtalsbrandkårers Förbund rf",
+     "companyType": "company_id",
+     "createdAt": "2026-08-24",
+     "diaryNumber": "SUO-26-7112-T",
+     "id": 7112,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "dbbda9c575feff44bd6d3db966ef3c964d14f43ea33fce2552f57b1494ad58f4",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "SUO-26-7985-T": {
+  "key": "SUO-26-7985-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "minimal",
+     "activityNotificationDate": "2026-08-31",
+     "companyId": "2327515-4",
+     "companyName": "Suomen Lukiolaisten Liitto ry:n Järvi-Suomen Piiri ry",
+     "companyType": "company_id",
+     "createdAt": "2026-08-31",
+     "diaryNumber": "SUO-26-7985-T",
+     "id": 7985,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "e3ace704e6d609a5ec1a36be4ed4638fbe5212d528ac24fe93d73ede2ad534a1",
+    "observedVia": "live"
    }
   ]
  },

@@ -467,6 +467,867 @@
    }
   ]
  },
+ "1840113-6": {
+  "key": "1840113-6",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "21",
+       "co": "",
+       "entrance": "",
+       "postCode": "00510",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-01-15",
+       "source": "0",
+       "street": "Sturenkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "21",
+       "co": "",
+       "entrance": "",
+       "postCode": "00510",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-01-15",
+       "source": "0",
+       "street": "Sturenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1840113-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2003-07-17",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1840113-6"
+     },
+     "lastModified": "2026-10-26T14:55:19",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Esiasteen koulutus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Förskoleutbildning",
+        "languageCode": "2"
+       },
+       {
+        "description": "Pre-primary education",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Pilke päiväkodit Oy",
+       "registrationDate": "2014-01-20",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2014-01-19",
+       "name": "Kissankulman muksut Oy",
+       "registrationDate": "2003-07-17",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Päiväkoti Sini-Emilia",
+       "registrationDate": "2013-11-05",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Päiväkoti Kissankulma",
+       "registrationDate": "2013-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Päiväkoti Merituuli",
+       "registrationDate": "2013-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Merikatti",
+       "registrationDate": "2013-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kattimatti",
+       "registrationDate": "2013-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Taikapirtti",
+       "registrationDate": "2013-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Päiväkoti Taikahelmi",
+       "registrationDate": "2013-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kissankulman muksut",
+       "registrationDate": "2014-01-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ilmaisupäiväkoti Illusia",
+       "registrationDate": "2014-07-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2003-07-16",
+       "register": "1",
+       "registrationDate": "2003-07-04",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2003-07-17",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2003-07-09",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2003-09-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2020-07-02",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Momsskyldig som köpare eller för eget bruk",
+         "languageCode": "2"
+        },
+        {
+         "description": "Ostajana tai omasta käytöstä arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT liable as a buyer or on self-supply",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2020-07-01",
+       "register": "6",
+       "registrationDate": "2017-01-01",
+       "type": "86"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2003-09-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2003-07-17",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2015-06-01",
+      "source": "0",
+      "url": "www.pilkepaivakodit.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "60894bb4729144b498bdc5a45c67980497f59131d541b5a4949a3df6153437d1",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "2553871-2": {
+  "key": "2553871-2",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "00560",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-04-11",
+       "source": "0",
+       "street": "Jan-Magnus Janssons plats",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "00560",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-04-11",
+       "source": "0",
+       "street": "Jan-Magnus Janssons plats",
+       "type": 2
+      }
+     ],
+     "businessId": "2553871-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2013-07-04",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2553871-2"
+     },
+     "lastModified": "2026-06-24T03:05:26",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Korkea-asteen koulutus yliopistoissa ja ammattikorkeakouluissa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tertiary education",
+        "languageCode": "3"
+       },
+       {
+        "description": "Universitets- eller högskoleutbildning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85400",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Yrkeshögskolan Arcada Ab",
+       "registrationDate": "2015-01-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2015-01-01",
+       "name": "Högskolan Arcada Ab",
+       "registrationDate": "2013-07-04",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Arcada University of Applied Sciences Ltd",
+       "registrationDate": "2015-01-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Arcada Institute of Business Administration",
+       "registrationDate": "2017-06-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Arcada Institute of Nursing and Health Care",
+       "registrationDate": "2017-06-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Arcada Institute of Technology",
+       "registrationDate": "2017-06-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Arcada Polytechnic",
+       "registrationDate": "2017-06-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Arcada-Nylands svenska yrkeshögskola",
+       "registrationDate": "2017-06-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2013-07-03",
+       "register": "1",
+       "registrationDate": "2013-06-06",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2013-07-04",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2013-07-24",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2013-11-26",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2014-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2014-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2013-07-04",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2013-11-26",
+      "source": "0",
+      "url": "www.arcada.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "9c4d50533e744663420b3a55a1940548540000dc917200556988d6b9a1cb93d4",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "2683287-6": {
+  "key": "2683287-6",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00391",
+       "postOfficeBox": "2",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2020-01-08",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "2683287-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2015-04-08",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2683287-6"
+     },
+     "lastModified": "2025-12-31T07:39:20",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Production of electricity from hydropower",
+        "languageCode": "3"
+       },
+       {
+        "description": "Produktion av elektricitet med vattenkraft",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sähkön tuotanto vesivoimalla",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35121",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Tuulialfa Oy",
+       "registrationDate": "2015-04-08",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Wind Alfa Ltd",
+       "registrationDate": "2015-04-08",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2015-04-07",
+       "register": "1",
+       "registrationDate": "2015-03-25",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2015-04-08",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2015-04-30",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2015-04-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2022-04-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2015-04-08",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2015-11-24",
+      "source": "0",
+      "url": "www.tuulialfa.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "2d69403ecac765600220209579433c354af79ab56868dfad320b0dcdd801a9f6",
+    "observedVia": "live"
+   }
+  ]
+ },
  "2942108-7": {
   "key": "2942108-7",
   "versions": [
@@ -992,6 +1853,232 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "51486d9640b6554f2422e17076252edaef0288920a060affd86a9e3c1de1c3b8",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "3253157-8": {
+  "key": "3253157-8",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "2",
+       "co": "",
+       "entrance": "",
+       "postCode": "55100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "IMATRA",
+         "languageCode": "1",
+         "municipalityCode": "153"
+        },
+        {
+         "city": "IMATRA",
+         "languageCode": "2",
+         "municipalityCode": "153"
+        }
+       ],
+       "registrationDate": "2021-12-03",
+       "source": "0",
+       "street": "Virastokatu",
+       "type": 2
+      }
+     ],
+     "businessId": "3253157-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Foundation",
+         "languageCode": "3"
+        },
+        {
+         "description": "Stiftelse",
+         "languageCode": "2"
+        },
+        {
+         "description": "Säätiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2021-12-10",
+       "source": "1",
+       "type": "18",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-10-26T11:51:21",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Museiverksamhet och museisamlingar",
+        "languageCode": "2"
+       },
+       {
+        "description": "Museoihin ja kokoelmiin liittyvä toiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Museum and collection activities",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "91210",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Suomen Erämuseosäätiö sr",
+       "registrationDate": "2021-12-10",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Erämuseo",
+       "registrationDate": "2026-09-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Suomen erämuseo",
+       "registrationDate": "2026-09-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "The Wilderness Heritage Museum Foundation of Finland sr",
+       "registrationDate": "2021-12-10",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Museistiftelsen för Vildmarksarvet i Finland sr",
+       "registrationDate": "2021-12-10",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2026-10-25",
+       "register": "1",
+       "registrationDate": "2026-10-12",
+       "type": "0"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2022-01-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2022-04-01",
+       "type": "41"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Ei rekisteröity perustaminen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Oregistrerat grundande",
+         "languageCode": "2"
+        },
+        {
+         "description": "Start-up not registered",
+         "languageCode": "3"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2026-10-26",
+       "type": "3"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2021-12-14",
+       "type": "1"
+      }
+     ],
+     "status": "2",
+     "tradeRegisterStatus": "3"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "6535135ebac35810e1ecc629e99a7234ceadb63e8545b64756a3a8396f5c9806",
     "observedVia": "live"
    }
   ]
