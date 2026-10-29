@@ -286,5 +286,977 @@
     "observedVia": "live"
    }
   ]
+ },
+ "1093944-1": {
+  "key": "1093944-1",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "7",
+       "co": "",
+       "entrance": "",
+       "postCode": "00510",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-02-08",
+       "source": "0",
+       "street": "Konepajankuja",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "7",
+       "co": "",
+       "entrance": "",
+       "postCode": "00510",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2022-12-12",
+       "source": "0",
+       "street": "Konepajankuja",
+       "type": 2
+      }
+     ],
+     "businessId": "1093944-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1997-07-04",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1093944-1"
+     },
+     "lastModified": "2026-10-22T03:18:39",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Planering och sändning av tv-program samt distribution av video",
+        "languageCode": "2"
+       },
+       {
+        "description": "Televisio-ohjelmien ja videosisältöjen tuottaminen ja levitys",
+        "languageCode": "1"
+       },
+       {
+        "description": "Television programming, broadcasting and video distribution activities",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "60200",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "MTV Oy",
+       "registrationDate": "2018-01-04",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2018-01-04",
+       "name": "MTV Sisällöt Oy",
+       "registrationDate": "2015-01-01",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "MTV MAX SPORT 2",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV More Play",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Emotion",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Subweb",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Special-Hopea Suomi",
+       "registrationDate": "2016-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV First",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TVTV-Kaapelikanava",
+       "registrationDate": "1999-11-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sub",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Go",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Makuja",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Action",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Store",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Play",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "City-Kanava Helsinki",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Hits",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Juniori",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Juuri nyt",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Subjuniori",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Katsomo",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV.fi",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Filmnet",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Second Screen",
+       "registrationDate": "2013-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Sää",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Tekstikanava",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Tennis",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Uutiset",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV URHEILU",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Submobiili",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kolmostelevisio",
+       "registrationDate": "2000-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TVTV-Viisi",
+       "registrationDate": "1999-11-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV 3 com",
+       "registrationDate": "1999-11-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Leffa",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Huomenta Suomi",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Lifestyle",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TVTV-Kaapeli",
+       "registrationDate": "1999-11-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Suomen Uutisradio",
+       "registrationDate": "2016-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Subville",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV 3",
+       "registrationDate": "1997-11-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Suomen Radioviestintä",
+       "registrationDate": "2016-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Voima 3",
+       "registrationDate": "1999-11-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Drama",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Sportcenter",
+       "registrationDate": "2013-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordic Broadcasting",
+       "registrationDate": "2013-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV 2nd Screen",
+       "registrationDate": "2013-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV AVA",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Suomi",
+       "registrationDate": "2005-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Kids",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Subtv",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Subject",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Sarja",
+       "registrationDate": "2013-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Sisällöt",
+       "registrationDate": "2018-01-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Substore",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Digital",
+       "registrationDate": "2001-11-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV TOTAL",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Fakta XL",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Tekniikka",
+       "registrationDate": "2011-07-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Extreme",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Fakta",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Radiot",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Media",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Subleffa",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Viihde",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki-City Aluekanava",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV SF-kanalen",
+       "registrationDate": "2013-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Sport 2",
+       "registrationDate": "2013-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Sub",
+       "registrationDate": "2013-04-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Komedia",
+       "registrationDate": "2013-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV App",
+       "registrationDate": "2013-04-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Series",
+       "registrationDate": "2013-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV MTV3",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV 45 minuuttia",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediahub Helsinki",
+       "registrationDate": "2019-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Subteksti",
+       "registrationDate": "2011-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Newsstoori",
+       "registrationDate": "2019-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV SPORT",
+       "registrationDate": "2013-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV MAX",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV MAX SPORT 1",
+       "registrationDate": "2013-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "C More Entertainment Finland",
+       "registrationDate": "2022-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MTV Finland",
+       "registrationDate": "2005-05-10",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1997-07-04",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1997-08-06",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1997-09-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1997-09-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2005-05-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1997-09-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1997-07-04",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2019-01-07",
+      "source": "0",
+      "url": "https://www.mtvuutiset.fi"
+     }
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "b709dc3ab28ddb93d94ed34baeb7b9040e622b2b1212287e6b82d11e3e66e98c",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "3395751-1": {
+  "key": "3395751-1",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "21",
+       "co": "c/o UB Rahastoyhtiö Oy",
+       "entrance": "A",
+       "postCode": "00100",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-10-06",
+       "source": "0",
+       "street": "Aleksanterinkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "3395751-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2023-11-16",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3395751-1"
+     },
+     "lastModified": "2026-02-04T15:35:14",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Production of electricity from wind power",
+        "languageCode": "3"
+       },
+       {
+        "description": "Produktion av elektricitet med vindkraft",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sähkön tuotanto tuulivoimalla",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35122",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "UBRE Wind GP Oy",
+       "registrationDate": "2023-11-16",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2023-11-15",
+       "register": "1",
+       "registrationDate": "2023-10-06",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2023-11-16",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2023-11-16",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2023-11-16",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "8c4f71719f4fba33ee483add6616c06cf91deab7607d86683df15669a8b8048d",
+    "observedVia": "live"
+   }
+  ]
  }
 }

@@ -330,6 +330,370 @@
    }
   ]
  },
+ "0641130-2": {
+  "key": "0641130-2",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "56",
+       "co": "",
+       "entrance": "",
+       "postCode": "00120",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2001-08-22",
+       "source": "0",
+       "street": "Bulevardi",
+       "type": 1
+      },
+      {
+       "postCode": "00101",
+       "postOfficeBox": "627",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2007-04-26",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "0641130-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Försäkringsaktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Insurance company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Vakuutusosakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1986-11-19",
+       "source": "1",
+       "type": "24",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-10-21T23:33:33",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Henkivakuutustoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Life insurance",
+        "languageCode": "3"
+       },
+       {
+        "description": "Livförsäkring",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "65110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Mandatum Henkivakuutusosakeyhtiö",
+       "registrationDate": "2008-09-03",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2008-09-02",
+       "name": "Vakuutusosakeyhtiö Henki-Sampo",
+       "registrationDate": "1998-12-31",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Nova",
+       "registrationDate": "1998-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keskeytysvakuutus Otso",
+       "registrationDate": "2002-01-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Teollisuusvakuutus",
+       "registrationDate": "2002-01-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mandatum Livförsäkringsaktiebolag",
+       "registrationDate": "2008-09-03",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Mandatum Life Insurance Company Limited",
+       "registrationDate": "2008-09-03",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1986-11-19",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1987-01-12",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2023-05-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2023-05-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2023-04-30",
+       "register": "6",
+       "registrationDate": "2017-10-01",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2017-09-30",
+       "register": "6",
+       "registrationDate": "2008-05-01",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2008-04-30",
+       "register": "6",
+       "registrationDate": "2007-02-01",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2007-01-31",
+       "register": "6",
+       "registrationDate": "1999-01-01",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1987-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1986-11-19",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "5c156f136245a09b5b7a74478fb6868ad90db854d3bc20cf7ee02786a90eaa53",
+    "observedVia": "live"
+   }
+  ]
+ },
  "2017532-6": {
   "key": "2017532-6",
   "versions": [

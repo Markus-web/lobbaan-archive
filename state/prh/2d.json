@@ -1,4 +1,295 @@
 {
+ "0276019-3": {
+  "key": "0276019-3",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "107",
+       "co": "",
+       "entrance": "",
+       "postCode": "00280",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-03-09",
+       "source": "0",
+       "street": "MANNERHEIMINTIE",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "107",
+       "co": "",
+       "entrance": "",
+       "postCode": "00280",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-03-09",
+       "source": "0",
+       "street": "MANNERHEIMINTIE",
+       "type": 2
+      }
+     ],
+     "businessId": "0276019-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aatteellinen yhdistys",
+         "languageCode": "1"
+        },
+        {
+         "description": "Ideell förening",
+         "languageCode": "2"
+        },
+        {
+         "description": "Non-profit association",
+         "languageCode": "3"
+        }
+       ],
+       "registrationDate": "1969-04-25",
+       "source": "1",
+       "type": "6",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2025-12-31T07:39:20",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Muualla luokittelematon muu monenlainen sosiaalihuollon avopalvelutoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other miscellaneous social work activities without accommodation n.e.c.",
+        "languageCode": "3"
+       },
+       {
+        "description": "Övriga diverse öppna sociala insatser som inte klassificerats på annat håll",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "88999",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Allergia-, Iho- ja Astmaliitto ry, Allergi-, Hud- och Astmaförbundet rf",
+       "registrationDate": "2017-10-17",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2017-10-16",
+       "name": "Allergia- ja Astmaliitto ry, Allergi- och Astmaförbundet rf",
+       "registrationDate": "2016-01-26",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2019-06-19",
+       "register": "1",
+       "registrationDate": "2018-12-03",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Ei rekisteröity perustaminen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Oregistrerat grundande",
+         "languageCode": "2"
+        },
+        {
+         "description": "Start-up not registered",
+         "languageCode": "3"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2019-06-20",
+       "type": "3"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1979-01-14",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2023-12-31",
+       "register": "6",
+       "registrationDate": "2001-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2023-12-31",
+       "register": "6",
+       "registrationDate": "2001-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Momsskyldig som köpare eller för eget bruk",
+         "languageCode": "2"
+        },
+        {
+         "description": "Ostajana tai omasta käytöstä arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT liable as a buyer or on self-supply",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2024-01-01",
+       "type": "86"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1979-01-01",
+       "type": "41"
+      }
+     ],
+     "status": "2",
+     "tradeRegisterStatus": "3"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "2a0324f562d5ad326e8c100d2401c5c50818d9ab9c6a0f16635cc24ce6c6b66c",
+    "observedVia": "live"
+   }
+  ]
+ },
  "1552436-8": {
   "key": "1552436-8",
   "versions": [

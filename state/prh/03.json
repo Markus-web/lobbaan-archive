@@ -281,5 +281,286 @@
     "observedVia": "live"
    }
   ]
+ },
+ "0773744-3": {
+  "key": "0773744-3",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "65170",
+       "postOffices": [
+        {
+         "city": "VAASA",
+         "languageCode": "1",
+         "municipalityCode": "905"
+        },
+        {
+         "city": "VASA",
+         "languageCode": "2",
+         "municipalityCode": "905"
+        }
+       ],
+       "registrationDate": "2023-02-01",
+       "source": "0",
+       "street": "Teollisuuskatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "65101",
+       "postOfficeBox": "244",
+       "postOffices": [
+        {
+         "city": "VAASA",
+         "languageCode": "1",
+         "municipalityCode": "905"
+        },
+        {
+         "city": "VASA",
+         "languageCode": "2",
+         "municipalityCode": "905"
+        }
+       ],
+       "registrationDate": "2018-05-02",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0773744-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0773744-3"
+     },
+     "lastModified": "2026-10-22T04:38:51",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",
+        "languageCode": "3"
+       },
+       {
+        "description": "Moottorien ja turbiinien valmistus pois lukien lentokoneiden ja ajoneuvojen moottorit",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tillverkning av motorer och turbiner utom för luftfartyg och fordon",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "28110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Wärtsilä Finland Oy",
+       "registrationDate": "2000-10-04",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2000-10-03",
+       "name": "Wärtsilä NSD Finland Oy",
+       "registrationDate": "1997-06-17",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Wasa Pilot Power Plant",
+       "registrationDate": "2005-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Gaspolator",
+       "registrationDate": "2011-10-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Funa International",
+       "registrationDate": "2016-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Eniram",
+       "registrationDate": "2021-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1989-11-29",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1989-12-14",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-07-19",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1990-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1989-11-29",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "4f60d761d8161566cc7ed0750ca9b90f089e566f5ea8376cb355423075f5e7b4",
+    "observedVia": "live"
+   }
+  ]
  }
 }

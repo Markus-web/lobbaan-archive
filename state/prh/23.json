@@ -205,6 +205,337 @@
    }
   ]
  },
+ "0621340-2": {
+  "key": "0621340-2",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "21",
+       "co": "",
+       "entrance": "",
+       "postCode": "00510",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2026-07-09",
+       "source": "0",
+       "street": "Teollisuuskatu",
+       "type": 2
+      }
+     ],
+     "businessId": "0621340-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aatteellinen yhdistys",
+         "languageCode": "1"
+        },
+        {
+         "description": "Ideell förening",
+         "languageCode": "2"
+        },
+        {
+         "description": "Non-profit association",
+         "languageCode": "3"
+        }
+       ],
+       "registrationDate": "1985-11-05",
+       "source": "1",
+       "type": "6",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-07-10T12:22:12",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Activities of other miscellaneous membership organisations n.e.c.",
+        "languageCode": "3"
+       },
+       {
+        "description": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Övrig verksamhet i intresseorganisationer som inte klassificerats på annat håll",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "94999",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Suomalaiset kehitysjärjestöt - Finnish Development NGOs Fingo ry",
+       "registrationDate": "2018-08-24",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2018-08-23",
+       "name": "Kehys-Kepa ry",
+       "registrationDate": "2018-01-25",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2018-02-21",
+       "register": "1",
+       "registrationDate": "2018-02-07",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2018-03-13",
+       "register": "1",
+       "registrationDate": "2018-02-28",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2018-12-18",
+       "register": "1",
+       "registrationDate": "2018-12-17",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Ei rekisteröity perustaminen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Oregistrerat grundande",
+         "languageCode": "2"
+        },
+        {
+         "description": "Start-up not registered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2018-02-27",
+       "register": "1",
+       "registrationDate": "2018-02-22",
+       "type": "3"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Ei rekisteröity perustaminen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Oregistrerat grundande",
+         "languageCode": "2"
+        },
+        {
+         "description": "Start-up not registered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2018-12-16",
+       "register": "1",
+       "registrationDate": "2018-03-14",
+       "type": "3"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Ei rekisteröity perustaminen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Oregistrerat grundande",
+         "languageCode": "2"
+        },
+        {
+         "description": "Start-up not registered",
+         "languageCode": "3"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2018-12-19",
+       "type": "3"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1986-06-09",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-10-02",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2012-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2007-12-31",
+       "register": "6",
+       "registrationDate": "2002-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1986-06-01",
+       "type": "41"
+      }
+     ],
+     "status": "2",
+     "tradeRegisterStatus": "3"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "0322f4f02ca6a34dd469d974ea04f922ea18ece87635dc2f26effc004cf500dd",
+    "observedVia": "live"
+   }
+  ]
+ },
  "1714615-3": {
   "key": "1714615-3",
   "versions": [

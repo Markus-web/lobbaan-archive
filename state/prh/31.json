@@ -1,4 +1,267 @@
 {
+ "0922140-8": {
+  "key": "0922140-8",
+  "versions": [
+   {
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "8",
+       "co": "",
+       "entrance": "B",
+       "postCode": "02600",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2021-09-30",
+       "source": "0",
+       "street": "Hatsinanpuisto",
+       "type": 1
+      },
+      {
+       "postCode": "02621",
+       "postOfficeBox": "15",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2021-06-16",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "0922140-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1993-04-07",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0922140-8"
+     },
+     "lastModified": "2026-10-21T17:35:10",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Lääkkeiden tukkukauppa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Partihandel med farmaceutiska varor",
+        "languageCode": "2"
+       },
+       {
+        "description": "Wholesale of pharmaceutical goods",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "46461",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Janssen-Cilag Oy",
+       "registrationDate": "1995-03-22",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1995-03-21",
+       "name": "Janssen Pharma Oy",
+       "registrationDate": "1993-12-08",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Johnson & Johnson Finland",
+       "registrationDate": "1993-12-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Janssen Finland",
+       "registrationDate": "2011-05-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Johnson & Johnson Clinical Diagnostics",
+       "registrationDate": "1996-04-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Johnson & Johnson Innovative Medicine",
+       "registrationDate": "2024-05-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "J&J Innovative Medicine",
+       "registrationDate": "2024-05-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1993-04-07",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1993-03-31",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1993-04-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1993-04-07",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-29",
+    "hash": "12130786980bc72a1a28def9d66d4769d6cb397a7b4ee42d665765e23ed66b76",
+    "observedVia": "live"
+   }
+  ]
+ },
  "1789989-2": {
   "key": "1789989-2",
   "versions": [
