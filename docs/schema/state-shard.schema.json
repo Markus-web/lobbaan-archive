@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Markus-web/lobbaan-archive/docs/schema/state-shard.schema.json",
+  "title": "State shard: state/<kind>/<shard>.json",
+  "description": "Every record of one kind ever seen, keyed by record key, with all versions. Shard = first byte of SHA-1(key) modulo 64, as two hex digits.",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "required": ["key", "versions"],
+    "properties": {
+      "key": { "type": "string", "description": "Diary number for registrations, activities, exits and penalties; id for terms and targets; URI for initiatives; business ID for prh." },
+      "removedAt": { "type": "string", "format": "date", "description": "First day the record was no longer in a complete fetch of the source." },
+      "versions": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": ["hash", "firstSeen", "observedVia", "data"],
+          "properties": {
+            "hash": { "type": "string", "pattern": "^[0-9a-f]{64}$", "description": "SHA-256 of the canonical JSON of data." },
+            "firstSeen": { "type": "string", "format": "date" },
+            "until": { "type": "string", "format": "date", "description": "Day a newer version or a removal replaced this one; absent on the current version." },
+            "observedVia": { "type": "string", "description": "live, wayback, lobbaan-backup or another import source." },
+            "changedFields": { "type": "array", "items": { "type": "string" } },
+            "formatOnly": { "type": "boolean", "description": "Only source-format fields changed." },
+            "data": { "type": "object", "description": "The record exactly as the source published it." }
+          }
+        }
+      }
+    }
+  }
+}

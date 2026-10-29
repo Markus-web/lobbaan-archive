@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Markus-web/lobbaan-archive/docs/schema/changes-day.schema.json",
+  "title": "Daily changes: changes/YYYY/MM/DD.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["date", "key", "kind", "type"],
+    "properties": {
+      "date": { "type": "string", "format": "date", "description": "Same as the file's path." },
+      "key": { "type": "string" },
+      "kind": { "enum": ["registrations", "activities", "exits", "penalties", "terms", "targets", "initiatives", "prh"] },
+      "type": { "enum": ["added", "edited", "removed", "restored"] },
+      "label": { "type": "string", "description": "Human-readable name, e.g. the organisation." },
+      "changedFields": { "type": "array", "items": { "type": "string" } },
+      "formatOnly": { "type": "boolean" }
+    }
+  }
+}

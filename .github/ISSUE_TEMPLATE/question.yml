@@ -1,0 +1,10 @@
+name: Kysymys datasta / Question about the data
+description: How to read or use the archive
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+    validations:
+      required: true

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite it together with the original source (for register data: Avoimuusrekisteri, Valtiontalouden tarkastusvirasto)."
+title: "Lobbaan.fi archive of the Finnish Transparency Register"
+type: dataset
+authors:
+  - name: "Markus Media"
+    website: "https://markusmedia.fi"
+repository: "https://github.com/Markus-web/lobbaan-archive"
+url: "https://lobbaan.fi"
+license: CC-BY-4.0
+abstract: >-
+  Daily, versioned copy of the Finnish Transparency Register (Avoimuusrekisteri) open data and
+  related public sources since 2024, kept by Lobbaan.fi. Every record ever published stays with its
+  full version history; each day's fetch is logged with the SHA-256 of the bytes received.
+keywords:
+  - lobbying
+  - transparency register
+  - avoimuusrekisteri
+  - Finland
+  - open data

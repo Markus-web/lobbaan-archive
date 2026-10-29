@@ -1,0 +1,22 @@
+name: Korjauspyyntö / Correction
+description: Something in the archive is wrong or should not be public
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The archive keeps what the public sources published. If the source itself is wrong, it can only be corrected there
+        (for the Transparency Register: avoimuusrekisteri.fi). The quickest way to report a problem is the form on
+        https://lobbaan.fi/korjaukset. Do not post personal data here; for privacy requests email info@lobbaan.fi.
+  - type: input
+    id: record
+    attributes:
+      label: Record (diary number, business ID or file path)
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+    validations:
+      required: true

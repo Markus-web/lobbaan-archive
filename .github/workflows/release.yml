@@ -1,0 +1,51 @@
+# Monthly release: a tag YYYY-MM with SHA256SUMS of every data file and a short summary of the
+# month's changes, so a citation can point at a fixed, verifiable state of the archive.
+name: Monthly release
+
+on:
+  schedule:
+    - cron: '0 6 1 * *' # first day of the month, for the month that just ended
+  workflow_dispatch:
+    inputs:
+      month:
+        description: Month to release (YYYY-MM); empty = previous month
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Build checksums and summary
+        run: |
+          set -euo pipefail
+          MONTH="${{ inputs.month }}"
+          if [ -z "$MONTH" ]; then MONTH="$(date -u -d "$(date -u +%Y-%m-01) -1 day" +%Y-%m)"; fi
+          echo "MONTH=$MONTH" >> "$GITHUB_ENV"
+          find raw state changes manifest imports -type f -name '*.json' | sort | xargs sha256sum > SHA256SUMS
+          python3 - "$MONTH" > NOTES.md <<'PY'
+          import json, sys
+          from pathlib import Path
+          month = sys.argv[1]
+          y, m = month.split('-')
+          counts = {}
+          for f in sorted(Path('changes', y, m).glob('*.json')) if Path('changes', y, m).exists() else []:
+              for c in json.loads(f.read_text()):
+                  counts[c['type']] = counts.get(c['type'], 0) + 1
+          print(f'Archive state at the end of {month}.')
+          print()
+          print('Changes this month: ' + (', '.join(f'{k} {v}' for k, v in sorted(counts.items())) or 'none') + '.')
+          print()
+          print('Verify a checkout with `sha256sum -c SHA256SUMS`. Data: CC BY 4.0, see LICENSE.')
+          PY
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$MONTH" >/dev/null 2>&1; then echo "Release $MONTH exists"; exit 0; fi
+          gh release create "$MONTH" SHA256SUMS --title "Archive $MONTH" --notes-file NOTES.md --target "$GITHUB_SHA"

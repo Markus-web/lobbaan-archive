@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Markus-web/lobbaan-archive/docs/schema/manifest.schema.json",
+  "title": "Fetch manifest: manifest/YYYY/MM/DD.json and manifest/latest.json",
+  "type": "object",
+  "required": ["date", "sources"],
+  "properties": {
+    "date": { "type": "string", "format": "date" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "archiveRepo": { "type": "string" },
+    "changes": { "type": "object", "description": "Counts of added, edited and removed records." },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source", "url", "ok"],
+        "properties": {
+          "source": { "type": "string" },
+          "url": { "type": "string" },
+          "fetchedAt": { "type": "string", "format": "date-time" },
+          "ok": { "type": "boolean" },
+          "partial": { "type": "boolean", "description": "Fetch failed or looked incomplete; nothing was marked removed." },
+          "httpStatus": { "type": "integer" },
+          "error": { "type": "string" },
+          "note": { "type": "string" },
+          "records": { "type": "integer" },
+          "bytes": { "type": "integer" },
+          "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$", "description": "SHA-256 of the exact bytes received." },
+          "snapshotKey": { "type": "string", "description": "Gzipped copy of those bytes: https://lobbaan.fi/api/archive/file/<snapshotKey>" }
+        }
+      }
+    }
+  }
+}
