@@ -697,6 +697,218 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "7236203269fdee8dc698cb27597b4f996751b1bbb2e231fceeae7937207839f5",
+    "observedVia": "live",
+    "until": "2026-10-30"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "5",
+       "postCode": "20750",
+       "postOffices": [
+        {
+         "city": "TURKU",
+         "languageCode": "1",
+         "municipalityCode": "853"
+        },
+        {
+         "city": "ÅBO",
+         "languageCode": "2",
+         "municipalityCode": "853"
+        }
+       ],
+       "registrationDate": "2010-04-01",
+       "source": "0",
+       "street": "Teijonkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1026918-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1996-03-08",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [
+      {
+       "registrationDate": "2026-05-15",
+       "source": "1",
+       "type": "SELTILA"
+      }
+     ],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1026918-5"
+     },
+     "lastModified": "2026-10-30T03:32:00",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Muu muualla luokittelematon monenlaisten tuotteiden valmistus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other miscellaneous manufacturing n.e.c.",
+        "languageCode": "3"
+       },
+       {
+        "description": "Övrig tillverkning av diverse produkter som inte klassificerats på annat håll",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "32999",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Sabloni Oy",
+       "registrationDate": "1996-03-08",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "NoVett",
+       "registrationDate": "2002-07-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1996-03-08",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1995-11-13",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2006-12-31",
+       "register": "5",
+       "registrationDate": "1995-10-02",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2006-12-31",
+       "register": "6",
+       "registrationDate": "1995-09-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2006-12-31",
+       "register": "7",
+       "registrationDate": "1995-11-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1996-03-08",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-30",
+    "hash": "976451b3b70598b5c72d00cb577d1a9c0f8a2b942153edb9af742509e0268304",
     "observedVia": "live"
    }
   ]

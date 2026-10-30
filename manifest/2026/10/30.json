@@ -1,0 +1,109 @@
+{
+ "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
+ "changes": {
+  "edited": 5
+ },
+ "date": "2026-10-30",
+ "generatedAt": "2026-10-30T07:35:45.886Z",
+ "sources": [
+  {
+   "bytes": 1361952,
+   "fetchedAt": "2026-10-30T07:35:45.886Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 1382,
+   "sha256": "af36c84f525cdf29fd709eb186d6f47b90390c361bb06947e3cbd25027c13587",
+   "snapshotKey": "snapshots/2026-10-29/register-notification.json.gz",
+   "source": "register-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification"
+  },
+  {
+   "bytes": 36699693,
+   "fetchedAt": "2026-10-30T07:35:57.462Z",
+   "httpStatus": 200,
+   "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
+   "ok": true,
+   "records": 5835,
+   "sha256": "c0f31c8c2b57b6f5a2af10eac8f91f4fbe2fffd4ed328930b12f52395053583d",
+   "snapshotKey": "snapshots/2026-10-29/activity-notification.json.gz",
+   "source": "activity-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-activity-notification"
+  },
+  {
+   "bytes": 59281,
+   "fetchedAt": "2026-10-30T07:36:57.173Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 81,
+   "sha256": "b179caab4ca661194388fe557537eeabb0c1791fbba306c49e26c8875d998db1",
+   "snapshotKey": "snapshots/2026-10-29/exit-notification.json.gz",
+   "source": "exit-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-exit-notification"
+  },
+  {
+   "bytes": 2,
+   "fetchedAt": "2026-10-30T07:36:57.340Z",
+   "httpStatus": 200,
+   "note": "Implausibly few records; removals not inferred.",
+   "ok": true,
+   "partial": true,
+   "records": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "snapshotKey": "snapshots/2026-10-29/penalty-payments.json.gz",
+   "source": "penalty-payments",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-penalty-payments"
+  },
+  {
+   "bytes": 1744,
+   "fetchedAt": "2026-10-30T07:36:57.468Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 6,
+   "sha256": "f9d2a83c7f770b75b84fecbddfb5b9702d8fccce52042a3735aef985dd517a83",
+   "snapshotKey": "snapshots/2026-10-29/term.json.gz",
+   "source": "term",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-term"
+  },
+  {
+   "bytes": 2962096,
+   "fetchedAt": "2026-10-30T07:36:57.597Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 4550,
+   "sha256": "48da9a1aee70d8d842b5e2cb3b3f5b84441c1a2fd28cb46289aca12e3b5278cd",
+   "snapshotKey": "snapshots/2026-10-29/targets.json.gz",
+   "source": "targets",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-target/targets"
+  },
+  {
+   "error": "HTTP 403",
+   "fetchedAt": "2026-10-30T07:36:59.011Z",
+   "ok": false,
+   "partial": true,
+   "records": 0,
+   "source": "kansalaisaloite-initiatives",
+   "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
+  },
+  {
+   "bytes": 698296,
+   "fetchedAt": "2026-10-30T07:36:59.434Z",
+   "httpStatus": 200,
+   "note": "Finnish head offices from the export of 2026-10-29T21:00:00.079+00:00 (18072 organisations, 118130359 bytes, SHA-256 26bb3c11043c2d110e013fd45d709662763e8b23301f20ef54e2d847801762a0).",
+   "ok": true,
+   "records": 397,
+   "sha256": "99e2665d619b285c015b05d34c9a6c262eb6119874dd1050144ec99f3d03dde7",
+   "snapshotKey": "snapshots/2026-10-29/eu-register.json.gz",
+   "source": "eu-register",
+   "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
+  },
+  {
+   "fetchedAt": "2026-10-30T07:43:49.515Z",
+   "note": "Rotating refresh: 700 of 1371 business IDs, 0 failed.",
+   "ok": true,
+   "partial": true,
+   "records": 332,
+   "source": "prh-ytj",
+   "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
+  }
+ ]
+}
