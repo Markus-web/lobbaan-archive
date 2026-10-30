@@ -1564,6 +1564,246 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "f693fa3b6be2ba904b66feb90ed04eae4ccb8edcb803b88251a89a5daa46d3a2",
+    "observedVia": "live",
+    "until": "2026-10-30"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3",
+       "co": "",
+       "entrance": "D",
+       "postCode": "50100",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "2025-02-04",
+       "source": "0",
+       "street": "Prikaatinkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "50101",
+       "postOfficeBox": "3",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "1995-01-02",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0981408-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1994-04-13",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0981408-6"
+     },
+     "lastModified": "2026-10-29T10:46:07",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Sähkön siirto",
+        "languageCode": "1"
+       },
+       {
+        "description": "Transmission of electricity",
+        "languageCode": "3"
+       },
+       {
+        "description": "Överföring av elektricitet",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35130",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Järvi-Suomen Energia Oy",
+       "registrationDate": "1994-04-13",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Järvi-Suomen Verkko",
+       "registrationDate": "2012-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "JSEOY",
+       "registrationDate": "2026-05-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1994-04-13",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1995-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1994-10-06",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1994-04-13",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-10-30",
+    "hash": "cfb00eedcfcd61cb653413b980d0b31bef24ec9114cd5a8490d4b16d152ac93d",
     "observedVia": "live"
    }
   ]

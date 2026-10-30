@@ -1,15 +1,14 @@
 {
  "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
  "changes": {
-  "added": 1,
-  "edited": 2
+  "edited": 3
  },
  "date": "2026-10-30",
- "generatedAt": "2026-10-30T08:16:24.226Z",
+ "generatedAt": "2026-10-30T08:28:52.081Z",
  "sources": [
   {
    "bytes": 1361952,
-   "fetchedAt": "2026-10-30T08:16:24.226Z",
+   "fetchedAt": "2026-10-30T08:28:52.082Z",
    "httpStatus": 200,
    "ok": true,
    "records": 1382,
@@ -20,7 +19,7 @@
   },
   {
    "bytes": 36699693,
-   "fetchedAt": "2026-10-30T08:16:32.354Z",
+   "fetchedAt": "2026-10-30T08:29:01.719Z",
    "httpStatus": 200,
    "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
    "ok": true,
@@ -32,7 +31,7 @@
   },
   {
    "bytes": 59281,
-   "fetchedAt": "2026-10-30T08:17:24.723Z",
+   "fetchedAt": "2026-10-30T08:30:00.907Z",
    "httpStatus": 200,
    "ok": true,
    "records": 81,
@@ -43,7 +42,7 @@
   },
   {
    "bytes": 2,
-   "fetchedAt": "2026-10-30T08:17:24.880Z",
+   "fetchedAt": "2026-10-30T08:30:01.130Z",
    "httpStatus": 200,
    "note": "Implausibly few records; removals not inferred.",
    "ok": true,
@@ -56,7 +55,7 @@
   },
   {
    "bytes": 1744,
-   "fetchedAt": "2026-10-30T08:17:24.948Z",
+   "fetchedAt": "2026-10-30T08:30:01.302Z",
    "httpStatus": 200,
    "ok": true,
    "records": 6,
@@ -67,7 +66,7 @@
   },
   {
    "bytes": 2962096,
-   "fetchedAt": "2026-10-30T08:17:25.050Z",
+   "fetchedAt": "2026-10-30T08:30:01.464Z",
    "httpStatus": 200,
    "ok": true,
    "records": 4550,
@@ -77,18 +76,17 @@
    "url": "https://public.api.avoimuusrekisteri.fi/open-data-target/targets"
   },
   {
-   "bytes": 1630994,
-   "fetchedAt": "2026-10-30T08:17:27.285Z",
-   "ok": true,
-   "records": 1940,
-   "sha256": "488c0ece869892a23e0353c0883ce321d127a7c09a00d0734156470306b39b73",
-   "snapshotKey": "snapshots/2026-10-30/kansalaisaloite-initiatives.json.gz",
+   "error": "HTTP 403",
+   "fetchedAt": "2026-10-30T08:30:03.292Z",
+   "ok": false,
+   "partial": true,
+   "records": 0,
    "source": "kansalaisaloite-initiatives",
    "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
   },
   {
    "bytes": 698296,
-   "fetchedAt": "2026-10-30T08:17:38.032Z",
+   "fetchedAt": "2026-10-30T08:30:03.995Z",
    "httpStatus": 200,
    "note": "Finnish head offices from the export of 2026-10-29T21:00:00.079+00:00 (18072 organisations, 118130359 bytes, SHA-256 26bb3c11043c2d110e013fd45d709662763e8b23301f20ef54e2d847801762a0).",
    "ok": true,
@@ -99,11 +97,11 @@
    "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
   },
   {
-   "fetchedAt": "2026-10-30T08:21:45.967Z",
-   "note": "Rotating refresh: 200 of 1371 business IDs, 0 failed.",
+   "fetchedAt": "2026-10-30T08:37:01.256Z",
+   "note": "Rotating refresh: 700 of 1371 business IDs, 0 failed.",
    "ok": true,
    "partial": true,
-   "records": 95,
+   "records": 360,
    "source": "prh-ytj",
    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
   }
