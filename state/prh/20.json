@@ -5358,6 +5358,2756 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "b24ae85d127e2933fdf54df07cc101b9701bfab190620a2cf3127b17799a1c24",
+    "observedVia": "live",
+    "until": "2026-11-02"
+   },
+   {
+    "changedFields": [
+     "names",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "6",
+       "co": "",
+       "entrance": "",
+       "postCode": "00100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-04-03",
+       "source": "0",
+       "street": "Arkadiankatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1927556-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2005-02-28",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1927556-5"
+     },
+     "lastModified": "2026-10-26T10:17:04",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Lääkäriasemat, yksityislääkärit ja vastaavat erikoislääkäripalvelut",
+        "languageCode": "1"
+       },
+       {
+        "description": "Medical specialists activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Specialistläkarverksamhet",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "86220",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Mehiläinen Oy",
+       "registrationDate": "2007-01-19",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2007-01-18",
+       "name": "Mehiläinen Terveyspalvelut Oy",
+       "registrationDate": "2005-02-28",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Joensuun Hammaspaikka",
+       "registrationDate": "2020-02-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mehiläisen Toimiva",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rehamark",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Cancer Center of Excellence Docrates",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Temppeliaukion Hammasklinikka",
+       "registrationDate": "2019-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hoivakoti Aino",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Auron Ohjaava Fysioterapia",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios Digital",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Haminan Lääkärikeskus",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Uudenmaan Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Resiinafysio",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Joutsan Kartanokoti",
+       "registrationDate": "2018-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Docrates Klinikka",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Onni Catering",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kirurgikeskus Lansetti",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keuruun Terveyspiste",
+       "registrationDate": "2017-01-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Työterveys Valona",
+       "registrationDate": "2021-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Torilinnan Lääkäriasema",
+       "registrationDate": "2009-07-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Origo Terveys",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Palvelukoti Kanerva",
+       "registrationDate": "2012-10-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios OMT-Liike",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mehiläinen Hammashoitopalvelut",
+       "registrationDate": "2017-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bodymind Kuntoutuspalvelut",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Kirkkonummi",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Uusikaupunki",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tapiolan Hammasröntgen",
+       "registrationDate": "2017-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "sairaalahermes.fi",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Dentomed",
+       "registrationDate": "2024-10-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammasneo",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ortopedisen Manuaalisen Terapian, OMT Keskus",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "NEO Terveys",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oma hammaslääkärisi",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hoivakoti Janne",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hermes Klinikka",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hyvinkään Ensiapu",
+       "registrationDate": "2012-10-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Auron Toimintaterapiatalo",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Palvelukoti Johannes",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sydänvagus",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kajaanin Lääkärikeskus",
+       "registrationDate": "2018-08-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tohtoritalo 41400",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sädehoitokeskus Docrates",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Perhekeskus Kaarisilta",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Väestöliiton klinikat",
+       "registrationDate": "2018-08-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "NEO Healthcare International",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulun HammasSalon",
+       "registrationDate": "2016-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Iisalmen Työterveysasema",
+       "registrationDate": "2019-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Toimintaterapia Aivoitus",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vaasan kirurgipalvelu - Vasa Kirurgtjänst",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Myrskyn silmän perhepalvelut Turku",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lahden Diakonialaitoksen Lääkäriasema",
+       "registrationDate": "2006-06-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kouvolan Meditiimi",
+       "registrationDate": "2018-11-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Karkkilan Lääkärikeskus",
+       "registrationDate": "2016-07-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Condis Kokkolan kuntoutusasema",
+       "registrationDate": "2022-03-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Palvelukoti Onni",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Crystal-Revontuli",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vaasan Röntgen",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Kokkola",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AMedi Lääkärikeskus ja sairaala",
+       "registrationDate": "2012-10-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Borgå Röntgen",
+       "registrationDate": "2019-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lasten ja Nuorten Kuntoutus Keskiö",
+       "registrationDate": "2026-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lapin Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ida-Maria koti",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkärikeskus Pilleri",
+       "registrationDate": "2012-10-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pirkanmaan Kirurgipalvelu",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammaslääkäriasema Otso",
+       "registrationDate": "2024-03-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Helsinki",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Dentopal",
+       "registrationDate": "2024-10-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios Kuopion OMT-Keskus",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Design Hammas",
+       "registrationDate": "2023-01-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MediPiko",
+       "registrationDate": "2006-11-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pasilan Hammaslääkäriasema",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Leanportin Hammaslääkäriasema",
+       "registrationDate": "2016-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Aurora Tandläkarna",
+       "registrationDate": "2022-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Puhti Hyvinvointipalvelut",
+       "registrationDate": "2023-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "NEO Research",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nummelan Lääkäriasema",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hattulan Perhelääkärit",
+       "registrationDate": "2014-05-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Magneetti 22",
+       "registrationDate": "2021-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios Selkäcenter",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Nurmijärvi",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Clinic Hermes",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Iisalmen Hammaspaikka",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mastodont",
+       "registrationDate": "2024-03-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Kuopio",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Remedi",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rauman Kirurgipalvelu",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hämeen Lääkärikulma",
+       "registrationDate": "2021-10-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Uudenmaan Kuntokulma",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Avia Hammaslääkärit",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Uuraisten palvelukoti",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Mikkeli",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jyväskylän Röntgenlaitos",
+       "registrationDate": "2007-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Turku",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vaasan Magneetti",
+       "registrationDate": "2011-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lastensuojeluyksikkö Peiponpesä",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Seinäjoki",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TCR Vantaanportti",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelä-Savon Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lasten Lääni",
+       "registrationDate": "2014-05-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "PlusMedi",
+       "registrationDate": "2021-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mehiläinen Tutoris",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kielotien Lääkäriasema",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammaskolmio",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Lappeenranta",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Variston Lääkäriasema",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Tuusula",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Asumispalveluyksikkö Janne",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Premera",
+       "registrationDate": "2026-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kelloportin Työterveys",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "ITTE Imatran Tutkimus ja Terveys",
+       "registrationDate": "2017-12-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Psyykkisen hyvinvoinnin keskus Komppi",
+       "registrationDate": "2021-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hoivakoti-Hella",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediläinen",
+       "registrationDate": "2025-12-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tapiolan Hammaslääkäriasema",
+       "registrationDate": "2017-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sairaala Peippo",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediverkko oma hammaslääkärisi",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysikaalinen Hoitolaitos Kuntola",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Manukatti",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sydmedi",
+       "registrationDate": "2022-10-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nokian Hammaslääkäriasema",
+       "registrationDate": "2017-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkäriasema Jaarli",
+       "registrationDate": "2006-06-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Silmäjaarli",
+       "registrationDate": "2006-06-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sairaala Neo",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Centre for Psychological Well-being Komppi",
+       "registrationDate": "2021-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "NEO Group",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hoivakoti Paavali",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mehiläinen Hammaslaboratoriot",
+       "registrationDate": "2016-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkärikeskus Porus",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MEHILÄINEN SUORAKORVAUS",
+       "registrationDate": "2016-08-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjois-Suomen Lääkäripalvelu",
+       "registrationDate": "2019-12-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediverkko Sosiaali ja Terveyspalvelut",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Diagnos Terveyspalvelut",
+       "registrationDate": "2021-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Seudun Työterveystalo",
+       "registrationDate": "2021-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Porvoon Lääkärikeskus",
+       "registrationDate": "2019-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vaasan Hammas",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AM-Toimintaterapia",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Pori",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Docrates Syöpäsairaala",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tomodent",
+       "registrationDate": "2017-03-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Leppävaaran hammaslääkärikeskus Helmi",
+       "registrationDate": "2020-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Satakunnan Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjois-Pohjanmaan Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kalevalan Työterveys",
+       "registrationDate": "2023-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Dentalpoint",
+       "registrationDate": "2020-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Terveysasema ChydAntti",
+       "registrationDate": "2015-09-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Varsinais-Suomen Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Halkiokeskus",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuhmon Fysikaalinen Hoitola",
+       "registrationDate": "2026-04-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hakaniemen Lääkäriasema / Hagnäs Läkarstation",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turengin Kuntovire",
+       "registrationDate": "2026-05-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Toimivax",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Porvoo",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Oulu",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Neurokuntoutus NH",
+       "registrationDate": "2026-06-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Itä-Suomen Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Vaasa",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Espoo",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Apila Terveys Jyväskylä",
+       "registrationDate": "2021-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Felicitas-Klinikka",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Työkykykompassi",
+       "registrationDate": "2013-01-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mikkelin Terveys",
+       "registrationDate": "2024-06-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammaslääkärikeskus Helmi",
+       "registrationDate": "2020-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkäriasema Joutsen",
+       "registrationDate": "2021-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Docrates Hospital",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AM-Pollex Therapy",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Meri-Lapin Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Hyvinkää",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Sipoo",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysiokolmio",
+       "registrationDate": "2021-10-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hangon Lääkäritalo ja Fysioterapia",
+       "registrationDate": "2017-01-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lastensuojeluyksikkö Wiljagård",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Koillismaan Terveys",
+       "registrationDate": "2019-12-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Onnin olohuone",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hippo Terapiaklinikka",
+       "registrationDate": "2021-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Tampere",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Lohja",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "NorTher",
+       "registrationDate": "2026-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "VITA Lääkäriasema",
+       "registrationDate": "2018-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Järvenpää",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TCR Pasila",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bulevardin Androloginen Laboratorio",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Suomi",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkärikeskus Status",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Psykologipalvelu Psyyke",
+       "registrationDate": "2021-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Luppokoti",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hoivakartano",
+       "registrationDate": "2012-10-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TerapiaNummi",
+       "registrationDate": "2026-06-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sairaala Status",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Joensuu",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Auron OMT-Keskus",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkäriasema AVITA",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Auron Fysio",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kritima Tec",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Promedi",
+       "registrationDate": "2021-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Eturauhassyöpäkeskus Docrates",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ahvenanmaan Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuntoutus- ja hyvinvointikeskus Variaatio",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkäriasema Mies",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ikimagneetti",
+       "registrationDate": "2024-06-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vuokatin Työterveys",
+       "registrationDate": "2026-04-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MEHILÄINEN KENNO",
+       "registrationDate": "2016-08-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjois-Karjalan Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lohjan Lääkärikeskus",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Auron Fysioterapiatalo",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkärikeskus Medikatti",
+       "registrationDate": "2026-04-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jyväskylän Terveys",
+       "registrationDate": "2021-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bulevardin Hammaslääkäriasema",
+       "registrationDate": "2019-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelä-Karjalan Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mehiläinen Digiklinikka",
+       "registrationDate": "2017-01-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Karelia Magneetti",
+       "registrationDate": "2024-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lapin Lääkärikeskus",
+       "registrationDate": "2019-12-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MEHILÄINEN HETIKORVAUS",
+       "registrationDate": "2016-08-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Komppi Työelämäpalvelut",
+       "registrationDate": "2021-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vaasan Lääkärikeskus - Vasa Läkarcentral",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rantapuiston Palvelukoti",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "SeiMedi",
+       "registrationDate": "2021-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kotinummi",
+       "registrationDate": "2017-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "CogniMed",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Leporiina Beautysystems",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Palvelutoimisto Nelikko",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Borgå Läkarcentral",
+       "registrationDate": "2019-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Puistosairaala",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "SelkäCenter",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hoivakoti Riihilehto",
+       "registrationDate": "2014-02-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "International Comprehensive Cancer Center Docrates",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lakeuden Maininki",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysioterapia Kunnon Kulma",
+       "registrationDate": "2018-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lapin Röntgen",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tampereen Lastenlääkäriasema",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Logopedics Pro Communication",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkäriasema Cantti",
+       "registrationDate": "2019-12-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Kajaani",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjois-Savon Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Iisalmen OMT-Fysioterapia",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkäriasema Medek",
+       "registrationDate": "2016-10-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tiede-Komppi",
+       "registrationDate": "2021-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Adenova Lääkärikeskus",
+       "registrationDate": "2017-12-05",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kokkolan Kuntoutusasema",
+       "registrationDate": "2022-03-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Napapiirin Hammaslääkärikeskus",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "OmaHammaslääkäri",
+       "registrationDate": "2015-12-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Leporento",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tohtoritalon Sydänkeskus",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kouvolan Lääkärikeskus",
+       "registrationDate": "2018-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Hämeenlinna",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios Vantaan Fysioterapia",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Kouvola",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Leivoyhtiöt",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Novarca",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Röntgenkeskus",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Toiminnantaika",
+       "registrationDate": "2026-05-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediverkko Hammaslääkäripalvelut",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuopion Hammasklinikka",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Vagus",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kipinä Terveys",
+       "registrationDate": "2021-10-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkärikeskus Säveri",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hyvinkään Perhekeskus",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios Lahden Fysteam",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mehiläinen - Auttaa. Hoitaa. Huolehtii.",
+       "registrationDate": "2012-06-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuvantamiskeskus Docrates",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Komppi Holding",
+       "registrationDate": "2021-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Raision Fysioterapia",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios Mehiläinen",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Aura IVF",
+       "registrationDate": "2026-03-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hospital Hermes",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulaisten Syke",
+       "registrationDate": "2026-04-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Asemanpuiston Lääkärikeskus",
+       "registrationDate": "2019-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sairaala Hermes",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Femeda",
+       "registrationDate": "2026-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Klaukkalan Fysioterapia",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Aurora Hammaslääkärit",
+       "registrationDate": "2022-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Haapajärven Lääkäritalo",
+       "registrationDate": "2021-10-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kainuun Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Malmin Torin Hammaslääkärit",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediverkko Yhtymä",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vantaanportin Lääkäriasema",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ylöjärven Fysio",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Itä-Suomen Magneetti",
+       "registrationDate": "2024-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Porvoon Röntgen",
+       "registrationDate": "2019-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "JyväsMedi Terveysasema",
+       "registrationDate": "2021-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkäripalvelu Reflex",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Docrates Cancer Center",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Lahti",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Heltti",
+       "registrationDate": "2026-09-14",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Polinna",
+       "registrationDate": "2019-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Villa Vekara",
+       "registrationDate": "2026-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Uudenmaan Kuntohoito",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Kotka",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Uudenmaan Kuntohuolto",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bulevardin Klinikka",
+       "registrationDate": "2021-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Forumin Hammaslääkärikeskus",
+       "registrationDate": "2007-05-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Teppanan Fysikaalinen Hoitolaitos",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Forumin Lääkäriasema / Forums Läkarstation",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Jyväskylä",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nokian NeuroFysio",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelä-Pohjanmaan Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lastenpsykiatrinen Sairaala Peippo",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Apila Terveys",
+       "registrationDate": "2021-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kalevankadun Lääkäriasema Mehiläinen",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Medi Lääkärikeskus",
+       "registrationDate": "2012-10-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kotkan Radiologikeskus",
+       "registrationDate": "2018-08-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kanta-Hämeen Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jyväskylän Lääkärikeskus",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Carema",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kommunikointikeskus Arki",
+       "registrationDate": "2022-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Neuro NEO",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "VITA Medical Center",
+       "registrationDate": "2018-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kotkan Lääkärikeskus",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Docrates Sairaala",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Länsituulen Hammaslääkäriasema",
+       "registrationDate": "2021-03-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkärikeskus Wiljami",
+       "registrationDate": "2019-05-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Auron Myyrmäen Kuntoasema",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kritima",
+       "registrationDate": "2017-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Docrates",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Salo",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vakka-Suomen Lääkärikeskus",
+       "registrationDate": "2019-12-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kouvolan Lääkäriasema",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vakka-Suomen Näkökeskus",
+       "registrationDate": "2019-12-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Rovaniemi",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Företagshälsogården i Åboregionen",
+       "registrationDate": "2021-04-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Salon Syke",
+       "registrationDate": "2015-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kiimingin Hammaspaikka",
+       "registrationDate": "2022-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulun Medifys",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Työterveys Laine",
+       "registrationDate": "2022-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Medi-Orto",
+       "registrationDate": "2026-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kainuunmeren Työterveys",
+       "registrationDate": "2023-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Klinikka 22",
+       "registrationDate": "2021-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Medirex",
+       "registrationDate": "2026-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Stoma Forum",
+       "registrationDate": "2019-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Syöpälääkehoitokeskus Docrates",
+       "registrationDate": "2025-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Leivokoti",
+       "registrationDate": "2012-01-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kotkan Leikkaussali",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuusankosken Lääkärikeskus",
+       "registrationDate": "2018-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjanmaan Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios Revontulen Fysioterapia",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Komppi - Center för psykiskt välbefinnande",
+       "registrationDate": "2021-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ilomantsin Lastensuojeluyksikkö",
+       "registrationDate": "2012-10-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Rauma",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kirkkopuiston Hammaslääkärit",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Auron Tikkurilan Kuntoasema",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ikitutkimus",
+       "registrationDate": "2024-06-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios",
+       "registrationDate": "2026-02-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Raision Urheiluklinikka",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fysios Terapiapalvelut",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Otonhammas",
+       "registrationDate": "2016-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Raision Hieronta",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kymenlaakson Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Maresan",
+       "registrationDate": "2020-03-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Terapia-team Tampere",
+       "registrationDate": "2026-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "oma hammaslääkärisi Vantaa",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sipoon Hammaslääkäriasema - Sibbo Tandläkarstation",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Stoma Klinikat",
+       "registrationDate": "2019-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keski-Suomen Erikoiskuntoutus",
+       "registrationDate": "2026-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vallilan Hammaslääkärikeskus",
+       "registrationDate": "2023-07-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "ÖGA - pieni silmäsairaala",
+       "registrationDate": "2026-10-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2005-02-27",
+       "register": "1",
+       "registrationDate": "2004-11-01",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2005-02-28",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2005-03-02",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2022-06-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2022-05-31",
+       "register": "5",
+       "registrationDate": "2005-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2005-03-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2015-10-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2005-03-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2005-02-28",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-02",
+    "hash": "de144e7e927adedbe892b982b227cfd136fb17e42f9c4e0f9dbad70a4d4d122e",
     "observedVia": "live"
    }
   ]
@@ -6434,6 +9184,300 @@
     },
     "firstSeen": "2026-10-30",
     "hash": "f9bcf1df42079523c1e27fd7318edf34d77316d6fd6f9d7188e03404f0c7b4de",
+    "observedVia": "live",
+    "until": "2026-11-02"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "B",
+       "postCode": "00100",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2026-10-28",
+       "source": "0",
+       "street": "Kaisaniemenkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "B",
+       "postCode": "00100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2026-10-28",
+       "source": "0",
+       "street": "Kaisaniemenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "3176746-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2020-12-15",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3176746-6"
+     },
+     "lastModified": "2026-10-29T07:34:19",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Muu maaliikennettä palveleva toiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other service activities incidental to land transportation",
+        "languageCode": "3"
+       },
+       {
+        "description": "Övrig stödverksamhet avseende landtransport",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "52219",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Länsirata Oy",
+       "registrationDate": "2024-02-08",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2024-02-08",
+       "name": "Turun Tunnin Juna Oy",
+       "registrationDate": "2020-12-15",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Turku One Hour Train",
+       "registrationDate": "2024-02-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Tunnin Juna",
+       "registrationDate": "2024-02-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Entimmeståget till Åbo",
+       "registrationDate": "2024-02-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Västbanan Ab",
+       "registrationDate": "2024-02-08",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "West Railway Ltd",
+       "registrationDate": "2024-02-08",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2020-12-14",
+       "register": "1",
+       "registrationDate": "2020-12-10",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2020-12-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2020-12-16",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2020-12-10",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2020-12-04",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2020-12-04",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2020-12-15",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2024-08-09",
+      "source": "0",
+      "url": "www.lansirata.fi"
+     }
+    },
+    "firstSeen": "2026-11-02",
+    "hash": "03a9f267467a4f693053a0890fd8e53857c39928c91089fe3a58b8628fb8ca9b",
     "observedVia": "live"
    }
   ]

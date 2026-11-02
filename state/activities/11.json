@@ -1408,6 +1408,63 @@
    }
   ]
  },
+ "BRI-26-8493-T": {
+  "key": "BRI-26-8493-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "none",
+     "activityNotificationDate": "2026-11-02",
+     "companyId": null,
+     "companyName": "Brite AB",
+     "companyType": "other_company_id",
+     "createdAt": "2026-11-02",
+     "diaryNumber": "BRI-26-8493-T",
+     "id": 8493,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Payment services",
+     "otherCompanyId": "SE559116-1632",
+     "previousYearFinancials": {
+      "activityNotificationId": 8493,
+      "createdAt": "2026-11-02",
+      "id": 756,
+      "lobbying": {
+       "employeeTotal": 2,
+       "externalLobbyingGuidanceCosts": 27237.9,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": null
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [],
+     "useForExit": false
+    },
+    "firstSeen": "2026-11-02",
+    "hash": "8f44572425ef38b6bbad0b04025dd0cd214bd79a37b2280e2ed7ac5d4c3ae175",
+    "observedVia": "live"
+   }
+  ]
+ },
  "DIF-25-3270-T": {
   "key": "DIF-25-3270-T",
   "versions": [
