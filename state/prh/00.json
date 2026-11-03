@@ -4639,6 +4639,232 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "9d87c878b9cedd902dfac1c5a3481c7c0110bb40593a2cf6aeb780b2e4021580",
+    "observedVia": "live",
+    "until": "2026-11-03"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "10",
+       "postCode": "17130",
+       "postOffices": [
+        {
+         "city": "VESIVEHMAA",
+         "languageCode": "1",
+         "municipalityCode": "016"
+        },
+        {
+         "city": "VESIVEHMAA",
+         "languageCode": "2",
+         "municipalityCode": "016"
+        }
+       ],
+       "registrationDate": "2018-08-13",
+       "source": "0",
+       "street": "Vuorentie",
+       "type": 2
+      }
+     ],
+     "businessId": "2931544-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2018-09-05",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2931544-4"
+     },
+     "lastModified": "2026-11-03T00:41:40",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "All other miscellaneous professional, scientific and technical activities n.e.c.",
+        "languageCode": "3"
+       },
+       {
+        "description": "All övrig diverse verksamhet inom juridik, ekonomi, vetenskap och teknik som inte klassificerats på annat håll",
+        "languageCode": "2"
+       },
+       {
+        "description": "Muualla luokittelematon kaikki muu monenlainen ammatillinen, tieteellinen ja tekninen toiminta",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "74999",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Think Atom Oy",
+       "registrationDate": "2018-09-05",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2018-09-04",
+       "register": "1",
+       "registrationDate": "2018-08-13",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2018-09-05",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2018-09-05",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2019-11-30",
+       "register": "7",
+       "registrationDate": "2018-10-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2026-10-31",
+       "register": "5",
+       "registrationDate": "2018-08-13",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2026-10-31",
+       "register": "6",
+       "registrationDate": "2018-09-01",
+       "type": "80"
+      }
+     ],
+     "registrationDate": "2018-09-05",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2018-08-13",
+      "source": "0",
+      "url": "thinkatom.net"
+     }
+    },
+    "firstSeen": "2026-11-03",
+    "hash": "9861f57236ae79651353d0a8e32c17bffc55a1ce85783b0ab959db385f755146",
     "observedVia": "live"
    }
   ]
