@@ -821,6 +821,322 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "ccb7c14ff9e3202c23b830832d21d401ceb62dc781add5bea82a5cfe89e603a1",
+    "observedVia": "live",
+    "until": "2026-11-04"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "00180",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2026-07-01",
+       "source": "0",
+       "street": "Salmisaarenaukio",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00181",
+       "postOfficeBox": "245",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2016-07-04",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0215254-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "1997-09-01",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0215254-2"
+     },
+     "lastModified": "2026-11-03T15:52:01",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Activities of holding companies",
+        "languageCode": "3"
+       },
+       {
+        "description": "Holdingverksamhet",
+        "languageCode": "2"
+       },
+       {
+        "description": "Holdingyhtiöiden toiminta",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "64210",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Outokumpu Oyj",
+       "registrationDate": "1997-09-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1997-08-31",
+       "name": "Outokumpu Oy",
+       "registrationDate": "1932-06-14",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Outokumpu Wenmec",
+       "registrationDate": "2002-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Outokumpu Base Metals",
+       "registrationDate": "2002-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Outokumpu Corporation",
+       "registrationDate": "2024-05-21",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1932-06-14",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Alkutuottajana ja/tai kuvataiteilijana arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig som primärproducent och/eller bildkonstnär",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for agriculture and forestry",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "83"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "1989-12-31",
+       "register": "7",
+       "registrationDate": "1944-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1990-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-09-13",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1932-06-14",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-04",
+    "hash": "99535142c3146f4e4e271079583aefacf8fd8059a8584912d1ab753fff82af16",
     "observedVia": "live"
    }
   ]

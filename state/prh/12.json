@@ -2994,6 +2994,285 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "eccfad3835642828bf1de424ad51979de2e59cf89228bc0347fd233c95a7d6e4",
+    "observedVia": "live",
+    "until": "2026-11-04"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "4",
+       "co": "",
+       "entrance": "",
+       "postCode": "90140",
+       "postOffices": [
+        {
+         "city": "OULU",
+         "languageCode": "1",
+         "municipalityCode": "564"
+        },
+        {
+         "city": "OULU",
+         "languageCode": "2",
+         "municipalityCode": "564"
+        }
+       ],
+       "registrationDate": "2024-09-18",
+       "source": "0",
+       "street": "Solistinkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "c/o Oulun Energia",
+       "entrance": "",
+       "postCode": "90101",
+       "postOfficeBox": "116",
+       "postOffices": [
+        {
+         "city": "OULU",
+         "languageCode": "1",
+         "municipalityCode": "564"
+        },
+        {
+         "city": "OULU",
+         "languageCode": "2",
+         "municipalityCode": "564"
+        }
+       ],
+       "registrationDate": "2013-03-08",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0989376-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1995-05-24",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0989376-5"
+     },
+     "lastModified": "2026-11-03T09:09:42",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Generering av elektricitet från icke-förnybara energikällor",
+        "languageCode": "2"
+       },
+       {
+        "description": "Production of electricity from non-renewable sources",
+        "languageCode": "3"
+       },
+       {
+        "description": "Sähkön tuotanto uusiutumattomilla energialähteillä",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Oulun Energia Oy",
+       "registrationDate": "2014-12-16",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2014-12-16",
+       "name": "Yli-Iin Sähkö Oy",
+       "registrationDate": "1995-05-24",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Oulu Energy Ltd",
+       "registrationDate": "2014-12-16",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Merikoski Energia",
+       "registrationDate": "2014-12-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Merikoski Group",
+       "registrationDate": "2014-12-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1995-05-24",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1994-12-30",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2016-02-03",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2015-10-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1995-05-24",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2022-05-11",
+      "source": "0",
+      "url": "www.oulunenergia.fi"
+     }
+    },
+    "firstSeen": "2026-11-04",
+    "hash": "74f31c0fc4e9a698e3555411c6b4da34f7c6eef7461f89f2672e83df4ff8d2ad",
     "observedVia": "live"
    }
   ]
