@@ -318,6 +318,329 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "bf739c2f116f238254b0b1f5186462c62a201aad11ede84f3cddf2dd95bd2799",
+    "observedVia": "live",
+    "until": "2026-11-05"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "65100",
+       "postOffices": [
+        {
+         "city": "VAASA",
+         "languageCode": "1",
+         "municipalityCode": "905"
+        },
+        {
+         "city": "VASA",
+         "languageCode": "2",
+         "municipalityCode": "905"
+        }
+       ],
+       "registrationDate": "2016-01-05",
+       "source": "0",
+       "street": "Kirkkopuistikko",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "65100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "VAASA",
+         "languageCode": "1",
+         "municipalityCode": "905"
+        },
+        {
+         "city": "VASA",
+         "languageCode": "2",
+         "municipalityCode": "905"
+        }
+       ],
+       "registrationDate": "2016-01-05",
+       "source": "0",
+       "street": "Kirkkopuistikko",
+       "type": 2
+      }
+     ],
+     "businessId": "0216734-9",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0216734-9"
+     },
+     "lastModified": "2026-11-04T19:29:32",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Handel med elektricitet",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sähkön kauppa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Trade of electricity",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35150",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "EPV Energia Oy",
+       "registrationDate": "2009-04-20",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2009-04-19",
+       "name": "Etelä-Pohjanmaan Voima Oy",
+       "registrationDate": "1952-11-21",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "EPV Lämpö",
+       "registrationDate": "2009-03-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "EPV Infra",
+       "registrationDate": "2009-03-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "EPV Tuuli",
+       "registrationDate": "2009-03-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelä-Pohjanmaan Voima",
+       "registrationDate": "2009-04-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "EPV Värme",
+       "registrationDate": "2009-03-20",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "EPV Heat",
+       "registrationDate": "2009-03-20",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "EPV Vind",
+       "registrationDate": "2009-03-20",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "EPV Wind",
+       "registrationDate": "2009-03-20",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "EPV Energi Ab",
+       "registrationDate": "2009-04-20",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "EPV Energy Ltd",
+       "registrationDate": "2009-04-20",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1952-11-21",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-12-05",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1955-11-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-09-18",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1952-11-21",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-05",
+    "hash": "d6524693c98a3aa134f5c627dee4692d26ed5d30770efed4940306025aa87dae",
     "observedVia": "live"
    }
   ]
@@ -2023,6 +2346,468 @@
     },
     "firstSeen": "2026-11-03",
     "hash": "99b7946c617ef84a8b006803cc9b42c2fcc52cb41ebc747b74bb58a52c2d5b26",
+    "observedVia": "live",
+    "until": "2026-11-05"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "00100",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2013-12-04",
+       "source": "0",
+       "street": "Alvar Aallon katu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00101",
+       "postOfficeBox": "380",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2006-06-09",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "1041090-0",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "1997-09-01",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1041090-0"
+     },
+     "lastModified": "2026-11-03T09:31:58",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Manufacture of paper and paperboard",
+        "languageCode": "3"
+       },
+       {
+        "description": "Paperin, kartongin ja pahvin valmistus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Pappers- och papptillverkning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "17120",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "UPM-Kymmene Oyj",
+       "registrationDate": "1997-09-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1997-08-31",
+       "name": "UPM-Kymmene Oy",
+       "registrationDate": "1996-04-30",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Kokemäenjoen Voima",
+       "registrationDate": "2006-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Repola",
+       "registrationDate": "1996-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finnpap",
+       "registrationDate": "2002-07-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Thombonds",
+       "registrationDate": "1996-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kymin Paperiteollisuus",
+       "registrationDate": "1996-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Wisapower",
+       "registrationDate": "2016-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Paptor",
+       "registrationDate": "2003-04-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bonvesta",
+       "registrationDate": "2009-09-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tyrvään Voima",
+       "registrationDate": "2006-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kaukas",
+       "registrationDate": "1996-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "FY-Industries",
+       "registrationDate": "2008-01-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "UPM-Kymmene Bumaga",
+       "registrationDate": "2003-04-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Champion International",
+       "registrationDate": "2009-09-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Verla",
+       "registrationDate": "2003-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Isonet",
+       "registrationDate": "2002-07-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jämsänkosken Voima",
+       "registrationDate": "2006-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tehdaspuu",
+       "registrationDate": "1996-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Wisaforest",
+       "registrationDate": "1996-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Roine",
+       "registrationDate": "1996-12-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rosenlew",
+       "registrationDate": "2000-02-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Yhtyneet Paperitehtaat - United Paper Mills",
+       "registrationDate": "1996-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjanmaan Puu - Österbottens Trä",
+       "registrationDate": "1996-05-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finnterminals",
+       "registrationDate": "2004-01-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Klamilan Saha",
+       "registrationDate": "1997-09-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "UPM-Kymmene Seaways",
+       "registrationDate": "2004-01-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kymi Paper",
+       "registrationDate": "2002-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "UPM-Kymmene Corporation",
+       "registrationDate": "1997-09-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1996-04-30",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1996-05-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1996-05-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Alkutuottajana ja/tai kuvataiteilijana arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig som primärproducent och/eller bildkonstnär",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for agriculture and forestry",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1996-05-01",
+       "type": "83"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1996-05-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1996-03-15",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1996-04-30",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-05",
+    "hash": "f2478762c176a70737dc89e8e6f97b382cd47c3ef840576d5abbfa2207bf984a",
     "observedVia": "live"
    }
   ]
@@ -2574,6 +3359,309 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "f7bad5bb44c73bd488d47b5a75a9acf88345e9daeb89122e9e95656b8c61fd62",
+    "observedVia": "live",
+    "until": "2026-11-05"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "00240",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-12-05",
+       "source": "0",
+       "street": "Televisiokatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "00075",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "DANSKE BANK",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "DANSKE BANK",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-12-05",
+       "source": "0",
+       "street": "Televisiokatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1078693-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Branch",
+         "languageCode": "3"
+        },
+        {
+         "description": "Filial",
+         "languageCode": "2"
+        },
+        {
+         "description": "Sivuliike",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1997-02-28",
+       "source": "1",
+       "type": "19",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1078693-2"
+     },
+     "lastModified": "2026-11-03T20:14:11",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Annan monetär finansförmedling",
+        "languageCode": "2"
+       },
+       {
+        "description": "Muu pankkitoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other monetary intermediation",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "64190",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Danske Bank A/S, Suomen sivuliike",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2017-12-31",
+       "name": "Danske Bank A/S, Helsingfors filial",
+       "registrationDate": "2000-09-25",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "AG Securities",
+       "registrationDate": "1999-08-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Danske Finance",
+       "registrationDate": "2024-01-05",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Danske Bank A/S, Finland filial",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Danske Bank A/S, Finland Branch",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1997-02-28",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1997-03-05",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2018-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2018-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2017-12-31",
+       "register": "6",
+       "registrationDate": "2007-02-01",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1997-03-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1997-03-07",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1997-02-28",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-05",
+    "hash": "9e06cb41af323d48e4b38c0da58dc4c9f8bf903ae02973217d1fd7a3184af117",
     "observedVia": "live"
    }
   ]

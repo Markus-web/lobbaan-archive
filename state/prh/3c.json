@@ -2795,6 +2795,288 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "0b316cd467ba9261a6eef57dcfaf8f93c2b1739486e15d7638ef1738fac754c4",
+    "observedVia": "live",
+    "until": "2026-11-05"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "420",
+       "co": "",
+       "entrance": "",
+       "postCode": "13300",
+       "postOffices": [
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "1",
+         "municipalityCode": "109"
+        },
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "2",
+         "municipalityCode": "109"
+        }
+       ],
+       "registrationDate": "2015-03-23",
+       "source": "0",
+       "street": "Harvialantie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "420",
+       "co": "",
+       "entrance": "",
+       "postCode": "13300",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "1",
+         "municipalityCode": "109"
+        },
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "2",
+         "municipalityCode": "109"
+        }
+       ],
+       "registrationDate": "2015-03-23",
+       "source": "0",
+       "street": "Harvialantie",
+       "type": 2
+      }
+     ],
+     "businessId": "2389445-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2011-02-17",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2389445-7"
+     },
+     "lastModified": "2026-11-04T07:26:17",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Framställning av järn och stål samt ferrolegeringar",
+        "languageCode": "2"
+       },
+       {
+        "description": "Manufacture of basic iron and steel and of ferro-alloys",
+        "languageCode": "3"
+       },
+       {
+        "description": "Raudan, teräksen ja rautaseosten valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "24100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "SSAB Europe Oy",
+       "registrationDate": "2014-10-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2014-10-01",
+       "name": "Ruukki Metals Oy",
+       "registrationDate": "2011-02-17",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Ruukki Metals",
+       "registrationDate": "2015-01-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2011-02-16",
+       "register": "1",
+       "registrationDate": "2011-02-04",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2011-02-17",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2011-05-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2011-03-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2011-07-11",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2011-05-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2011-02-18",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2011-02-17",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-05",
+    "hash": "adf2610ed9e814af3adf959b1f849537eb0887cd41ce6a30f094c6ee6c60422e",
     "observedVia": "live"
    }
   ]

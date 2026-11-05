@@ -259,6 +259,269 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "b0c0fc5b97c02b7ea72de17586059d66c929c3af8241096b40a478f64afc4a7b",
+    "observedVia": "live",
+    "until": "2026-11-05"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "9",
+       "co": "",
+       "entrance": "A",
+       "postCode": "00120",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "1996-03-26",
+       "source": "0",
+       "street": "YRJÖNKATU",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00101",
+       "postOfficeBox": "509",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0116931-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Hypoteekkiyhdistys",
+         "languageCode": "1"
+        },
+        {
+         "description": "Hypoteksförening",
+         "languageCode": "2"
+        },
+        {
+         "description": "Mortgage society",
+         "languageCode": "3"
+        }
+       ],
+       "registrationDate": "1980-02-22",
+       "source": "1",
+       "type": "9",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-11-04T05:34:16",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Annan kreditgivning",
+        "languageCode": "2"
+       },
+       {
+        "description": "Muu luotonanto",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other credit granting",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "64920",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Suomen Hypoteekkiyhdistys",
+       "registrationDate": "1980-02-22",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Suomen Asuntohypoteekkipankki",
+       "registrationDate": "1999-08-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "The Mortgage Society of Finland",
+       "registrationDate": "1980-02-22",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Finlands Hypoteksförening",
+       "registrationDate": "1980-02-22",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1980-02-22",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2018-09-13",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-11-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2022-10-31",
+       "register": "6",
+       "registrationDate": "2004-10-12",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1956-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1980-02-22",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-05",
+    "hash": "a862f894bc15dc3670d063f705371f8c67b40e2bd235bd91facd8b50322e63c7",
     "observedVia": "live"
    }
   ]

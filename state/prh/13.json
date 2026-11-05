@@ -992,6 +992,328 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "aeccfd8cb22ed1ec61f990850240fd8bb66ee5a2407dd24313ec0ddd5d7ab157",
+    "observedVia": "live",
+    "until": "2026-11-05"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "14",
+       "postCode": "23500",
+       "postOffices": [
+        {
+         "city": "UUSIKAUPUNKI",
+         "languageCode": "1",
+         "municipalityCode": "895"
+        },
+        {
+         "city": "UUSIKAUPUNKI",
+         "languageCode": "2",
+         "municipalityCode": "895"
+        }
+       ],
+       "registrationDate": "2008-12-05",
+       "source": "0",
+       "street": "Autotehtaankatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "23501",
+       "postOfficeBox": "4",
+       "postOffices": [
+        {
+         "city": "UUSIKAUPUNKI",
+         "languageCode": "1",
+         "municipalityCode": "895"
+        },
+        {
+         "city": "UUSIKAUPUNKI",
+         "languageCode": "2",
+         "municipalityCode": "895"
+        }
+       ],
+       "registrationDate": "2001-01-25",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0143991-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2022-10-17",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      },
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2022-10-16",
+       "source": "1",
+       "type": "16",
+       "version": 2
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0143991-2"
+     },
+     "lastModified": "2026-11-03T05:12:00",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Manufacture of motor vehicles",
+        "languageCode": "3"
+       },
+       {
+        "description": "Moottoriajoneuvojen valmistus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Motorfordonstillverkning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "29100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Valmet Automotive Oyj",
+       "registrationDate": "2022-10-17",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2022-10-17",
+       "name": "Valmet Automotive Oy",
+       "registrationDate": "1995-09-27",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "VA Defense",
+       "registrationDate": "2026-06-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "VA Industrial Solutions",
+       "registrationDate": "2026-06-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Valmet Automotive Abp",
+       "registrationDate": "2022-10-17",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Valmet Automotive Plc",
+       "registrationDate": "2022-10-17",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1968-11-29",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-11-03",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Alkutuottajana ja/tai kuvataiteilijana arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig som primärproducent och/eller bildkonstnär",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for agriculture and forestry",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "83"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1970-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1968-11-29",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2008-12-05",
+      "source": "0",
+      "url": "www.valmet-automotive.com"
+     }
+    },
+    "firstSeen": "2026-11-05",
+    "hash": "5210e5f4678eef9b18bc9a4757ce3f5860d1d7d3a2ed6a3f40f61e8a257efa47",
     "observedVia": "live"
    }
   ]
