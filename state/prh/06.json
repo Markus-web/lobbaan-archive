@@ -2063,6 +2063,328 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "e725ea9f9fb283302ea918c3b93e37bcae195fb299dcb43b0a0526772fc25b22",
+    "observedVia": "live",
+    "until": "2026-11-06"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "2",
+       "co": "",
+       "entrance": "",
+       "postCode": "00100",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2021-04-20",
+       "source": "0",
+       "street": "Arkadiankatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00100",
+       "postOfficeBox": "182",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2021-04-20",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "2334159-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2010-05-11",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2334159-6"
+     },
+     "lastModified": "2026-11-05T07:55:06",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "General public administration activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Julkinen yleishallinto",
+        "languageCode": "1"
+       },
+       {
+        "description": "Övergripande offentlig förvaltning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "84110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Patria Oyj",
+       "registrationDate": "2011-06-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2011-05-31",
+       "name": "Patria Holding Oyj",
+       "registrationDate": "2010-05-11",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Patria Finance",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Patria Engines Holding",
+       "registrationDate": "2026-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Patria International Support Partnerships",
+       "registrationDate": "2026-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Patria ISP",
+       "registrationDate": "2026-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Patria Plc",
+       "registrationDate": "2011-06-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Patria Abp",
+       "registrationDate": "2011-06-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2010-05-10",
+       "register": "1",
+       "registrationDate": "2010-04-30",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2010-05-11",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2010-04-30",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2010-04-14",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2018-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2010-04-14",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2010-05-12",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2010-05-11",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2010-04-30",
+      "source": "0",
+      "url": "www.patria.fi"
+     }
+    },
+    "firstSeen": "2026-11-06",
+    "hash": "f2a3825adabeb10e13919228177ec0c22c87c21b6540d6ac80994f65a9495458",
     "observedVia": "live"
    }
   ]

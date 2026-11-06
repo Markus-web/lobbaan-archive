@@ -5834,6 +5834,223 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "7e0817310a56bb0396fdeb29c91fd2eedf6ba71d07a591de17cebfe116f11992",
+    "observedVia": "live",
+    "until": "2026-11-06"
+   },
+   {
+    "changedFields": [
+     "addresses",
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3a",
+       "co": "",
+       "entrance": "A",
+       "postCode": "00500",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2026-11-04",
+       "source": "0",
+       "street": "Käenkuja",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3a",
+       "co": "",
+       "entrance": "A",
+       "postCode": "00500",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2026-11-04",
+       "source": "0",
+       "street": "Käenkuja",
+       "type": 2
+      }
+     ],
+     "businessId": "2787956-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aatteellinen yhdistys",
+         "languageCode": "1"
+        },
+        {
+         "description": "Ideell förening",
+         "languageCode": "2"
+        },
+        {
+         "description": "Non-profit association",
+         "languageCode": "3"
+        }
+       ],
+       "registrationDate": "2016-10-10",
+       "source": "1",
+       "type": "6",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-11-04T14:53:43",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Activities of other miscellaneous membership organisations n.e.c.",
+        "languageCode": "3"
+       },
+       {
+        "description": "Muualla luokittelematon muu monenlainen järjestötoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Övrig verksamhet i intresseorganisationer som inte klassificerats på annat håll",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "94999",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Globe Art Point ry",
+       "registrationDate": "2018-01-15",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2018-01-14",
+       "name": "Suomen kansainvälisten taiteilijoiden keskus - International Artists' Center Finland Association ry",
+       "registrationDate": "2016-10-10",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2017-09-10",
+       "register": "1",
+       "registrationDate": "2017-06-22",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2017-09-11",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2018-02-09",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2016-11-04",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2017-09-11",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2017-06-22",
+      "source": "0",
+      "url": "www.globeartpoint.fi"
+     }
+    },
+    "firstSeen": "2026-11-06",
+    "hash": "feed23a4e30dc94c67e208369252043864ef1991d04e42486e1ed38c0c9cacb1",
     "observedVia": "live"
    }
   ]

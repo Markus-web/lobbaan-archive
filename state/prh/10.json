@@ -1005,6 +1005,265 @@
     },
     "firstSeen": "2026-11-04",
     "hash": "ecf74a69744740134acb299ad4e0931c7d9273139f1841fe7c151ca442e7d4c2",
+    "observedVia": "live",
+    "until": "2026-11-06"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "4",
+       "co": "",
+       "entrance": "",
+       "postCode": "00160",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-09-02",
+       "source": "0",
+       "street": "Katajanokanlaituri",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00101",
+       "postOfficeBox": "309",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2002-05-24",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "1039050-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "1997-11-14",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1039050-8"
+     },
+     "lastModified": "2026-11-05T10:32:25",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Manufacture of paper and paperboard",
+        "languageCode": "3"
+       },
+       {
+        "description": "Paperin, kartongin ja pahvin valmistus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Pappers- och papptillverkning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "17120",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Stora Enso Oyj",
+       "registrationDate": "1998-12-23",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1998-12-22",
+       "name": "Enso Oyj",
+       "registrationDate": "1997-11-14",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1996-05-01",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1996-05-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1996-05-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1996-05-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1996-05-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1996-03-01",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1996-05-01",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2021-12-07",
+      "source": "0",
+      "url": "www.storaenso.com"
+     }
+    },
+    "firstSeen": "2026-11-06",
+    "hash": "d0d1ecccfe47ec40fd6dd2c6e1bc9dcb9347464141fa1bb54d48c50d1794f428",
     "observedVia": "live"
    }
   ]

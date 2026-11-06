@@ -1506,6 +1506,198 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "f6933a3f034b49fb443cb04e27b122f7428f7465ef278a0e196b0569522dff95",
+    "observedVia": "live",
+    "until": "2026-11-06"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "14",
+       "postCode": "05800",
+       "postOffices": [
+        {
+         "city": "HYVINKÄÄ",
+         "languageCode": "1",
+         "municipalityCode": "106"
+        },
+        {
+         "city": "HYVINKÄÄ",
+         "languageCode": "2",
+         "municipalityCode": "106"
+        }
+       ],
+       "registrationDate": "2009-07-10",
+       "source": "0",
+       "street": "Hämeenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "0197794-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Savings bank",
+         "languageCode": "3"
+        },
+        {
+         "description": "Sparbank",
+         "languageCode": "2"
+        },
+        {
+         "description": "Säästöpankki",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "20",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-11-04T11:21:06",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Annan monetär finansförmedling",
+        "languageCode": "2"
+       },
+       {
+        "description": "Muu pankkitoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other monetary intermediation",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "64190",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Lammin Säästöpankki",
+       "registrationDate": "1919-08-13",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1919-08-13",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1966-06-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-06-16",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1919-08-13",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-06",
+    "hash": "0df327417fbc10ffce0aabc6dfc31cd22805d5c6591bc2c48037727777eb8454",
     "observedVia": "live"
    }
   ]

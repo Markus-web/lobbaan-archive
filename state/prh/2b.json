@@ -4024,6 +4024,296 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "9f1d24a3d5956bb62883103e25c4a40547bd4a5e7d60a3f72552cd7c5f1b06df",
+    "observedVia": "live",
+    "until": "2026-11-06"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "168",
+       "co": "",
+       "entrance": "",
+       "postCode": "00300",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "1994-06-29",
+       "source": "0",
+       "street": "MANNERHEIMINTIE",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00301",
+       "postOfficeBox": "40",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "1994-06-29",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0116336-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2001-01-01",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0116336-2"
+     },
+     "lastModified": "2026-11-04T22:14:39",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Asuntojen vuokraus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Rental of own or leased dwellings and residential real estate",
+        "languageCode": "3"
+       },
+       {
+        "description": "Uthyrning av bostäder",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "68201",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Lumo Kodit Oyj",
+       "registrationDate": "2026-03-13",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2026-03-13",
+       "name": "Kojamo Oyj",
+       "registrationDate": "2017-03-30",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Lumo-kotikeskus",
+       "registrationDate": "2016-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lumo Asuntopalvelut",
+       "registrationDate": "2014-10-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kymppikoti",
+       "registrationDate": "2007-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kojamo",
+       "registrationDate": "2026-03-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lumo Homes plc",
+       "registrationDate": "2026-03-13",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1969-05-09",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1998-01-26",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2000-09-04",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1971-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1969-05-09",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-06",
+    "hash": "62ccbf8b5aacc58dd1d98b2cc274d05e3b5594893deadb5f7b60a1d153bfe130",
     "observedVia": "live"
    }
   ]
@@ -4471,6 +4761,207 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "d2076a9bb9fe2c015f6a802910bebfe10698c9f23c871c1dfcba7a6552e6a78a",
+    "observedVia": "live",
+    "until": "2026-11-06"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "8",
+       "co": "",
+       "entrance": "",
+       "postCode": "15110",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "LAHTI",
+         "languageCode": "1",
+         "municipalityCode": "398"
+        },
+        {
+         "city": "LAHTI",
+         "languageCode": "2",
+         "municipalityCode": "398"
+        }
+       ],
+       "registrationDate": "2001-05-18",
+       "source": "0",
+       "street": "SIBELIUKSENKATU",
+       "type": 2
+      }
+     ],
+     "businessId": "0149057-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0149057-4"
+     },
+     "lastModified": "2026-11-04T10:02:58",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Cultural education",
+        "languageCode": "3"
+       },
+       {
+        "description": "Musik- och dansutbildning och övrig kulturutbildning",
+        "languageCode": "2"
+       },
+       {
+        "description": "Taidealojen ja kulttuurin koulutus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85520",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Lahden Konservatorio Oy",
+       "registrationDate": "2014-01-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2013-12-31",
+       "name": "Lahden Musiikkiopisto Oy",
+       "registrationDate": "1964-02-21",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Concis",
+       "registrationDate": "2021-03-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1923-03-20",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1949-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1923-03-20",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2025-12-11",
+      "source": "0",
+      "url": "www.concis.fi"
+     }
+    },
+    "firstSeen": "2026-11-06",
+    "hash": "25b049cbbd8ec8f7b05b6c223eb281aab5c481b1f4096e6d96881b2ef8bdfeff",
     "observedVia": "live"
    }
   ]
