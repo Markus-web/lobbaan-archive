@@ -1027,6 +1027,244 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "b22554ad079d036b1ba46c4646fe0cabc85b9b138bfbc016947625472b76873c",
+    "observedVia": "live",
+    "until": "2026-11-07"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "541",
+       "postCode": "99250",
+       "postOffices": [
+        {
+         "city": "KIISTALA",
+         "languageCode": "1",
+         "municipalityCode": "261"
+        },
+        {
+         "city": "KIISTALA",
+         "languageCode": "2",
+         "municipalityCode": "261"
+        }
+       ],
+       "registrationDate": "2010-01-15",
+       "source": "0",
+       "street": "Pokantie",
+       "type": 2
+      }
+     ],
+     "businessId": "2311020-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2010-01-26",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2311020-2"
+     },
+     "lastModified": "2026-11-05T20:05:38",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Muuta kaivostoimintaa ja louhintaa palveleva toiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Stödverksamhet avseende annan utvinning",
+        "languageCode": "2"
+       },
+       {
+        "description": "Support activities for other mining and quarrying",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "09900",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Agnico Eagle Finland Oy",
+       "registrationDate": "2013-06-06",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2013-06-05",
+       "name": "Agnico-Eagle Finland Oy",
+       "registrationDate": "2010-01-26",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Kittilän kaivos",
+       "registrationDate": "2010-01-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2010-01-25",
+       "register": "1",
+       "registrationDate": "2010-01-15",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2010-01-26",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2010-01-15",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2010-02-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2010-02-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2010-01-29",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2010-01-26",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2010-01-15",
+      "source": "0",
+      "url": "www.agnico-eagle.com"
+     }
+    },
+    "firstSeen": "2026-11-07",
+    "hash": "67ab0054f8200027dc1f76a59a27f5fe6f3b8426c4057bc5678ce3589e34059a",
     "observedVia": "live"
    }
   ]

@@ -4451,6 +4451,227 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "2b190d8f7f3625b9491d02f413112310639697bc73172ed41c9c2e0d1640a1ee",
+    "observedVia": "live",
+    "until": "2026-11-07"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3",
+       "co": "",
+       "entrance": "D",
+       "postCode": "50100",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "2025-11-20",
+       "source": "0",
+       "street": "Prikaatinkatu",
+       "type": 1
+      },
+      {
+       "postCode": "50101",
+       "postOfficeBox": "3",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "2022-11-22",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "3326966-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2022-12-27",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3326966-3"
+     },
+     "lastModified": "2026-11-05T16:26:03",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Production of electricity from hydropower",
+        "languageCode": "3"
+       },
+       {
+        "description": "Produktion av elektricitet med vattenkraft",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sähkön tuotanto vesivoimalla",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35121",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Järvi-Suomen Tuuli Oy",
+       "registrationDate": "2022-12-27",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2022-12-26",
+       "register": "1",
+       "registrationDate": "2022-11-22",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2022-12-27",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2022-11-22",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-11-15",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2022-12-27",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2022-12-27",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-07",
+    "hash": "54bce1bbd012899c0a1a7d08dbd4e2a9af3d642d8b95da491962747c5df43203",
     "observedVia": "live"
    }
   ]

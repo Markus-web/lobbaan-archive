@@ -2059,6 +2059,286 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "a7b31dca3fcb58360441d578a3efb1dd64df289d7eef96a1c7cd3809ed64f05d",
+    "observedVia": "live",
+    "until": "2026-11-07"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "00160",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-02-22",
+       "source": "0",
+       "street": "Kanavaranta",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "00160",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-02-22",
+       "source": "0",
+       "street": "Kanavaranta",
+       "type": 2
+      }
+     ],
+     "businessId": "3372400-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2023-06-21",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3372400-5"
+     },
+     "lastModified": "2026-11-05T07:32:33",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Production of electricity from wind power",
+        "languageCode": "3"
+       },
+       {
+        "description": "Produktion av elektricitet med vindkraft",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sähkön tuotanto tuulivoimalla",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-09",
+      "source": "2",
+      "type": "35122",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Ilmatar Energy Oy",
+       "registrationDate": "2024-01-16",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2024-01-16",
+       "name": "Ilmatar Energy HoldCo Oy",
+       "registrationDate": "2023-06-21",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2023-06-20",
+       "register": "1",
+       "registrationDate": "2023-06-15",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2023-06-21",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2023-06-15",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2023-06-15",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2023-12-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2023-12-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2023-06-21",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2023-06-21",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2023-06-15",
+      "source": "0",
+      "url": "www.ilmatar.fi"
+     }
+    },
+    "firstSeen": "2026-11-07",
+    "hash": "ddd2f3666bbfe1e6948685c69a016bd1afb9b21bed2a09914395a2c34d637d1b",
     "observedVia": "live"
    }
   ]

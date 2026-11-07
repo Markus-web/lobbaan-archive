@@ -273,6 +273,283 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "e0bf1f1c40a3e9b7586273d75881e9f9390435f4930e7063ccf1f07c292f7448",
+    "observedVia": "live",
+    "until": "2026-11-07"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "20",
+       "postCode": "00980",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2009-09-18",
+       "source": "0",
+       "street": "Hamnbågen",
+       "type": 1
+      },
+      {
+       "postCode": "00981",
+       "postOfficeBox": "15",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2009-09-18",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "0112563-0",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0112563-0"
+     },
+     "lastModified": "2026-11-05T10:32:53",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Activities of head offices",
+        "languageCode": "3"
+       },
+       {
+        "description": "Pääkonttorien toiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Verksamheter som utövas av huvudkontor",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "70100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Paulig Ab",
+       "registrationDate": "1998-03-18",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1998-03-17",
+       "name": "Paulig Oy",
+       "registrationDate": "1991-03-13",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Paulig Ltd",
+       "registrationDate": "1998-03-18",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Paulig Oy",
+       "registrationDate": "1998-03-18",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1950-11-10",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1951-03-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "1990-12-31",
+       "register": "7",
+       "registrationDate": "1951-03-01",
+       "type": "42"
+      }
+     ],
+     "registrationDate": "1950-11-10",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-07",
+    "hash": "7c7b5679015fb73a70fd66098b20f1d9607960e015e405a4d2c8dd07807eba52",
     "observedVia": "live"
    }
   ]

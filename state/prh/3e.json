@@ -1809,6 +1809,282 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "e28c4630240f97013f2d6a14f936931e89d7db42bce6ba39aa92c453c0dfc2f6",
+    "observedVia": "live",
+    "until": "2026-11-07"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3",
+       "co": "",
+       "entrance": "D",
+       "postCode": "50100",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "2025-02-01",
+       "source": "0",
+       "street": "Prikaatinkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "50101",
+       "postOfficeBox": "40",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "2021-03-31",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "2038931-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2006-06-01",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2038931-6"
+     },
+     "lastModified": "2026-11-05T14:32:53",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Handel med elektricitet",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sähkön kauppa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Trade of electricity",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35150",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Lumme Energia Oy",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2021-12-31",
+       "name": "Loiste Sähkönmyynti Oy",
+       "registrationDate": "2014-01-01",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2006-05-31",
+       "register": "1",
+       "registrationDate": "2006-05-22",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2006-06-01",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2006-06-07",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2006-06-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2006-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2026-03-31",
+       "register": "7",
+       "registrationDate": "2022-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2021-05-31",
+       "register": "7",
+       "registrationDate": "2018-05-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2006-06-01",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-07",
+    "hash": "813c56ef6425fc9fd73190dc6a258fc9656a95a27dc5c4614fdb93adc8bb4b50",
     "observedVia": "live"
    }
   ]
