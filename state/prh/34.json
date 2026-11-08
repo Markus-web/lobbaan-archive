@@ -2645,6 +2645,365 @@
     },
     "firstSeen": "2026-11-02",
     "hash": "50d070adfefd088212e0b34335e9108e9c5831ba76da78ecc9f243f35c53b1ca",
+    "observedVia": "live",
+    "until": "2026-11-08"
+   },
+   {
+    "changedFields": [
+     "companyForms",
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3",
+       "co": "",
+       "entrance": "",
+       "postCode": "00240",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2018-06-13",
+       "source": "0",
+       "street": "Radiokatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00096",
+       "postOfficeBox": "488",
+       "postOffices": [
+        {
+         "city": "VR",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "VR",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-08-11",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "1003521-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2022-04-24",
+       "registrationDate": "1995-03-01",
+       "source": "1",
+       "type": "16",
+       "version": 2
+      },
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2022-04-25",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1003521-5"
+     },
+     "lastModified": "2026-11-06T15:09:13",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Passenger heavy rail transport",
+        "languageCode": "3"
+       },
+       {
+        "description": "Raskaan raideliikenteen henkilökuljetus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tung järnvägstransport, passagerartrafik",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "49110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "VR-Yhtymä Oyj",
+       "registrationDate": "2022-04-25",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2022-04-25",
+       "name": "VR-Yhtymä Oy",
+       "registrationDate": "1995-03-01",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Suomen Rautatiet",
+       "registrationDate": "1995-03-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "VR Cargo",
+       "registrationDate": "2009-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "VR",
+       "registrationDate": "2009-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "VR Henkilöliikenne",
+       "registrationDate": "2009-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Transpoint",
+       "registrationDate": "2010-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Transpoint Cargo",
+       "registrationDate": "2010-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Speedyex",
+       "registrationDate": "2013-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rautatieasunnot",
+       "registrationDate": "2013-02-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "VR-Group Abp",
+       "registrationDate": "2022-04-25",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "VR-Group Plc",
+       "registrationDate": "2022-05-10",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Finnish Railways",
+       "registrationDate": "1995-03-01",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "Finlands Järnvägar",
+       "registrationDate": "1995-03-01",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1995-03-01",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1995-04-26",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-07-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-07-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-07-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1995-04-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1995-03-01",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-08",
+    "hash": "3224886d340d7cd722cfc8f1d0b82cd12740086ffdf48f06eddf9fa5801ee702",
     "observedVia": "live"
    }
   ]

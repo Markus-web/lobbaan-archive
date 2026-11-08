@@ -2741,6 +2741,531 @@
     },
     "firstSeen": "2026-11-06",
     "hash": "d84c62f60d6b204591daa794d23564fd214791b4781fa4a8debfad66d66703c2",
+    "observedVia": "live",
+    "until": "2026-11-08"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "4",
+       "co": "",
+       "entrance": "",
+       "postCode": "00240",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-08-01",
+       "source": "0",
+       "street": "Ilmalantori",
+       "type": 1
+      },
+      {
+       "postCode": "01044",
+       "postOfficeBox": "10",
+       "postOffices": [
+        {
+         "city": "DNA",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "DNA",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2012-08-13",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "0592509-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2016-10-27",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0592509-6"
+     },
+     "lastModified": "2026-11-04T09:28:06",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Kiinteän puhelinverkon ja langattoman verkon hallinta ja palvelut sekä satelliittiviestintä",
+        "languageCode": "1"
+       },
+       {
+        "description": "Trådbunden och trådlös telekommunikation samt telekommunikation via satellit",
+        "languageCode": "2"
+       },
+       {
+        "description": "Wired, wireless, and satellite telecommunication activities",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "61100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "DNA Oyj",
+       "registrationDate": "2016-10-27",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2016-10-27",
+       "name": "DNA Oy",
+       "registrationDate": "2007-07-01",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "KPY Verkot",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "KPY Palvelut",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Porin Matkapuhelin",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lännen Puhelin Liiketoiminta",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuopion Kaapelitelevisio",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mobilink",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "DNA Business",
+       "registrationDate": "2014-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Welho",
+       "registrationDate": "2010-08-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "HTV",
+       "registrationDate": "2010-08-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Starvisio",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Verkkotieto",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Forte Netservices",
+       "registrationDate": "2014-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Esanet",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Satakunnan Internet-palvelut",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Taajama",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Porin Puhelin",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Päijät-Hämeen Puhelin",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kankaanpään Puhelin",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Starcable",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Komeetta Kaapelimodeemi",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulun Puhelin",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki Televisio",
+       "registrationDate": "2010-08-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Satakunnan Puhelin",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Huittisten Puhelin",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kaukoverkko Ysi",
+       "registrationDate": "2005-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "KPY Tele Palvelut",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Aurajoen Puhelin",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Forte Groupservices",
+       "registrationDate": "2014-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ascomp Toimistoautomaatio",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "KPY Kaapelitelevisio",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Varkauden TeamCom",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "OPOY",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulu-TV",
+       "registrationDate": "2007-10-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Huuked Labs",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "DNA Plc",
+       "registrationDate": "2016-10-27",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "DNA Abp",
+       "registrationDate": "2016-10-27",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1985-03-21",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1985-05-17",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2002-12-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2002-12-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2003-11-03",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2003-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "1985-09-30",
+       "register": "7",
+       "registrationDate": "1985-05-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1985-03-21",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2012-08-13",
+      "source": "0",
+      "url": "www.dna.fi"
+     }
+    },
+    "firstSeen": "2026-11-08",
+    "hash": "166e2ad863ce4e7f9ead40a2d3a011e036403cfca7eb8fa2eeb9e5ca61305e6f",
     "observedVia": "live"
    }
   ]
@@ -3279,6 +3804,274 @@
     },
     "firstSeen": "2026-11-06",
     "hash": "4b8bc3e649dd92746fb45837ea0e744ae6a446a50108b6aaef2b11dfb9497116",
+    "observedVia": "live",
+    "until": "2026-11-08"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "27",
+       "postCode": "96100",
+       "postOffices": [
+        {
+         "city": "ROVANIEMI",
+         "languageCode": "1",
+         "municipalityCode": "698"
+        },
+        {
+         "city": "ROVANIEMI",
+         "languageCode": "2",
+         "municipalityCode": "698"
+        }
+       ],
+       "registrationDate": "2008-05-23",
+       "source": "0",
+       "street": "Koskikatu",
+       "type": 1
+      },
+      {
+       "postCode": "96101",
+       "postOfficeBox": "8013",
+       "postOffices": [
+        {
+         "city": "ROVANIEMI",
+         "languageCode": "1",
+         "municipalityCode": "698"
+        },
+        {
+         "city": "ROVANIEMI",
+         "languageCode": "2",
+         "municipalityCode": "698"
+        }
+       ],
+       "registrationDate": "2008-05-23",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "0730905-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0730905-1"
+     },
+     "lastModified": "2026-11-05T10:52:18",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Generering av elektricitet från icke-förnybara energikällor",
+        "languageCode": "2"
+       },
+       {
+        "description": "Production of electricity from non-renewable sources",
+        "languageCode": "3"
+       },
+       {
+        "description": "Sähkön tuotanto uusiutumattomilla energialähteillä",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Neve Oy",
+       "registrationDate": "2023-01-26",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2023-01-26",
+       "name": "Napapiirin Energia ja Vesi Oy",
+       "registrationDate": "2015-04-24",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Napapiirin Energia",
+       "registrationDate": "2006-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rovaniemen Energia",
+       "registrationDate": "2015-04-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Naturlan",
+       "registrationDate": "2013-08-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1989-09-13",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1989-02-14",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2006-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2003-07-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1989-09-13",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2022-06-22",
+      "source": "0",
+      "url": "www.neve.fi"
+     }
+    },
+    "firstSeen": "2026-11-08",
+    "hash": "2dfae7b0f85fe29f4e85c2cb066943707839adfa56f20c17a707efceb7f20f93",
     "observedVia": "live"
    }
   ]

@@ -1389,6 +1389,334 @@
     },
     "firstSeen": "2026-11-06",
     "hash": "6c66059bdce2e9e969ed3d09899af05eb382a8f888a2711d81dec4938d0441d1",
+    "observedVia": "live",
+    "until": "2026-11-08"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "20",
+       "co": "",
+       "entrance": "",
+       "postCode": "00250",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2025-03-20",
+       "source": "0",
+       "street": "Topeliusgatan",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "25",
+       "buildingNumber": "14",
+       "co": "",
+       "entrance": "B",
+       "postCode": "10600",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "EKENÄS",
+         "languageCode": "2",
+         "municipalityCode": "710"
+        },
+        {
+         "city": "TAMMISAARI",
+         "languageCode": "1",
+         "municipalityCode": "710"
+        }
+       ],
+       "registrationDate": "2025-03-20",
+       "source": "0",
+       "street": "Prästängsgatan",
+       "type": 2
+      }
+     ],
+     "businessId": "1801682-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2002-12-30",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1801682-8"
+     },
+     "lastModified": "2026-11-05T16:48:10",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Muualla luokittelematon muu monenlainen sosiaalihuollon avopalvelutoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other miscellaneous social work activities without accommodation n.e.c.",
+        "languageCode": "3"
+       },
+       {
+        "description": "Övriga diverse öppna sociala insatser som inte klassificerats på annat håll",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "88999",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Folkhälsan Välfärd Ab",
+       "registrationDate": "2016-03-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2016-03-31",
+       "name": "Folkhälsan Syd Ab",
+       "registrationDate": "2009-01-14",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Folkhälsan Blomsterhemmet",
+       "registrationDate": "2006-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Folkhälsan Åboland",
+       "registrationDate": "2007-06-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Folkhälsan Mittnyland",
+       "registrationDate": "2008-02-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Folkhälsans hälsotorg",
+       "registrationDate": "2009-01-14",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Folkhälsanin terveystori",
+       "registrationDate": "2009-01-14",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Folkhälsan Syd",
+       "registrationDate": "2016-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Folkhälsan Botnia",
+       "registrationDate": "2016-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2002-12-29",
+       "register": "1",
+       "registrationDate": "2002-12-20",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2002-12-30",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2003-01-23",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2002-12-18",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2003-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2016-04-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2003-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2002-12-30",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2025-03-20",
+      "source": "0",
+      "url": "www.folkhalsan.fi"
+     }
+    },
+    "firstSeen": "2026-11-08",
+    "hash": "31de2f1adc4fa42a80c00f3a26cee47c638e7cae49791520cbf832c914e8ba37",
     "observedVia": "live"
    }
   ]
@@ -3000,6 +3328,723 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "d150aba0fe733317451ac5a03f71ebc1c5557299b20bba3fccdda3a1b6aa2cc9",
+    "observedVia": "live",
+    "until": "2026-11-08"
+   },
+   {
+    "changedFields": [
+     "companyForms"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "3",
+       "postCode": "01530",
+       "postOffices": [
+        {
+         "city": "VANDA",
+         "languageCode": "2",
+         "municipalityCode": "092"
+        },
+        {
+         "city": "VANTAA",
+         "languageCode": "1",
+         "municipalityCode": "092"
+        }
+       ],
+       "registrationDate": "2009-12-29",
+       "source": "0",
+       "street": "Lentäjäntie",
+       "type": 1
+      },
+      {
+       "postCode": "01531",
+       "postOfficeBox": "50",
+       "postOffices": [
+        {
+         "city": "VANDA",
+         "languageCode": "2",
+         "municipalityCode": "092"
+        },
+        {
+         "city": "VANTAA",
+         "languageCode": "1",
+         "municipalityCode": "092"
+        }
+       ],
+       "registrationDate": "2009-12-29",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "2302570-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2010-01-06",
+       "registrationDate": "2009-12-16",
+       "source": "1",
+       "type": "16",
+       "version": 2
+      },
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2010-01-07",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2302570-2"
+     },
+     "lastModified": "2026-10-21T20:42:55",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Ilmaliikennettä palveleva toiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Service activities incidental to air transportation",
+        "languageCode": "3"
+       },
+       {
+        "description": "Stödverksamhet avseende lufttransport",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "52230",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Finavia Oyj",
+       "registrationDate": "2010-01-07",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2010-01-06",
+       "name": "Finavia Holding Oy",
+       "registrationDate": "2009-12-16",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Kuopio Airport",
+       "registrationDate": "2012-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA Shop",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki Airport Meetings & Events",
+       "registrationDate": "2024-09-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki Airport",
+       "registrationDate": "2012-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA Bar",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA Parking",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ivalo Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Aviapro",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "CA Group",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vaasa Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finavia AOS",
+       "registrationDate": "2024-09-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki Airport VIP and Meetings",
+       "registrationDate": "2024-09-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finavia Group",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Avia Net Finland",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA Bistro",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Parking",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulu Airport",
+       "registrationDate": "2012-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA Restaurant",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jyväskylä Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Snack",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Restaurant",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Services",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kokkola Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Joensuu Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA Cafe",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finnish Airports System FAS",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kajaani Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Café",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Shop",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "CIVIL AVIATION GROUP FINLAND",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kemi Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA Hotel",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuusamo Airport",
+       "registrationDate": "2012-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turku Airport",
+       "registrationDate": "2012-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tampere Airport",
+       "registrationDate": "2012-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Bistro",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kittilä Airport",
+       "registrationDate": "2012-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pori Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki-Vantaan kokouspalvelut",
+       "registrationDate": "2024-09-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rovaniemi Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finavia SnowHow",
+       "registrationDate": "2017-11-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki Airport Congress",
+       "registrationDate": "2024-09-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Bar",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hello Hotel",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki Airport Parking",
+       "registrationDate": "2012-06-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA Express",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "The Oak Barrel",
+       "registrationDate": "2025-02-06",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "AVIA",
+       "registrationDate": "2010-01-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Savonlinna Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kokkola-Pietarsaari Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Airport SnowHow Finland",
+       "registrationDate": "2017-11-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki Airport Snowhow",
+       "registrationDate": "2017-11-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mariehamn Airport",
+       "registrationDate": "2024-03-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsingfors-Vanda Flygstations Taxiservice",
+       "registrationDate": "2025-06-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki Airport Taxi Service",
+       "registrationDate": "2025-06-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helsinki-Vantaan Lentoaseman Taksipalvelut",
+       "registrationDate": "2025-06-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finavia Abp",
+       "registrationDate": "2010-01-07",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Finavia Corporation",
+       "registrationDate": "2010-01-07",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2009-12-15",
+       "register": "1",
+       "registrationDate": "2009-12-01",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2009-12-16",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2009-12-17",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2010-01-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2010-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2010-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2010-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2025-08-31",
+       "register": "8",
+       "registrationDate": "2023-05-01",
+       "type": "32"
+      }
+     ],
+     "registrationDate": "2009-12-16",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2010-03-12",
+      "source": "0",
+      "url": "www.finavia.fi"
+     }
+    },
+    "firstSeen": "2026-11-08",
+    "hash": "2acef36da4708dfdbeaeebd459f896069446ec88d6f3c3656f60fc6b41e7bbb7",
     "observedVia": "live"
    }
   ]
@@ -4226,6 +5271,240 @@
     },
     "firstSeen": "2026-11-06",
     "hash": "06095a0a0f3fb309e4cb3dc7a91acbc1ba7d405f093bbe11f7d106906cbcd9f8",
+    "observedVia": "live",
+    "until": "2026-11-08"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "14",
+       "co": "",
+       "entrance": "C",
+       "postCode": "00920",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-10-13",
+       "source": "0",
+       "street": "Myllypadontie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "14",
+       "co": "",
+       "entrance": "C",
+       "postCode": "00920",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-10-13",
+       "source": "0",
+       "street": "Myllypadontie",
+       "type": 2
+      }
+     ],
+     "businessId": "3396753-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2023-10-25",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3396753-3"
+     },
+     "lastModified": "2026-11-04T16:56:22",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "PR och kommunikation",
+        "languageCode": "2"
+       },
+       {
+        "description": "Public relations and communication activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Suhdetoiminta ja viestintä",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "73300",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Grundrisse Consulting Oy",
+       "registrationDate": "2025-01-08",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2025-01-08",
+       "name": "Työväen Taloudellinen Toiminta Oy",
+       "registrationDate": "2023-10-25",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2023-10-24",
+       "register": "1",
+       "registrationDate": "2023-10-13",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2023-10-25",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2023-10-25",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2023-10-13",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2023-10-13",
+       "type": "80"
+      }
+     ],
+     "registrationDate": "2023-10-25",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-08",
+    "hash": "cfb50f3e49091501a54c7ca1bdc9f076f435e2fcde56717a19fc2558749fa45e",
     "observedVia": "live"
    }
   ]
