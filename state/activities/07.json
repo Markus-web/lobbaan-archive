@@ -35766,6 +35766,99 @@
    }
   ]
  },
+ "MAN-26-8500-T": {
+  "key": "MAN-26-8500-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-11-08",
+     "companyId": "0252201-3",
+     "companyName": "Mannerheimin Lastensuojeluliiton Uudenmaan piiri - Mannerheims Barnskyddsförbunds Nylands distrikt ry",
+     "companyType": "company_id",
+     "createdAt": "2026-11-08",
+     "diaryNumber": "MAN-26-8500-T",
+     "id": 8500,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muualla luokittelematon muu monenlainen sosiaalihuollon avopalvelutoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8500,
+       "activityType": "direct",
+       "contactTopicOther": "Sosiaali- ja terveysjärjestöjen avustusleikkaukset",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35346,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4188,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35346,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4351,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35346,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4369,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35346,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4219,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-08",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35346,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "1be96d3a1a61694bc5e80d07e0915694edfadef2a1295d8d0d6960aff4b2071a",
+    "observedVia": "live"
+   }
+  ]
+ },
  "ME--26-7916-T": {
   "key": "ME--26-7916-T",
   "versions": [

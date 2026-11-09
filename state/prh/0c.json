@@ -6229,6 +6229,257 @@
     },
     "firstSeen": "2026-11-07",
     "hash": "93b0d3158cbea1b741feb5113452ce9606fcb917e7edff6a93fb88842b83293d",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "13-19",
+       "co": "",
+       "entrance": "A",
+       "postCode": "02150",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2024-01-12",
+       "source": "0",
+       "street": "Keilaranta",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "13-19",
+       "co": "",
+       "entrance": "B",
+       "postCode": "02150",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2024-01-12",
+       "source": "0",
+       "street": "Keilaranta",
+       "type": 2
+      }
+     ],
+     "businessId": "3331856-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2022-12-28",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3331856-8"
+     },
+     "lastModified": "2026-11-05T20:49:28",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Putkijohtokuljetus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Transport i rörsystem",
+        "languageCode": "2"
+       },
+       {
+        "description": "Transport via pipeline",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "49500",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Gasgrid vetyverkot Oy",
+       "registrationDate": "2022-12-28",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2022-12-27",
+       "register": "1",
+       "registrationDate": "2022-12-15",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2022-12-28",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2022-12-29",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2023-06-09",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2023-05-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2023-06-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2022-12-28",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2024-01-12",
+      "source": "0",
+      "url": "www.gasgrid.fi"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "4951745b70692c41839a3f6b0411152bd4d1ff396510fbbba0b081bb51bed2c9",
     "observedVia": "live"
    }
   ]
@@ -6635,6 +6886,208 @@
     },
     "firstSeen": "2026-11-07",
     "hash": "06da0ed88c56de1da7b7da6e7753391ff8d26831ba7d23d99ac807764b602673",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "10",
+       "buildingNumber": "4",
+       "co": "c/o Annaleena Mäkilä",
+       "entrance": "C",
+       "postCode": "00160",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-03-22",
+       "source": "0",
+       "street": "Puolipäivänkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "3436705-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2024-04-05",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3436705-4"
+     },
+     "lastModified": "2026-11-05T11:56:26",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "PR och kommunikation",
+        "languageCode": "2"
+       },
+       {
+        "description": "Public relations and communication activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Suhdetoiminta ja viestintä",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "73300",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "ACM Consulting Oy",
+       "registrationDate": "2024-04-05",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2024-04-04",
+       "register": "1",
+       "registrationDate": "2024-03-22",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2024-04-05",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2024-04-05",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2024-03-22",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2024-03-22",
+       "type": "80"
+      }
+     ],
+     "registrationDate": "2024-04-05",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "772f865dd32e86a760a4d601ead336f609a29e4ee3ce3ace347cc137b25a2544",
     "observedVia": "live"
    }
   ]

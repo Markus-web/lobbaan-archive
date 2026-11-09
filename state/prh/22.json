@@ -4608,6 +4608,257 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "f09f6ed0b43628b0093f4b4d11fb1a6059cf082b87b80ffd335fefd8f1d94212",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "6",
+       "co": "",
+       "entrance": "",
+       "postCode": "00150",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2025-02-06",
+       "source": "0",
+       "street": "Henry Fordin katu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "6",
+       "co": "",
+       "entrance": "A",
+       "postCode": "00150",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2025-02-06",
+       "source": "0",
+       "street": "Henry Fordin katu",
+       "type": 2
+      }
+     ],
+     "businessId": "3143318-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2020-07-10",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3143318-3"
+     },
+     "lastModified": "2026-11-03T20:55:45",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Kiinteän puhelinverkon ja langattoman verkon hallinta ja palvelut sekä satelliittiviestintä",
+        "languageCode": "1"
+       },
+       {
+        "description": "Trådbunden och trådlös telekommunikation samt telekommunikation via satellit",
+        "languageCode": "2"
+       },
+       {
+        "description": "Wired, wireless, and satellite telecommunication activities",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "61100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "ReOrbit Oy",
+       "registrationDate": "2020-07-10",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2020-07-09",
+       "register": "1",
+       "registrationDate": "2020-06-23",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2020-07-10",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2020-07-10",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2020-08-21",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2020-08-21",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2020-08-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2020-07-10",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2022-05-17",
+      "source": "0",
+      "url": "www.reorbit.space"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "8b5688be23dd8b36ac4f4941131c0706add37f409460b3b7e110addad42b44ba",
     "observedVia": "live"
    }
   ]
@@ -5295,6 +5546,281 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "6d68b20703bba770df0b2c12632e2b2a03fb1b27d87fcaa989c8962e61889cfc",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "20",
+       "co": "",
+       "entrance": "",
+       "postCode": "00130",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2014-01-14",
+       "source": "0",
+       "street": "Södra Esplanaden",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "20",
+       "co": "",
+       "entrance": "",
+       "postCode": "00130",
+       "postOfficeBox": "333",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2001-04-04",
+       "source": "0",
+       "street": "Eteläesplanadi",
+       "type": 2
+      }
+     ],
+     "businessId": "9209363-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1995-05-24",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.9209363-7"
+     },
+     "lastModified": "2026-11-08T06:38:46",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Advokatbyråer",
+        "languageCode": "2"
+       },
+       {
+        "description": "Asianajotoimistot",
+        "languageCode": "1"
+       },
+       {
+        "description": "Legal representation activities",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "69101",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Hannes Snellman Advokatbyrå Ab",
+       "registrationDate": "2009-06-11",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2009-06-10",
+       "name": "Advokatbyrå Hannes Snellman Ab",
+       "registrationDate": "1995-05-24",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Hannes Snellman",
+       "registrationDate": "2001-02-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hannes Snellman Asianajotoimisto Oy",
+       "registrationDate": "2009-06-11",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Hannes Snellman Attorneys Ltd",
+       "registrationDate": "2009-06-11",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1974-12-05",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2004-02-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1972-02-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-06-30",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1974-12-05",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "68c1dc33acb8ad6c705db4cb0e48a27a8b5afa93ac8b4eb882ad59cfb356c9dc",
     "observedVia": "live"
    }
   ]

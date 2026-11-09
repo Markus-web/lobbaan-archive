@@ -527,6 +527,271 @@
     },
     "firstSeen": "2026-11-07",
     "hash": "39300440f1b1fd9f36460688e986b2574c24cb137b39d8bae153cb54e53bcf07",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "20",
+       "co": "",
+       "entrance": "",
+       "postCode": "00180",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2019-03-03",
+       "source": "0",
+       "street": "Porkkalankatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00181",
+       "postOfficeBox": "660",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2019-03-03",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0114448-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0114448-7"
+     },
+     "lastModified": "2026-11-05T21:09:14",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "News agency activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Nyhetsförmedling",
+        "languageCode": "2"
+       },
+       {
+        "description": "Uutistoimistojen toiminta",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "60310",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Oy Suomen Tietotoimisto - Finska Notisbyrån Ab",
+       "registrationDate": "1966-02-11",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1966-02-10",
+       "name": "Osakeyhtiö Suomen Tietotoimisto - Finska Notisbyrån Aktiebolag",
+       "registrationDate": "1915-06-15",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Lehtikuva",
+       "registrationDate": "2012-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nyhetsbyrån FNB",
+       "registrationDate": "2019-10-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "STT Info",
+       "registrationDate": "2019-10-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "STT Viestintäpalvelut",
+       "registrationDate": "2019-10-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1915-06-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1944-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1915-06-15",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2019-03-03",
+      "source": "0",
+      "url": "www.stt.fi"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "ba2a62bf2c072d3a192a20a654fe8ecd88a292edc56a4e37689cc76597abcf53",
     "observedVia": "live"
    }
   ]
@@ -1105,6 +1370,294 @@
     },
     "firstSeen": "2026-11-07",
     "hash": "5659941038efe7163b1d2d84a061fe6750d189621da18c06b0621a33c9d86f2c",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "02100",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2016-10-11",
+       "source": "0",
+       "street": "Revontulenkuja",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "02100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2016-10-11",
+       "source": "0",
+       "street": "Revontulenkuja",
+       "type": 2
+      }
+     ],
+     "businessId": "0140879-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "1998-05-07",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0140879-6"
+     },
+     "lastModified": "2026-11-05T07:26:39",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Activities of head offices",
+        "languageCode": "3"
+       },
+       {
+        "description": "Pääkonttorien toiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Verksamheter som utövas av huvudkontor",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "70100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Huhtamäki Oyj",
+       "registrationDate": "2001-04-17",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2001-04-16",
+       "name": "Huhtamäki Van Leer Oyj",
+       "registrationDate": "1999-10-08",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Polarpak",
+       "registrationDate": "1980-02-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Polarcup",
+       "registrationDate": "1986-12-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1941-01-10",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-05-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1946-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2007-07-31",
+       "register": "8",
+       "registrationDate": "1994-01-01",
+       "type": "32"
+      }
+     ],
+     "registrationDate": "1941-01-10",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "8273f067401e95f4b5a96d4c1a8ab53f16ad9e70af606b60610052432dad8da4",
     "observedVia": "live"
    }
   ]
@@ -1786,6 +2339,228 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "0839704101830955e04ec3ddac6b06944a2d8f89a37cb4be1c5b9cdc6582af97",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "5",
+       "co": "",
+       "entrance": "",
+       "postCode": "00180",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2003-06-04",
+       "source": "0",
+       "street": "Tammasaarenkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "5",
+       "co": "",
+       "entrance": "",
+       "postCode": "00180",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2003-06-04",
+       "source": "0",
+       "street": "Tammasaarenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1597637-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Kommandiittiyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Kommanditbolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited partnership",
+         "languageCode": "3"
+        }
+       ],
+       "registrationDate": "1999-12-17",
+       "source": "1",
+       "type": "13",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-11-04T18:46:42",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Lääkkeiden tukkukauppa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Partihandel med farmaceutiska varor",
+        "languageCode": "2"
+       },
+       {
+        "description": "Wholesale of pharmaceutical goods",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "46461",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Boehringer Ingelheim Finland Ky",
+       "registrationDate": "1999-12-17",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1999-12-17",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2000-05-04",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2000-03-27",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1999-12-17",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2000-06-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1999-12-17",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "75790cf8111b5585be155a331c4b7f6609921b6316bd1d5bd667ba03acd0d794",
     "observedVia": "live"
    }
   ]
@@ -3927,6 +4702,211 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "32eae770cb6ca5ca9cbb057f725863936d9cacec9009ea6c55f7c18c7cef0724",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "3",
+       "co": "c/o Rantalainen",
+       "entrance": "A",
+       "postCode": "00100",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2026-10-31",
+       "source": "0",
+       "street": "Keskuskatu",
+       "type": 2
+      }
+     ],
+     "businessId": "2829853-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Branch",
+         "languageCode": "3"
+        },
+        {
+         "description": "Filial",
+         "languageCode": "2"
+        },
+        {
+         "description": "Sivuliike",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2017-05-08",
+       "source": "1",
+       "type": "19",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2829853-1"
+     },
+     "lastModified": "2026-11-06T14:21:03",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Manufacture of civilian air and spacecraft and related machinery",
+        "languageCode": "3"
+       },
+       {
+        "description": "Siviili-ilma- ja avaruusalusten ja niihin liittyvien koneiden valmistus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tillverkning av civila luftfartyg, rymdfarkoster o.d.",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "30310",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Lockheed Martin Global, Inc. sivuliike Suomessa",
+       "registrationDate": "2017-05-08",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2017-05-07",
+       "register": "1",
+       "registrationDate": "2017-04-24",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2017-05-08",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2017-05-09",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2018-02-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2017-10-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2017-05-08",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2017-04-24",
+      "source": "0",
+      "url": "www.lockheedmartin.com/"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "df3a91174377f896c10d8306a49f2b41b0b2d7e943b86f52503c57861fe9cdd8",
     "observedVia": "live"
    }
   ]
@@ -5040,6 +6020,440 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "e513b65cff5fabb6bceb7f99a3629ff73d68ec0d2476f4d12b00a0978ee715aa",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "22",
+       "co": "",
+       "entrance": "",
+       "postCode": "00180",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-09-26",
+       "source": "0",
+       "street": "Porkkalankatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "22",
+       "co": "",
+       "entrance": "",
+       "postCode": "00180",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2024-09-26",
+       "source": "0",
+       "street": "Porkkalankatu",
+       "type": 2
+      }
+     ],
+     "businessId": "3220764-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2021-07-06",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3220764-7"
+     },
+     "lastModified": "2026-11-03T16:15:29",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Diverse övrig stödverksamhet till företag",
+        "languageCode": "2"
+       },
+       {
+        "description": "Muualla luokittelematon muu liike-elämän tukipalvelutoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other business support service activities n.e.c.",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "82990",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Epassi Finland Oy",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2021-12-31",
+       "name": "Uusi Epassi Payments Oy",
+       "registrationDate": "2021-07-06",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Lounaspassi Mobiilimaksut",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hierontapassi",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "EAZYBREAK",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Suomen Tunnistepalvelu",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YHDISTELMÄSETELI",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "RJ-KUNTOILUSETELI",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYKY-TYÖMATKA",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "KUNTASETELI",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYKY-SETELI",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYKY-ONLINE",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYKY-KUNTOSETELI",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYKY.FI",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYKY-LOUNAS",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYKY-MAKSUVÄLINE",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sporttipassi",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYKY",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Event Brokers, EBS",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TYÖKYKYKUNTOILUSETELI",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kulttuuripassi",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "ePassi Mobiilimaksut",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Työmatkapassi",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Liikuntaraha",
+       "registrationDate": "2026-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Liikuntaseteli",
+       "registrationDate": "2026-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Liikuntakortti",
+       "registrationDate": "2026-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Motionssedeln",
+       "registrationDate": "2026-09-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2021-07-05",
+       "register": "1",
+       "registrationDate": "2021-06-28",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2021-07-06",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2021-07-06",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2022-01-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2022-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2021-07-06",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2024-09-26",
+      "source": "0",
+      "url": "Www.epassi.fi"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "17dd0b35a9256f25e18fcef35df5f5583916b5dde82071526289b75b3772ee8d",
     "observedVia": "live"
    }
   ]

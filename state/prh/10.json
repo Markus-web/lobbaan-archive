@@ -3301,6 +3301,272 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "a24d49ec08521480e769b755145ca23888d52284f9879897cc0389f87ba56b44",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "11",
+       "co": "",
+       "entrance": "B",
+       "postCode": "10300",
+       "postOffices": [
+        {
+         "city": "KARIS",
+         "languageCode": "2",
+         "municipalityCode": "710"
+        },
+        {
+         "city": "KARJAA",
+         "languageCode": "1",
+         "municipalityCode": "710"
+        }
+       ],
+       "registrationDate": "2024-12-23",
+       "source": "0",
+       "street": "Elin Kurcksgatan",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "11",
+       "co": "",
+       "entrance": "B",
+       "postCode": "10300",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "KARIS",
+         "languageCode": "2",
+         "municipalityCode": "710"
+        },
+        {
+         "city": "KARJAA",
+         "languageCode": "1",
+         "municipalityCode": "710"
+        }
+       ],
+       "registrationDate": "2024-12-23",
+       "source": "0",
+       "street": "Elin Kurcksgatan",
+       "type": 2
+      }
+     ],
+     "businessId": "2064886-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2006-10-11",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2064886-7"
+     },
+     "lastModified": "2026-11-04T16:20:36",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Toisen asteen ammatillinen koulutus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Vocational secondary education",
+        "languageCode": "3"
+       },
+       {
+        "description": "Yrkesförberedande gymnasial utbildning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85320",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Axxell Utbildning Ab",
+       "registrationDate": "2008-01-07",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2008-01-06",
+       "name": "Ab Västra Finlands yrkesinstitut",
+       "registrationDate": "2006-10-11",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Överby Trädgårdar",
+       "registrationDate": "2023-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2006-10-10",
+       "register": "1",
+       "registrationDate": "2006-10-05",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2006-10-11",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2006-10-10",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2008-08-12",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2008-08-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2008-08-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2006-10-11",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2008-08-12",
+      "source": "0",
+      "url": "www.axxell.fi"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "460666ed82278514fd27702929a5b0520442cd2e8377e6336531c65fb5cf1af2",
     "observedVia": "live"
    }
   ]

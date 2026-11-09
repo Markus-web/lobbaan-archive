@@ -203131,11 +203131,11 @@
   "supplementaryCompanyNames": [
    {
     "createdAt": "2026-08-20",
-    "title": "Blue Energies Consulting"
+    "title": "Blue Energies Solutions"
    },
    {
     "createdAt": "2026-08-20",
-    "title": "Blue Energies Solutions"
+    "title": "Blue Energies Consulting"
    }
   ],
   "term": {
@@ -378104,7 +378104,7 @@
   "supplementaryCompanyNames": [
    {
     "createdAt": "2026-08-26",
-    "title": "Evision Analyses"
+    "title": "Evision Infrastructure"
    },
    {
     "createdAt": "2026-08-26",
@@ -378112,7 +378112,7 @@
    },
    {
     "createdAt": "2026-08-26",
-    "title": "Evision Infrastructure"
+    "title": "Evision Analyses"
    }
   ],
   "term": {
@@ -434468,11 +434468,7 @@
    },
    {
     "createdAt": "2026-08-28",
-    "title": "Kuopio Airport"
-   },
-   {
-    "createdAt": "2026-08-28",
-    "title": "AVIA Shop"
+    "title": "Kokkola-Pietarsaari Airport"
    },
    {
     "createdAt": "2026-08-28",
@@ -434509,6 +434505,10 @@
    {
     "createdAt": "2026-08-28",
     "title": "AVIA Restaurant"
+   },
+   {
+    "createdAt": "2026-08-28",
+    "title": "Kuopio Airport"
    },
    {
     "createdAt": "2026-08-28",
@@ -434592,7 +434592,7 @@
    },
    {
     "createdAt": "2026-08-28",
-    "title": "Kokkola-Pietarsaari Airport"
+    "title": "AVIA Shop"
    },
    {
     "createdAt": "2026-08-28",
@@ -949615,6 +949615,89 @@
   "useForExit": false
  },
  {
+  "activityAmount": "many",
+  "activityNotificationDate": "2026-11-08",
+  "companyId": "0252201-3",
+  "companyName": "Mannerheimin Lastensuojeluliiton Uudenmaan piiri - Mannerheims Barnskyddsförbunds Nylands distrikt ry",
+  "companyType": "company_id",
+  "createdAt": "2026-11-08",
+  "diaryNumber": "MAN-26-8500-T",
+  "id": 8500,
+  "isEdited": false,
+  "isOnlyFinancials": false,
+  "isOverdue": true,
+  "mainIndustry": "Muualla luokittelematon muu monenlainen sosiaalihuollon avopalvelutoiminta",
+  "otherCompanyId": null,
+  "previousYearFinancials": null,
+  "reportingEndDate": null,
+  "reportingStartDate": null,
+  "supplementaryCompanyNames": [],
+  "term": {
+   "collectFinancials": true,
+   "createdAt": "2024-06-20",
+   "id": 5,
+   "reportingEndDate": "2026-06-30T00:00:00.000Z",
+   "reportingPeriodOngoing": false,
+   "reportingStartDate": "2026-01-01T00:00:00.000Z",
+   "signUpEndDate": "2026-08-31T00:00:00.000Z",
+   "signUpStartDate": "2026-07-01T00:00:00.000Z",
+   "status": "closed"
+  },
+  "termId": 5,
+  "topics": [
+   {
+    "activityNotificationId": 8500,
+    "activityType": "direct",
+    "contactTopicOther": "Sosiaali- ja terveysjärjestöjen avustusleikkaukset",
+    "contactTopicProject": null,
+    "contactTopicType": "other",
+    "contactedTargets": [
+     {
+      "activityNotificationTopicId": 35346,
+      "contactMethods": [
+       "meeting"
+      ],
+      "contactedTargetId": 4188,
+      "otherContactMethod": ""
+     },
+     {
+      "activityNotificationTopicId": 35346,
+      "contactMethods": [
+       "meeting"
+      ],
+      "contactedTargetId": 4351,
+      "otherContactMethod": ""
+     },
+     {
+      "activityNotificationTopicId": 35346,
+      "contactMethods": [
+       "meeting"
+      ],
+      "contactedTargetId": 4369,
+      "otherContactMethod": ""
+     },
+     {
+      "activityNotificationTopicId": 35346,
+      "contactMethods": [
+       "meeting"
+      ],
+      "contactedTargetId": 4219,
+      "otherContactMethod": ""
+     }
+    ],
+    "createdAt": "2026-11-08",
+    "customerCompanyId": "",
+    "customerCompanyName": "",
+    "customerOtherCompanyId": "",
+    "customerSupplementaryCompanyNames": [],
+    "id": 35346,
+    "supportQuality": "",
+    "title": null
+   }
+  ],
+  "useForExit": false
+ },
+ {
   "activityAmount": "none",
   "activityNotificationDate": "2024-10-22",
   "companyId": "3082751-9",
@@ -1001239,10 +1001322,6 @@
    },
    {
     "createdAt": "2026-08-28",
-    "title": "Metso Shared Services"
-   },
-   {
-    "createdAt": "2026-08-28",
     "title": "Nordberg Group"
    },
    {
@@ -1001256,6 +1001335,10 @@
    {
     "createdAt": "2026-08-28",
     "title": "Outotec (Finland)"
+   },
+   {
+    "createdAt": "2026-08-28",
+    "title": "Metso Shared Services"
    },
    {
     "createdAt": "2026-08-28",
@@ -1001910,11 +1001993,11 @@
    },
    {
     "createdAt": "2026-08-28",
-    "title": "Outotec"
+    "title": "Rauma Investment"
    },
    {
     "createdAt": "2026-08-28",
-    "title": "Rauma Investment"
+    "title": "Outotec"
    }
   ],
   "term": {
@@ -1874986,11 +1875069,11 @@
    },
    {
     "createdAt": "2026-10-02",
-    "title": "Suomen Latu Paloheinä"
+    "title": "Suomen Latu ry"
    },
    {
     "createdAt": "2026-10-02",
-    "title": "Suomen Latu ry"
+    "title": "Suomen Latu Paloheinä"
    }
   ],
   "term": {
@@ -2055292,62 +2055375,6 @@
   "supplementaryCompanyNames": [
    {
     "createdAt": "2026-08-21",
-    "title": "Passeli Ohjelmat"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Verkkolaskut.fi"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Visma ePasseli"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Solanum"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Visma Avendo"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Visma Passeli"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Netvisor"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Severa"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Valueframe"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Karhu Palvelut"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Visma Sign"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Clento"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "Fivaldi"
-   },
-   {
-    "createdAt": "2026-08-21",
-    "title": "FabricAI"
-   },
-   {
-    "createdAt": "2026-08-21",
     "title": "Accode"
    },
    {
@@ -2055377,6 +2055404,62 @@
    {
     "createdAt": "2026-08-21",
     "title": "Passeli Merit"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Visma ePasseli"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Verkkolaskut.fi"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Passeli Ohjelmat"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Visma Passeli"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Netvisor"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Severa"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Valueframe"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Karhu Palvelut"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Visma Sign"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Visma Avendo"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Clento"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Solanum"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "Fivaldi"
+   },
+   {
+    "createdAt": "2026-08-21",
+    "title": "FabricAI"
    }
   ],
   "term": {

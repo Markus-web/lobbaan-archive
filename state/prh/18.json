@@ -2439,6 +2439,441 @@
     },
     "firstSeen": "2026-11-07",
     "hash": "93dcb5fe35d5bdabdc10e6cd213888669849711ceb66edee8fee1a6d8966d4a7",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "names",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "10",
+       "co": "",
+       "entrance": "",
+       "postCode": "53100",
+       "postOffices": [
+        {
+         "city": "LAPPEENRANTA",
+         "languageCode": "1",
+         "municipalityCode": "405"
+        },
+        {
+         "city": "LAPPEENRANTA",
+         "languageCode": "2",
+         "municipalityCode": "405"
+        }
+       ],
+       "registrationDate": "2020-05-25",
+       "source": "0",
+       "street": "Villimiehenkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "10",
+       "co": "",
+       "entrance": "",
+       "postCode": "53100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "LAPPEENRANTA",
+         "languageCode": "1",
+         "municipalityCode": "405"
+        },
+        {
+         "city": "LAPPEENRANTA",
+         "languageCode": "2",
+         "municipalityCode": "405"
+        }
+       ],
+       "registrationDate": "2020-05-25",
+       "source": "0",
+       "street": "Villimiehenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1967543-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2005-05-31",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1967543-8"
+     },
+     "lastModified": "2026-11-06T16:52:03",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Computer programming activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Dataprogrammering",
+        "languageCode": "2"
+       },
+       {
+        "description": "Ohjelmistojen suunnittelu ja valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "62100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Visma Solutions Oy",
+       "registrationDate": "2026-11-05",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2026-11-05",
+       "name": "Netvisor Solutions Oy",
+       "registrationDate": "2026-11-05",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Fivaldi",
+       "registrationDate": "2023-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "DigitalBooker",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Severa",
+       "registrationDate": "2013-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Verkkolaskut.fi",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "FabricAI",
+       "registrationDate": "2024-09-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Valueframe",
+       "registrationDate": "2018-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Solanum",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma ePasseli",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Passeli Merit",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Clento",
+       "registrationDate": "2023-03-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Netvisor KYC",
+       "registrationDate": "2026-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma Avendo",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Netvisor Pro",
+       "registrationDate": "2026-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Karhu Palvelut",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Netvisor",
+       "registrationDate": "2012-12-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Accode",
+       "registrationDate": "2025-06-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Passeli Ohjelmat",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma Sign",
+       "registrationDate": "2022-10-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma eAccounting",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "ePasseli",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fikuro",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma Passeli",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2005-05-30",
+       "register": "1",
+       "registrationDate": "2005-05-26",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2005-05-31",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2005-05-30",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2005-05-26",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2005-02-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-02-02",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2005-06-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2005-05-31",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2018-04-17",
+      "source": "0",
+      "url": "http://www.vismasolutions.com"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "95f3764c1993305cc869c1b8676c2e962ff5527d53f79b0b78b478e45e4aed0f",
     "observedVia": "live"
    }
   ]
@@ -3820,6 +4255,284 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "3964ab151042a150b6c0f391edea139947628049bba76deb87b46eb97492a630",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "C",
+       "postCode": "00180",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-01-01",
+       "source": "0",
+       "street": "Lapinlahdenkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "C",
+       "postCode": "00180",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-01-01",
+       "source": "0",
+       "street": "Lapinlahdenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "2862495-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2017-10-19",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2862495-8"
+     },
+     "lastModified": "2026-11-04T11:00:32",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Computer programming activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Dataprogrammering",
+        "languageCode": "2"
+       },
+       {
+        "description": "Ohjelmistojen suunnittelu ja valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "62100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Silo AI Oy",
+       "registrationDate": "2017-10-19",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Silo AI Ltd",
+       "registrationDate": "2017-10-19",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2017-10-18",
+       "register": "1",
+       "registrationDate": "2017-10-13",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2017-10-19",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2017-11-01",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2017-10-13",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2017-09-27",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2020-03-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2017-10-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2017-10-19",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2017-10-13",
+      "source": "0",
+      "url": "https://silo.ai"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "1aebde4d203fe2119607f6702ea3063003cd13e1e92396f064a3ffd08eec34f9",
     "observedVia": "live"
    }
   ]

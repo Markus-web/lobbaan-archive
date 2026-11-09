@@ -855,6 +855,587 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "b68478c7b58f8bdb296f48538a82530eb04411d093a1901f27b7ad22b364de34",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3",
+       "co": "",
+       "entrance": "",
+       "postCode": "00510",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2023-06-02",
+       "source": "0",
+       "street": "Konepajankuja",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00101",
+       "postOfficeBox": "176",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2004-07-06",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0593027-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2021-11-05",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      },
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2021-11-04",
+       "registrationDate": "1985-03-07",
+       "source": "1",
+       "type": "16",
+       "version": 2
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0593027-4"
+     },
+     "lastModified": "2026-11-06T16:19:02",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Accounting and bookkeeping activities; tax consultancy",
+        "languageCode": "3"
+       },
+       {
+        "description": "Laskentatoimi, kirjanpito ja veroneuvonta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Redovisning och bokföring; skatterådgivning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "69201",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Administer Oyj",
+       "registrationDate": "2021-11-05",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2021-11-05",
+       "name": "Administer Oy",
+       "registrationDate": "1985-03-07",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Ruukintilit",
+       "registrationDate": "2023-03-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fin Biz Solutions",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Uusimaa",
+       "registrationDate": "2025-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjanmaan Laskenta",
+       "registrationDate": "2024-04-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Laskuri",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Admininster Partner",
+       "registrationDate": "2025-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Vantaa",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Laine Consulting Company",
+       "registrationDate": "2022-11-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tilikamut",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "FinTax",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Jyväskylä",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jyväskylän Kirjanpitopalvelu",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Trade Finanssi",
+       "registrationDate": "2025-05-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Konnektor",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Efina",
+       "registrationDate": "2002-10-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Turku",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Yrityspalvelu Pioneeri",
+       "registrationDate": "2025-03-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Partner",
+       "registrationDate": "2025-03-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Tampere",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer IT",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Silta Group",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Savon Tilitieto",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer ePalkka",
+       "registrationDate": "2012-11-05",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Muonion Taloushallinto",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sydän-Suomen Taloushallinta",
+       "registrationDate": "2025-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Kuopio",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tilitoimisto Ollikainen",
+       "registrationDate": "2022-09-06",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Mäntsälä",
+       "registrationDate": "2025-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tilitoimisto Husu",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Varkauden Educa",
+       "registrationDate": "2025-03-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tilitoimisto Polojärvi",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Konsulttiliike Laine",
+       "registrationDate": "2022-11-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tampereen Erikoiskirjanpito",
+       "registrationDate": "2025-03-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Waasa Profit Counter",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Adner",
+       "registrationDate": "2025-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Deebetti",
+       "registrationDate": "2025-03-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "E-Tilipalvelut City",
+       "registrationDate": "2023-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Varkauden Tili",
+       "registrationDate": "2023-01-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tunturi-Lapin Yrityspalvelu",
+       "registrationDate": "2023-01-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tilikymppi Kredit",
+       "registrationDate": "2026-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Yrittäjän Polku",
+       "registrationDate": "2026-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Administer Abp",
+       "registrationDate": "2021-11-05",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Administer Plc",
+       "registrationDate": "2021-11-05",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1985-03-07",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1985-06-04",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2008-08-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2004-07-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "1993-01-31",
+       "register": "7",
+       "registrationDate": "1986-02-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1985-03-07",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2004-07-06",
+      "source": "0",
+      "url": "www.administer.fi"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "258eb6ccd3e61aa41e3a977b1fbbea5a48b71d515b55dcf178a0bb4535a6362e",
     "observedVia": "live"
    }
   ]

@@ -4484,6 +4484,756 @@
     },
     "firstSeen": "2026-11-07",
     "hash": "5e22be0ac85601a0f9902833d72d39f3f9dff854b20e7487fe056081ef8faddd",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "12",
+       "co": "",
+       "entrance": "",
+       "postCode": "00580",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2019-06-10",
+       "source": "0",
+       "street": "Työpajankatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00016",
+       "postOfficeBox": "1",
+       "postOffices": [
+        {
+         "city": "KESKO",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "KESKO",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2016-11-02",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0109862-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "1998-04-30",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0109862-8"
+     },
+     "lastModified": "2026-11-05T14:18:26",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Icke-specialiserad partihandel",
+        "languageCode": "2"
+       },
+       {
+        "description": "Non-specialised wholesale trade",
+        "languageCode": "3"
+       },
+       {
+        "description": "Yleistukkukauppa",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "46900",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Kesko Oyj",
+       "registrationDate": "1998-04-30",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1998-04-29",
+       "name": "Kesko Oy",
+       "registrationDate": "1960-04-29",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Kesped",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Online Superstore",
+       "registrationDate": "1996-05-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kesko Food",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Citymarket Iso Omena",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Suomen Lähikauppa",
+       "registrationDate": "2025-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjanmaa",
+       "registrationDate": "2006-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-luotto",
+       "registrationDate": "2008-04-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "KP Kaupan päivä",
+       "registrationDate": "2016-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keswell",
+       "registrationDate": "2007-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-Rahoitus",
+       "registrationDate": "2008-04-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-Plus",
+       "registrationDate": "2016-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sincera",
+       "registrationDate": "2016-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Siwa Plus",
+       "registrationDate": "2025-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Otra",
+       "registrationDate": "2000-08-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-pikkolo",
+       "registrationDate": "2003-08-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-noutotukku",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hiilentuonti",
+       "registrationDate": "1984-02-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K Digital",
+       "registrationDate": "2016-11-10",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rautakonttori",
+       "registrationDate": "2006-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kimport",
+       "registrationDate": "1984-02-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Musta Pörssi",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tietokesko",
+       "registrationDate": "2006-03-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Andiamo",
+       "registrationDate": "2022-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Autokesko",
+       "registrationDate": "1984-02-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-kortti",
+       "registrationDate": "2008-04-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mini-K",
+       "registrationDate": "1990-06-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jounin Kauppa",
+       "registrationDate": "2025-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ruokakesko",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kesko Livs",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-citymarket",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Citymarket City 2",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Valintatalo",
+       "registrationDate": "2025-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-maatalouskaupat",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Espoon Sinikalliontie 1",
+       "registrationDate": "2025-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keslog",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Teampro",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mammuttimarkkinat",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Suomen Väri",
+       "registrationDate": "1999-12-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Poptoy",
+       "registrationDate": "1996-09-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-Market",
+       "registrationDate": "2025-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keskometalli",
+       "registrationDate": "1999-09-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kespro",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Citymarket City 3",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Työväline",
+       "registrationDate": "1993-03-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-Plussa",
+       "registrationDate": "2016-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Citymarket City 1",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rautakesko",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-netto",
+       "registrationDate": "2003-08-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Norrwell",
+       "registrationDate": "2000-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lollo",
+       "registrationDate": "1999-12-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Motorest",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-clearing",
+       "registrationDate": "2003-04-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-Hila",
+       "registrationDate": "1990-06-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-netti",
+       "registrationDate": "2000-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ohittamaton Ostospaikka",
+       "registrationDate": "2017-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-instituutti",
+       "registrationDate": "2016-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-talouspalvelukeskus",
+       "registrationDate": "2016-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Koskicity",
+       "registrationDate": "1999-12-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rautia",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-retail eMBA",
+       "registrationDate": "2007-07-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Maatalouskesko",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jättipörssi",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kesmotors",
+       "registrationDate": "2000-01-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Premia",
+       "registrationDate": "2006-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "K-Citymarket Espoontori",
+       "registrationDate": "2026-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kesko Abp",
+       "registrationDate": "1998-04-30",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Kesko AG",
+       "registrationDate": "1999-05-31",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Kesko Corporation",
+       "registrationDate": "1998-04-30",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1941-01-03",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1944-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "1997-03-17",
+       "register": "8",
+       "registrationDate": "1997-01-01",
+       "type": "32"
+      }
+     ],
+     "registrationDate": "1941-01-03",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "6910047f9bf2466263fc58d92c7557f22362d3751ac5fecb4ef53a6774586252",
     "observedVia": "live"
    }
   ]
@@ -8697,6 +9447,291 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "47a0a41c73baa8cec0ebff3b1fed7082576b7d9cc86b37d6f1a1f5873ebb9cce",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "4",
+       "co": "",
+       "entrance": "",
+       "postCode": "28880",
+       "postOffices": [
+        {
+         "city": "PORI",
+         "languageCode": "1",
+         "municipalityCode": "609"
+        },
+        {
+         "city": "PORI",
+         "languageCode": "2",
+         "municipalityCode": "609"
+        }
+       ],
+       "registrationDate": "2014-10-13",
+       "source": "0",
+       "street": "Merisatamantie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "4",
+       "co": "",
+       "entrance": "",
+       "postCode": "28880",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "PORI",
+         "languageCode": "1",
+         "municipalityCode": "609"
+        },
+        {
+         "city": "PORI",
+         "languageCode": "2",
+         "municipalityCode": "609"
+        }
+       ],
+       "registrationDate": "2014-10-13",
+       "source": "0",
+       "street": "Merisatamantie",
+       "type": 2
+      }
+     ],
+     "businessId": "2647353-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2014-10-16",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2647353-5"
+     },
+     "lastModified": "2026-11-03T20:13:18",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Hamnverksamhet",
+        "languageCode": "2"
+       },
+       {
+        "description": "Operation of harbours",
+        "languageCode": "3"
+       },
+       {
+        "description": "Satamatoiminta",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "52221",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Porin Satama Oy",
+       "registrationDate": "2014-10-16",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Björneborgs Hamn Ab",
+       "registrationDate": "2014-10-16",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Port of Pori Ltd",
+       "registrationDate": "2014-10-16",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2014-10-15",
+       "register": "1",
+       "registrationDate": "2014-10-13",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2014-10-16",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2014-10-29",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2015-01-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2015-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2015-01-21",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2015-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2014-10-16",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2014-10-13",
+      "source": "0",
+      "url": "www.portofpori.fi"
+     }
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "00e06d397deb68835dd30406ba3b3c43af089a6d26470b1902f027068d6faac6",
     "observedVia": "live"
    }
   ]
@@ -9193,6 +10228,253 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "fc06216a940ba0b319427008240eb1796d7feccd60a2853fed38ffd3b3182c9c",
+    "observedVia": "live",
+    "until": "2026-11-09"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "72",
+       "co": "c/o Elomatic Oy",
+       "postCode": "20810",
+       "postOffices": [
+        {
+         "city": "TURKU",
+         "languageCode": "1",
+         "municipalityCode": "853"
+        },
+        {
+         "city": "ÅBO",
+         "languageCode": "2",
+         "municipalityCode": "853"
+        }
+       ],
+       "registrationDate": "2021-09-27",
+       "source": "0",
+       "street": "Itäinen Rantakatu",
+       "type": 1
+      },
+      {
+       "buildingNumber": "72",
+       "co": "c/o Elomatic Oy",
+       "postCode": "20810",
+       "postOffices": [
+        {
+         "city": "TURKU",
+         "languageCode": "1",
+         "municipalityCode": "853"
+        },
+        {
+         "city": "ÅBO",
+         "languageCode": "2",
+         "municipalityCode": "853"
+        }
+       ],
+       "registrationDate": "2021-09-27",
+       "source": "0",
+       "street": "Itäinen Rantakatu",
+       "type": 2
+      }
+     ],
+     "businessId": "3238750-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2021-10-08",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.3238750-2"
+     },
+     "lastModified": "2026-11-03T16:08:18",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Industrigasframställning",
+        "languageCode": "2"
+       },
+       {
+        "description": "Manufacture of industrial gases",
+        "languageCode": "3"
+       },
+       {
+        "description": "Teollisuuskaasujen valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "20110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Green North Energy Oy",
+       "registrationDate": "2023-02-24",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2023-02-24",
+       "name": "Green NortH2 Energy Oy",
+       "registrationDate": "2021-10-08",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2021-10-07",
+       "register": "1",
+       "registrationDate": "2021-09-27",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2021-10-08",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2021-10-08",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2022-11-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2021-11-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2022-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2021-10-08",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-09",
+    "hash": "75219894c44e0565bb8b002559f69771315af3ee5ef17b7d1d809e0a134f46fd",
     "observedVia": "live"
    }
   ]
