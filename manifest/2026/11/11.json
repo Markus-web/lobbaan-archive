@@ -1,0 +1,117 @@
+{
+ "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
+ "changes": {
+  "added": 3,
+  "edited": 61,
+  "removed": 1
+ },
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T08:06:35.553Z",
+ "sources": [
+  {
+   "bytes": 1364961,
+   "fetchedAt": "2026-11-11T08:06:35.553Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 1386,
+   "sha256": "7107f9b4ad2dc626e53c81a4a2811f7832c23f97cc87383e9ea9b87ae3a4ad34",
+   "snapshotKey": "snapshots/2026-11-11/register-notification.json.gz",
+   "source": "register-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification"
+  },
+  {
+   "bytes": 36708497,
+   "fetchedAt": "2026-11-11T08:06:44.324Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 5839,
+   "sha256": "ca6600d07d65371b796b43c95515ef689abafa74501fb1be19d7be186fd8567a",
+   "snapshotKey": "snapshots/2026-11-11/activity-notification.json.gz",
+   "source": "activity-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-activity-notification"
+  },
+  {
+   "bytes": 59281,
+   "fetchedAt": "2026-11-11T08:06:59.335Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 81,
+   "sha256": "b179caab4ca661194388fe557537eeabb0c1791fbba306c49e26c8875d998db1",
+   "snapshotKey": "snapshots/2026-10-29/exit-notification.json.gz",
+   "source": "exit-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-exit-notification"
+  },
+  {
+   "bytes": 2,
+   "fetchedAt": "2026-11-11T08:07:05.970Z",
+   "httpStatus": 200,
+   "note": "Implausibly few records; removals not inferred.",
+   "ok": true,
+   "partial": true,
+   "records": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "snapshotKey": "snapshots/2026-10-29/penalty-payments.json.gz",
+   "source": "penalty-payments",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-penalty-payments"
+  },
+  {
+   "bytes": 1744,
+   "fetchedAt": "2026-11-11T08:07:06.104Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 6,
+   "sha256": "f9d2a83c7f770b75b84fecbddfb5b9702d8fccce52042a3735aef985dd517a83",
+   "snapshotKey": "snapshots/2026-10-29/term.json.gz",
+   "source": "term",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-term"
+  },
+  {
+   "bytes": 2962096,
+   "fetchedAt": "2026-11-11T08:07:06.238Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 4550,
+   "sha256": "48da9a1aee70d8d842b5e2cb3b3f5b84441c1a2fd28cb46289aca12e3b5278cd",
+   "snapshotKey": "snapshots/2026-10-29/targets.json.gz",
+   "source": "targets",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-target/targets"
+  },
+  {
+   "error": "HTTP 403",
+   "fetchedAt": "2026-11-11T08:07:07.920Z",
+   "ok": false,
+   "partial": true,
+   "records": 0,
+   "source": "kansalaisaloite-initiatives",
+   "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
+  },
+  {
+   "bytes": 703498,
+   "fetchedAt": "2026-11-11T08:07:08.512Z",
+   "httpStatus": 200,
+   "note": "Finnish head offices from the export of 2026-11-10T21:00:00.027+00:00 (18099 organisations, 118561396 bytes, SHA-256 bb1a54fbbcfe0f4bb715c259b466c288742cf4d9c3270a55ec6c4c2ee386f6b2).",
+   "ok": true,
+   "records": 399,
+   "sha256": "1fe1a296e17eff4cbb3255de8fe59e34d62cb1515f79178e96055341739ea145",
+   "snapshotKey": "snapshots/2026-11-11/eu-register.json.gz",
+   "source": "eu-register",
+   "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
+  },
+  {
+   "fetchedAt": "2026-11-11T08:07:39.003Z",
+   "ok": true,
+   "records": 4,
+   "source": "news",
+   "url": "https://www.vtv.fi/feed/ https://www.hs.fi/rss/politiikka.xml https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET https://www.iltalehti.fi/rss/uutiset.xml https://www.verkkouutiset.fi/feed/"
+  },
+  {
+   "fetchedAt": "2026-11-11T08:14:11.187Z",
+   "note": "Rotating refresh: 700 of 1375 business IDs, 0 failed.",
+   "ok": true,
+   "partial": true,
+   "records": 331,
+   "source": "prh-ytj",
+   "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
+  }
+ ]
+}

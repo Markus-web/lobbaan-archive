@@ -1580,6 +1580,262 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "d4a69eeb798a1da9572f1aa028b25e788bb07210b97ce59862fbbd34458db01f",
+    "observedVia": "live",
+    "until": "2026-11-11"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "7",
+       "co": "",
+       "entrance": "",
+       "postCode": "02100",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2013-12-10",
+       "source": "0",
+       "street": "Revontulentie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "7",
+       "entrance": "",
+       "postCode": "00041",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "ELO",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "ELO",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2013-12-10",
+       "source": "0",
+       "street": "Revontulentie",
+       "type": 2
+      }
+     ],
+     "businessId": "0201103-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Keskinäinen vakuutusyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Mutual insurance company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Ömsesidigt försäkringsbolag",
+         "languageCode": "2"
+        }
+       ],
+       "source": "1",
+       "type": "12",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-11-09T17:29:53",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Obligatorisk arbetspensionsförsäkring",
+        "languageCode": "2"
+       },
+       {
+        "description": "Pakollinen työeläkevakuutus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Statutory pension insurance by employers",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "84302",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Keskinäinen Työeläkevakuutusyhtiö Elo",
+       "registrationDate": "2014-01-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2013-12-31",
+       "name": "LähiTapiola Keskinäinen Eläkevakuutusyhtiö",
+       "registrationDate": "2013-01-01",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Aamu Eläkevakuutus",
+       "registrationDate": "2013-04-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Elo Eläkevakuutus",
+       "registrationDate": "2013-04-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ömsesidiga Arbetspensionsförsäkringsbolaget Elo",
+       "registrationDate": "2014-01-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Elo Mutual Pension Insurance Company",
+       "registrationDate": "2014-01-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1971-07-02",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1972-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-06-30",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1971-07-02",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-11",
+    "hash": "81aa2580f6c9491c7dda980b44d6b5c0c9e3e4e611c0f6c959d2cdff2a7fb196",
     "observedVia": "live"
    }
   ]

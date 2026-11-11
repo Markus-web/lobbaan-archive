@@ -21429,6 +21429,940 @@
    }
   ]
  },
+ "NOR-26-8507-T": {
+  "key": "NOR-26-8507-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2025-08-28",
+     "companyId": "2858394-9",
+     "companyName": "Nordea Bank Abp",
+     "companyType": "company_id",
+     "createdAt": "2026-11-11",
+     "diaryNumber": "NOR-26-8507-T",
+     "id": 8507,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": false,
+     "mainIndustry": "Muu rahoitusta palveleva toiminta (pl. vakuutus- ja eläkevakuutustoiminta)",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": false,
+      "createdAt": "2024-06-20",
+      "id": 3,
+      "reportingEndDate": "2025-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2025-01-01T00:00:00.000Z",
+      "signUpEndDate": "2025-08-31T00:00:00.000Z",
+      "signUpStartDate": "2025-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 3,
+     "topics": [
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-11-11",
+        "en": null,
+        "fi": "Hallituksen esitys asuntorahoitusta koskevan sääntelyn uudistamiseksi",
+        "id": 4807,
+        "projectId": "VM050:00/2025",
+        "sv": "Regeringens proposition med förslag till revidering av bestämmelserna om bostadsfinansiering"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35347,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2312,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35347,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2992,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35347,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2307,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35347,
+         "contactMethods": [
+          "online"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35347,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Geopolitiikka ja pankkien varautuminen sekä kyberturvallisuus",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35348,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35348,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35348,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35348,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2388,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35348,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2390,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35348,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2943,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35348,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2941,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35348,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-11-11",
+        "en": null,
+        "fi": "Hallituksen esitys luottolaitosdirektiivin täytäntöönpanoa koskevaksi lainsäädännöksi",
+        "id": 4808,
+        "projectId": "VM188:00/2024",
+        "sv": "Regeringens proposition med förslag till lagstiftning om genomförande av kreditinstitutsdirektivet"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35349,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35349,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35349,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2933,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35349,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Komission arvopaperistamisesitys ja luottovakuutukset",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35350,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35350,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35350,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35350,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-11-11",
+        "en": null,
+        "fi": "Peruspankkipalvelutyöryhmä",
+        "id": 4809,
+        "projectId": "VM145:00/2024",
+        "sv": "Arbetsgruppen för grundläggande banktjänster"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35351,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35351,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35351,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Euroopan keskuspankin toiminta pankkivalvojana ja valvontakäytännöt",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35352,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35352,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35352,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Makrovakaussääntely Suomessa ja EU:ssa ja tuleva kehitys",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35353,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35353,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35353,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35353,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2933,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35353,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2941,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35353,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Digitaalinen euro - EU-säädösvalmistelun tilanne ja eteneminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35354,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35354,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35354,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2941,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35354,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Ajankohtaiset EU-vakavaraisuussääntelyasiat (pysyvän varainhankinnan vaatimus ja markkinariskien hallinta)",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35355,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35355,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35355,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Suomen ja EU:n kilpailukyky, pankkien kyky rahoittaa talouskasvua",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2786,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2499,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2798,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 2933,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2680,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2662,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2748,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2677,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2721,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 2931,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3041,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 3001,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 2941,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35356,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35356,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Osuudenomistajien vähimmäismäärää koskeva vaatimus",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35357,
+         "contactMethods": [
+          "meeting",
+          "online"
+         ],
+         "contactedTargetId": 2889,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35357,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2886,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35357,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2891,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35357,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35357,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35357,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 2876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35357,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 2933,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35357,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Puolustusteollisuuden rahoitus ja pankkien rooli rahoittajana",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35358,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35358,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35358,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Finnveran sääntely ja sen rooli talouden rahoituksessa",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35359,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2488,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35359,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "",
+       "contactTopicProject": {
+        "createdAt": "2026-11-11",
+        "en": null,
+        "fi": "Selvityshanke hallintarekisteröidyille osakkeille maksettavien osinkojen lähdeveron perimisessä käytettävän TRACE-mallin kehittämistarpeista",
+        "id": 4810,
+        "projectId": "VM049:00/2024",
+        "sv": "Utredningsprojekt om behoven att utveckla TRACE-modellen för uppbörd av källskatt på dividender på förvaltarregistrerade aktier"
+       },
+       "contactTopicType": "project",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35360,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2891,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35360,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2933,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35360,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Sääntelyn yksinkertaistaminen ja Less is more -raportti",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35361,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2873,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35361,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2875,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35361,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2876,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35361,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2941,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35361,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "EU:n pääomamarkkinoiden nykytila ja kehittämistarpeet",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35362,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2683,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35362,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "Ajankohtaiset rahanpesun torjuntaan liittyvät asiat",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35363,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 2931,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35363,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 2786,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35363,
+         "contactMethods": [
+          "phone"
+         ],
+         "contactedTargetId": 3000,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35363,
+       "supportQuality": "",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8507,
+       "activityType": "direct",
+       "contactTopicOther": "EU:n metaanipäästöasetuksen pikainen täytäntöönpano",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35364,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 2993,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35364,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 2493,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35364,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 2482,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35364,
+         "contactMethods": [
+          "mail"
+         ],
+         "contactedTargetId": 2485,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "",
+       "customerCompanyName": "",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35364,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-11-11",
+    "hash": "a96b62a4fd15e79fa6aa37b5bc5988e6af134233660d85ebdb6db75359ef04a1",
+    "observedVia": "live"
+   }
+  ]
+ },
  "NUO-25-2972-T": {
   "key": "NUO-25-2972-T",
   "versions": [

@@ -571,6 +571,298 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "37b4dfad16c821867769c7754cbe753c6a0e71c38b57859828ab1c2b8b25bba1",
+    "observedVia": "live",
+    "until": "2026-11-11"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "6-8",
+       "co": "",
+       "entrance": "",
+       "postCode": "40100",
+       "postOffices": [
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "1",
+         "municipalityCode": "179"
+        },
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "2",
+         "municipalityCode": "179"
+        }
+       ],
+       "registrationDate": "2026-10-12",
+       "source": "0",
+       "street": "Mattilanniemi",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "40101",
+       "postOfficeBox": "22",
+       "postOffices": [
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "1",
+         "municipalityCode": "179"
+        },
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "2",
+         "municipalityCode": "179"
+        }
+       ],
+       "registrationDate": "1990-06-05",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0174817-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0174817-6"
+     },
+     "lastModified": "2026-11-09T09:00:27",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Extraction of peat",
+        "languageCode": "3"
+       },
+       {
+        "description": "Torvutvinning",
+        "languageCode": "2"
+       },
+       {
+        "description": "Turpeenotto",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "08920",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Neova Oy",
+       "registrationDate": "2021-05-06",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2021-05-06",
+       "name": "Vapo Oy",
+       "registrationDate": "1984-01-02",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Neova Group",
+       "registrationDate": "2021-04-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "G&C Materials",
+       "registrationDate": "2026-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1984-01-02",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Alkutuottajana ja/tai kuvataiteilijana arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig som primärproducent och/eller bildkonstnär",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for agriculture and forestry",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "83"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1979-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1984-01-02",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2026-10-12",
+      "source": "0",
+      "url": "www.neova-group.com"
+     }
+    },
+    "firstSeen": "2026-11-11",
+    "hash": "6f7fb6243c936ca798f926e00cbafdfabb948c6385b4eef5c0843e6143a16568",
     "observedVia": "live"
    }
   ]

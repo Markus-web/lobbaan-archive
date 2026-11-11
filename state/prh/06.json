@@ -3071,6 +3071,281 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "13f2f61021c6be69aa5aa1fb26a0ab3c30478b6abad796a647c26be42b8879c4",
+    "observedVia": "live",
+    "until": "2026-11-11"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "1",
+       "postCode": "68600",
+       "postOffices": [
+        {
+         "city": "JAKOBSTAD",
+         "languageCode": "2",
+         "municipalityCode": "598"
+        },
+        {
+         "city": "PIETARSAARI",
+         "languageCode": "1",
+         "municipalityCode": "598"
+        }
+       ],
+       "registrationDate": "2008-08-15",
+       "source": "0",
+       "street": "Granholmsvägen",
+       "type": 1
+      },
+      {
+       "postCode": "68601",
+       "postOfficeBox": "113",
+       "postOffices": [
+        {
+         "city": "JAKOBSTAD",
+         "languageCode": "2",
+         "municipalityCode": "598"
+        },
+        {
+         "city": "PIETARSAARI",
+         "languageCode": "1",
+         "municipalityCode": "598"
+        }
+       ],
+       "registrationDate": "2008-08-15",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "2212340-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2008-08-20",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2212340-7"
+     },
+     "lastModified": "2026-11-09T12:44:39",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Charkuteri- och annan köttvarutillverkning",
+        "languageCode": "2"
+       },
+       {
+        "description": "Liha- ja siipikarjatuotteiden valmistus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Production of meat and poultry meat products",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "10130",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Snellmans Köttförädling Ab",
+       "registrationDate": "2008-08-20",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "S-Frost",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Snellmanin Lihanjalostus Oy",
+       "registrationDate": "2008-08-20",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2008-08-19",
+       "register": "1",
+       "registrationDate": "2008-08-15",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2008-08-20",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2008-08-18",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2008-09-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2008-09-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2008-09-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2008-09-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2008-08-20",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2008-08-15",
+      "source": "0",
+      "url": "www.snellman.fi"
+     }
+    },
+    "firstSeen": "2026-11-11",
+    "hash": "ee31940cbd900cea3188ba3787bb545d6fef5af589996479076c3a2ee6659cdc",
     "observedVia": "live"
    }
   ]
