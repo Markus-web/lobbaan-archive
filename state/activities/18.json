@@ -7798,6 +7798,99 @@
    }
   ]
  },
+ "JAV-26-8515-T": {
+  "key": "JAV-26-8515-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-11-11",
+     "companyId": "3310326-8",
+     "companyName": "Javacom Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-11-11",
+     "diaryNumber": "JAV-26-8515-T",
+     "id": 8515,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muualla luokittelematon muu rahoituspalvelutoiminta pois lukien vakuutus- ja eläkevakuutustoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8515,
+       "activityType": "guidance",
+       "contactTopicOther": "Yrityksen yleisen tunnettuisuuden lisääminen ja sitä koskeva neuvonta",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "2217041-4",
+       "customerCompanyName": "Verda",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35372,
+       "supportQuality": "Keskeisten asiakkaan kannalta relevanttien toimijoiden hahmottaminen",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8515,
+       "activityType": "contact_for_customer",
+       "contactTopicOther": "Yrityksen yleisen tunnettuisuuden parantaminen ja sitä koskeva vaikuttamistyö",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35373,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3818,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35373,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4433,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "2217041-4",
+       "customerCompanyName": "Verda",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35373,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-11-12",
+    "hash": "2fb9da3a48a85f5c54da06d1f099f5294c204ad7ff8931c22d79c4aaa30c38ee",
+    "observedVia": "live"
+   }
+  ]
+ },
  "KES-26-6688-T": {
   "key": "KES-26-6688-T",
   "versions": [

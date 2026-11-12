@@ -14187,6 +14187,110 @@
    }
   ]
  },
+ "NEW-26-8508-T": {
+  "key": "NEW-26-8508-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-11-11",
+     "companyId": "3248186-5",
+     "companyName": "Newres Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-11-11",
+     "diaryNumber": "NEW-26-8508-T",
+     "id": 8508,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Holdingyhtiöiden toiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": false,
+      "createdAt": "2024-06-20",
+      "id": 1,
+      "reportingEndDate": "2024-06-30T20:59:59.999Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2024-04-01T00:00:00.000Z",
+      "signUpEndDate": "2024-08-31T20:59:59.999Z",
+      "signUpStartDate": "2024-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 1,
+     "topics": [
+      {
+       "activityNotificationId": 8508,
+       "activityType": "guidance",
+       "contactTopicOther": "Valtionavun hakeminen Paimion parantola -rakennuksen peruskorjaukseen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "3175265-1",
+       "customerCompanyName": "Paimion parantola säätiö",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35365,
+       "supportQuality": "Hakemuksen laatimista ja siihen liittyvää vaikuttamistoimintaa koskeva neuvonta",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8508,
+       "activityType": "contact_for_customer",
+       "contactTopicOther": "Valtionavun hakeminen Paimion parantola -rakennuksen peruskorjaukseen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35366,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 283,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35366,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 573,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35366,
+         "contactMethods": [
+          "mail",
+          "meeting"
+         ],
+         "contactedTargetId": 574,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "3175265-1",
+       "customerCompanyName": "Paimion parantola säätiö",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35366,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-11-12",
+    "hash": "7344ef78f7124d590df4d9c8c88045e913271276f442700ec3631baa8399b5a8",
+    "observedVia": "live"
+   }
+  ]
+ },
  "NUO-25-2016-T": {
   "key": "NUO-25-2016-T",
   "versions": [

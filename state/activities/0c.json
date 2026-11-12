@@ -13325,6 +13325,92 @@
    }
   ]
  },
+ "JAV-26-8514-T": {
+  "key": "JAV-26-8514-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-11-11",
+     "companyId": "3310326-8",
+     "companyName": "Javacom Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-11-11",
+     "diaryNumber": "JAV-26-8514-T",
+     "id": 8514,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muualla luokittelematon muu rahoituspalvelutoiminta pois lukien vakuutus- ja eläkevakuutustoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": false,
+      "createdAt": "2024-06-20",
+      "id": 4,
+      "reportingEndDate": "2025-12-31T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2025-07-01T00:00:00.000Z",
+      "signUpEndDate": "2026-02-28T00:00:00.000Z",
+      "signUpStartDate": "2026-01-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 4,
+     "topics": [
+      {
+       "activityNotificationId": 8514,
+       "activityType": "guidance",
+       "contactTopicOther": "Suomen ajankohtaista energiapolitiikkaa koskevan ymmärryksen sekä asiakkaan tunnettuisuuden lisääminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "3493430-3",
+       "customerCompanyName": "Calogena Oy",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35370,
+       "supportQuality": "Suomen energiapolitiikan keskeisiä toimijoita ja hankkeita koskeva neuvonta",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8514,
+       "activityType": "contact_for_customer",
+       "contactTopicOther": "Suomen energiapolitiikan ajankohtaiset asiat ja hankkeet",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35371,
+         "contactMethods": [
+          "meeting",
+          "mail"
+         ],
+         "contactedTargetId": 3494,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "3493430-3",
+       "customerCompanyName": "Calogena Oy",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35371,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-11-12",
+    "hash": "5c2ac5d68e9d7af5d1b4b7d74841ee79c925b2fdb27d333ee6d5c710fade0c0d",
+    "observedVia": "live"
+   }
+  ]
+ },
  "JÄR-26-6217-T": {
   "key": "JÄR-26-6217-T",
   "versions": [

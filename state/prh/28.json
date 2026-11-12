@@ -484,6 +484,272 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "f91e02fef962c2a7e160d67eff7ad5c86f990f373553abf66582bff232a04d55",
+    "observedVia": "live",
+    "until": "2026-11-12"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "25",
+       "co": "",
+       "entrance": "A",
+       "postCode": "00100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2004-01-21",
+       "source": "0",
+       "street": "NORRA ESPLANADEN",
+       "type": 2
+      }
+     ],
+     "businessId": "0217099-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Kommandiittiyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Kommanditbolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited partnership",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2012-06-30",
+       "registrationDate": "2007-02-15",
+       "source": "1",
+       "type": "13",
+       "version": 2
+      },
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2012-07-01",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0217099-4"
+     },
+     "lastModified": "2026-11-09T14:30:41",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Advokatbyråer",
+        "languageCode": "2"
+       },
+       {
+        "description": "Asianajotoimistot",
+        "languageCode": "1"
+       },
+       {
+        "description": "Legal representation activities",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "69101",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Dittmar & Indrenius Advokatbyrå Ab",
+       "registrationDate": "2012-07-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2012-06-30",
+       "name": "Dittmar & Indrenius Kommandiittiyhtiö Kommanditbolag",
+       "registrationDate": "2007-02-15",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Dittmar & Indrenius Advokatbyrå",
+       "registrationDate": "2009-02-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Dittmar & Indrenius Asianajotoimisto",
+       "registrationDate": "2009-02-09",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "Dittmar & Indrenius Attorneys at Law",
+       "registrationDate": "2009-02-09",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "Dittmar & Indrenius Asianajotoimisto Oy",
+       "registrationDate": "2012-07-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Dittmar & Indrenius Attorneys Ltd.",
+       "registrationDate": "2012-07-01",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1903-11-25",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1978-07-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-11-11",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1903-11-25",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-12",
+    "hash": "4fdf58c8648ea712b6cd41490ce457c3f298599b522e85348c7981c97d5dea7f",
     "observedVia": "live"
    }
   ]
@@ -2051,6 +2317,299 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "d055a974ada9b495b67b75859626654bfe481bcbfa7534c7b2e2ac000f253e7b",
+    "observedVia": "live",
+    "until": "2026-11-12"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "107",
+       "postCode": "00280",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2007-12-21",
+       "source": "0",
+       "street": "Mannerheimintie",
+       "type": 1
+      },
+      {
+       "buildingNumber": "107",
+       "postCode": "00280",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2007-12-21",
+       "source": "0",
+       "street": "Mannerheimintie",
+       "type": 2
+      }
+     ],
+     "businessId": "1948154-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2005-03-23",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1948154-5"
+     },
+     "lastModified": "2026-11-11T07:33:20",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Residential care activities for persons with physical disabilities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Vammaisten pois lukien kehitysvammaisten asumispalvelut",
+        "languageCode": "1"
+       },
+       {
+        "description": "Vård och omsorg i särskilda boendeformer för personer med fysisk funktionsnedsättning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "87302",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Validia Oy",
+       "registrationDate": "2020-01-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2020-01-01",
+       "name": "Invalidiliiton Asumispalvelut Oy",
+       "registrationDate": "2005-09-19",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Hoivakoti Hopearuusu",
+       "registrationDate": "2009-10-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "IINA & AKSELI koti",
+       "registrationDate": "2022-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Invalidiliiton Kuntoutus",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Yksityinen Sosiaalipalvelu Turku",
+       "registrationDate": "2022-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Avopalvelut Validia, Kuntoutus",
+       "registrationDate": "2022-03-14",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Asumispalvelu Ristilä",
+       "registrationDate": "2023-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2005-03-22",
+       "register": "1",
+       "registrationDate": "2005-02-11",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2005-03-23",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2006-01-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2006-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2006-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2005-02-17",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2005-03-23",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2008-10-08",
+      "source": "0",
+      "url": "www.validia.fi"
+     }
+    },
+    "firstSeen": "2026-11-12",
+    "hash": "17afc99af647499218b9bf9089984d60ef10a3c335f5b49d26e42fbb023e032b",
     "observedVia": "live"
    }
   ]

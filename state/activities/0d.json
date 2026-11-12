@@ -7777,6 +7777,99 @@
    }
   ]
  },
+ "JAV-26-8513-T": {
+  "key": "JAV-26-8513-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-11-11",
+     "companyId": "3310326-8",
+     "companyName": "Javacom Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-11-11",
+     "diaryNumber": "JAV-26-8513-T",
+     "id": 8513,
+     "isEdited": false,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muualla luokittelematon muu rahoituspalvelutoiminta pois lukien vakuutus- ja eläkevakuutustoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": null,
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": false,
+      "createdAt": "2024-06-20",
+      "id": 3,
+      "reportingEndDate": "2025-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2025-01-01T00:00:00.000Z",
+      "signUpEndDate": "2025-08-31T00:00:00.000Z",
+      "signUpStartDate": "2025-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 3,
+     "topics": [
+      {
+       "activityNotificationId": 8513,
+       "activityType": "guidance",
+       "contactTopicOther": "Suomen ajankohtaista energiapolitiikkaa koskevan ymmärryksen lisääminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "3493430-3",
+       "customerCompanyName": "Calogena Oy",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35368,
+       "supportQuality": "Suomen energiapolitiikan toimijoita ja ajankohtaisia hankkeita koskeva neuvonta",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8513,
+       "activityType": "contact_for_customer",
+       "contactTopicOther": "Ydinenergialain uudistusta koskevan tiedon lisääminen",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35369,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2486,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35369,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 2485,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-11",
+       "customerCompanyId": "3493430-3",
+       "customerCompanyName": "Calogena Oy",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35369,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-11-12",
+    "hash": "4d443867b6660a19b2169851f261c68735a30a034468267a6a1f797f6405ba5b",
+    "observedVia": "live"
+   }
+  ]
+ },
  "JOK-26-5067-T": {
   "key": "JOK-26-5067-T",
   "versions": [

@@ -572,6 +572,583 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "b6ff0bc3831dd1065f022446403ad97a8645444cf969a8464ab70a230f58d512",
+    "observedVia": "live",
+    "until": "2026-11-12"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3",
+       "co": "",
+       "entrance": "",
+       "postCode": "40100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "1",
+         "municipalityCode": "179"
+        },
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "2",
+         "municipalityCode": "179"
+        }
+       ],
+       "registrationDate": "2005-06-27",
+       "source": "0",
+       "street": "Aholaidantie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "40101",
+       "postOfficeBox": "159",
+       "postOffices": [
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "1",
+         "municipalityCode": "179"
+        },
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "2",
+         "municipalityCode": "179"
+        }
+       ],
+       "registrationDate": "1994-06-07",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0174445-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "1998-10-20",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0174445-8"
+     },
+     "lastModified": "2026-11-10T13:25:25",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Publishing of newspapers",
+        "languageCode": "3"
+       },
+       {
+        "description": "Sanomalehtien kustantaminen",
+        "languageCode": "1"
+       },
+       {
+        "description": "Utgivning av tidningar",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "58120",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Keskisuomalainen Oyj",
+       "registrationDate": "1998-10-20",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1998-10-19",
+       "name": "Keskisuomalainen Oy",
+       "registrationDate": "1985-10-31",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Keski-Suomen Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kanta-Hämeen Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ovikello",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Porvoon Kirjapaino",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Päijänne Jakelu",
+       "registrationDate": "2020-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Itä-Uudenmaan Viestintä ja Jakelu",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Numerohai",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Päijät-Hämeen Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "ätmedia",
+       "registrationDate": "2014-12-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Suomimedia",
+       "registrationDate": "2016-04-06",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ääneseudun Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Suomen Lehtiyhtymä",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Idän Media",
+       "registrationDate": "2014-04-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mäntsälän Viikkouutiset",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Äänepaino",
+       "registrationDate": "1982-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keskipaavo",
+       "registrationDate": "2001-02-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hollolan Viikkouutiset",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelän Media",
+       "registrationDate": "2014-04-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nastolan Viikkouutiset",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Riihimäen Kirjapaino",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Keski-Uudenmaan Ovikello",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jyvässeudun Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuopion Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Viitaseudun Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kulmakustannus",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediatalli Parempi Vaihtoehto",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelän Viestintä",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulun Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "atmedia",
+       "registrationDate": "2014-12-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sisä-Suomen Viestintä",
+       "registrationDate": "2015-01-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Saarijäven seudun Viikkouutiset",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "win&win-lehti",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Länsi-Uusimaan Kiinteistö",
+       "registrationDate": "2020-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediakonserni Keskisuomalainen",
+       "registrationDate": "2023-02-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Porvoon Sanomat",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Orimattilan Viikkouutiset",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Asikkalan Viikkouutiset",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lahden Viikkouutiset",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finnjakelu",
+       "registrationDate": "2015-01-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediatalo Keskisuomalainen",
+       "registrationDate": "2016-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "SLY-Kirkkolehdet",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "SLY-Sivunvalmistus",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vaasa-lehti",
+       "registrationDate": "2016-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Esa Jakelut",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Jakelusepät",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Savon Jakelu",
+       "registrationDate": "2023-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1927-02-08",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-08",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1943-12-30",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1927-02-08",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-12",
+    "hash": "fe5005716d5b49222576857d24f7cd19d69be761f58e36c66477739ec0458ede",
     "observedVia": "live"
    }
   ]
