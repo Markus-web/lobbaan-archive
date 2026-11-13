@@ -1,16 +1,14 @@
 {
  "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
  "changes": {
-  "added": 9,
-  "edited": 92,
-  "removed": 1
+  "edited": 57
  },
- "date": "2026-11-12",
- "generatedAt": "2026-11-12T08:43:37.649Z",
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T08:33:23.393Z",
  "sources": [
   {
    "bytes": 1364963,
-   "fetchedAt": "2026-11-12T08:43:37.649Z",
+   "fetchedAt": "2026-11-13T08:33:23.393Z",
    "httpStatus": 200,
    "ok": true,
    "records": 1386,
@@ -21,7 +19,7 @@
   },
   {
    "bytes": 36720297,
-   "fetchedAt": "2026-11-12T08:43:45.444Z",
+   "fetchedAt": "2026-11-13T08:33:30.401Z",
    "httpStatus": 200,
    "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
    "ok": true,
@@ -33,7 +31,7 @@
   },
   {
    "bytes": 59281,
-   "fetchedAt": "2026-11-12T08:44:55.345Z",
+   "fetchedAt": "2026-11-13T08:34:17.208Z",
    "httpStatus": 200,
    "ok": true,
    "records": 81,
@@ -44,7 +42,7 @@
   },
   {
    "bytes": 2,
-   "fetchedAt": "2026-11-12T08:44:55.660Z",
+   "fetchedAt": "2026-11-13T08:34:17.412Z",
    "httpStatus": 200,
    "note": "Implausibly few records; removals not inferred.",
    "ok": true,
@@ -57,7 +55,7 @@
   },
   {
    "bytes": 1744,
-   "fetchedAt": "2026-11-12T08:44:55.799Z",
+   "fetchedAt": "2026-11-13T08:34:17.589Z",
    "httpStatus": 200,
    "ok": true,
    "records": 6,
@@ -68,7 +66,7 @@
   },
   {
    "bytes": 2962096,
-   "fetchedAt": "2026-11-12T08:44:55.925Z",
+   "fetchedAt": "2026-11-13T08:34:17.975Z",
    "httpStatus": 200,
    "ok": true,
    "records": 4550,
@@ -79,7 +77,7 @@
   },
   {
    "error": "HTTP 403",
-   "fetchedAt": "2026-11-12T08:44:57.325Z",
+   "fetchedAt": "2026-11-13T08:34:19.086Z",
    "ok": false,
    "partial": true,
    "records": 0,
@@ -87,30 +85,30 @@
    "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
   },
   {
-   "bytes": 702028,
-   "fetchedAt": "2026-11-12T08:44:57.994Z",
+   "bytes": 702986,
+   "fetchedAt": "2026-11-13T08:34:20.052Z",
    "httpStatus": 200,
-   "note": "Finnish head offices from the export of 2026-11-11T21:00:00.035+00:00 (18101 organisations, 118590428 bytes, SHA-256 4873b7b1135d9917239852fffb6b448e806fa55cd30c85a8e0057f8571fde79e).",
+   "note": "Finnish head offices from the export of 2026-11-12T21:00:00.056+00:00 (18107 organisations, 118642633 bytes, SHA-256 ef6e3f48948b564e77132fe60418247bc8471ad7eb79ed313901d63be0ee5f48).",
    "ok": true,
-   "records": 398,
-   "sha256": "832eb1f7498f1891473bf862cc2d192b5f6fb241b687964f6f4c95e2e9daea06",
-   "snapshotKey": "snapshots/2026-11-12/eu-register.json.gz",
+   "records": 399,
+   "sha256": "ca602a46a9a2174e7ab584f147070bbd8059349f20be89edf93690f556869064",
+   "snapshotKey": "snapshots/2026-11-13/eu-register.json.gz",
    "source": "eu-register",
    "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
   },
   {
-   "fetchedAt": "2026-11-12T08:45:27.726Z",
+   "fetchedAt": "2026-11-13T08:35:13.849Z",
    "ok": true,
    "records": 4,
    "source": "news",
    "url": "https://www.vtv.fi/feed/ https://www.hs.fi/rss/politiikka.xml https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET https://www.iltalehti.fi/rss/uutiset.xml https://www.verkkouutiset.fi/feed/"
   },
   {
-   "fetchedAt": "2026-11-12T08:51:35.181Z",
+   "fetchedAt": "2026-11-13T08:41:41.269Z",
    "note": "Rotating refresh: 700 of 1375 business IDs, 0 failed.",
    "ok": true,
    "partial": true,
-   "records": 354,
+   "records": 331,
    "source": "prh-ytj",
    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
   }
