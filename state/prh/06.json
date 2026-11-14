@@ -1893,6 +1893,241 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "724f8c2085899fe70a5e224915241bc9da15effa9492a8a8c858d27f5f79fb14",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "19600",
+       "postOffices": [
+        {
+         "city": "HARTOLA",
+         "languageCode": "1",
+         "municipalityCode": "081"
+        },
+        {
+         "city": "HARTOLA",
+         "languageCode": "2",
+         "municipalityCode": "081"
+        }
+       ],
+       "registrationDate": "2020-06-04",
+       "source": "0",
+       "street": "Kurpanpellontie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "6",
+       "co": "c/o Suur-Savon Sähkö Oy",
+       "entrance": "",
+       "postCode": "50100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "2020-06-04",
+       "source": "0",
+       "street": "Otto Mannisenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "0859463-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1990-03-07",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0859463-2"
+     },
+     "lastModified": "2026-11-12T09:30:48",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Generering av elektricitet från icke-förnybara energikällor",
+        "languageCode": "2"
+       },
+       {
+        "description": "Production of electricity from non-renewable sources",
+        "languageCode": "3"
+       },
+       {
+        "description": "Sähkön tuotanto uusiutumattomilla energialähteillä",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Hartolan Kuningaslämpö Oy",
+       "registrationDate": "2000-08-25",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2000-08-24",
+       "name": "Nyykor Oy",
+       "registrationDate": "1990-03-07",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1990-03-07",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2000-07-12",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2000-07-12",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2017-03-01",
+       "register": "7",
+       "registrationDate": "2003-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1991-10-15",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1990-03-07",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "224c2027b6d94d895a9cad5f44a70ef17e59be9afb15a1beeaa06894bce6e61d",
     "observedVia": "live"
    }
   ]

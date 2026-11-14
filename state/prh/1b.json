@@ -4512,6 +4512,252 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "e097a9bd3efcedad250ddc26625f4b31b9f370d501527f40ffe99b0f835fe389",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "33",
+       "co": "",
+       "entrance": "C",
+       "postCode": "40500",
+       "postOffices": [
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "1",
+         "municipalityCode": "179"
+        },
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "2",
+         "municipalityCode": "179"
+        }
+       ],
+       "registrationDate": "2021-11-02",
+       "source": "0",
+       "street": "Ylistönmäentie",
+       "type": 1
+      },
+      {
+       "postCode": "40101",
+       "postOfficeBox": "248",
+       "postOffices": [
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "1",
+         "municipalityCode": "179"
+        },
+        {
+         "city": "JYVÄSKYLÄ",
+         "languageCode": "2",
+         "municipalityCode": "179"
+        }
+       ],
+       "registrationDate": "2008-01-03",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "1847395-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2003-09-29",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1847395-7"
+     },
+     "lastModified": "2026-11-12T11:24:56",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Computer consultancy and computer facilities management activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Datakonsultverksamhet och datordrift",
+        "languageCode": "2"
+       },
+       {
+        "description": "Laitteistokonsultointi ja käyttö- ja hallintapalvelut",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "62200",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Opinsys Oy",
+       "registrationDate": "2003-09-29",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2003-09-28",
+       "register": "1",
+       "registrationDate": "2003-08-25",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2003-09-29",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2003-09-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2003-09-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2005-07-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2003-08-27",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2003-09-29",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2004-06-23",
+      "source": "0",
+      "url": "www.opinsys.fi"
+     }
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "8727bc13d7d9624a79ba047044562ae38019eaa69291266c9604cdb1053bb580",
     "observedVia": "live"
    }
   ]

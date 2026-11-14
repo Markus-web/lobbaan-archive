@@ -1194,6 +1194,285 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "af1c4d18ef3ecd616e22f8ed963af7b38d0f0a79998e69a40b87f28c04536a65",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "10900",
+       "postOffices": [
+        {
+         "city": "HANGÖ",
+         "languageCode": "2",
+         "municipalityCode": "078"
+        },
+        {
+         "city": "HANKO",
+         "languageCode": "1",
+         "municipalityCode": "078"
+        }
+       ],
+       "registrationDate": "2013-11-25",
+       "source": "0",
+       "street": "Länsisatama",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "10900",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HANGÖ",
+         "languageCode": "2",
+         "municipalityCode": "078"
+        },
+        {
+         "city": "HANKO",
+         "languageCode": "1",
+         "municipalityCode": "078"
+        }
+       ],
+       "registrationDate": "2013-11-25",
+       "source": "0",
+       "street": "Länsisatama",
+       "type": 2
+      }
+     ],
+     "businessId": "2586251-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2013-12-03",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2586251-2"
+     },
+     "lastModified": "2026-11-12T17:25:00",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Hamnverksamhet",
+        "languageCode": "2"
+       },
+       {
+        "description": "Operation of harbours",
+        "languageCode": "3"
+       },
+       {
+        "description": "Satamatoiminta",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "52221",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Hangon Satama - Hangö Hamn Oy Ab",
+       "registrationDate": "2013-12-03",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Port of Hanko Ltd",
+       "registrationDate": "2013-12-03",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2013-12-02",
+       "register": "1",
+       "registrationDate": "2013-11-25",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2013-12-03",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2013-12-31",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2013-12-31",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2015-06-16",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2013-12-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2013-12-16",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2013-12-03",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2013-11-25",
+      "source": "0",
+      "url": "www.portofhanko.fi"
+     }
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "0c4b388a6a90ced3ebcd5ab0a15b588c5b0523dce5bca73494d71c8c2327f799",
     "observedVia": "live"
    }
   ]

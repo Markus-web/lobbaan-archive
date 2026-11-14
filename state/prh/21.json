@@ -5975,6 +5975,292 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "42654e185071a364d46b0e6b428b4e0658b108499907633359e7b914408eade3",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "35",
+       "co": "",
+       "entrance": "A",
+       "postCode": "13100",
+       "postOffices": [
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "1",
+         "municipalityCode": "109"
+        },
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "2",
+         "municipalityCode": "109"
+        }
+       ],
+       "registrationDate": "2014-04-17",
+       "source": "0",
+       "street": "Visamäentie",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "13101",
+       "postOfficeBox": "230",
+       "postOffices": [
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "1",
+         "municipalityCode": "109"
+        },
+        {
+         "city": "HÄMEENLINNA",
+         "languageCode": "2",
+         "municipalityCode": "109"
+        }
+       ],
+       "registrationDate": "2014-04-17",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "2617489-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2014-05-27",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2617489-3"
+     },
+     "lastModified": "2026-11-12T13:17:05",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Korkea-asteen koulutus yliopistoissa ja ammattikorkeakouluissa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tertiary education",
+        "languageCode": "3"
+       },
+       {
+        "description": "Universitets- eller högskoleutbildning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85400",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Hämeen ammattikorkeakoulu Oy",
+       "registrationDate": "2014-05-27",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "HAMK",
+       "registrationDate": "2026-03-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Häme University of Applied Sciences Ltd",
+       "registrationDate": "2014-05-27",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2014-05-26",
+       "register": "1",
+       "registrationDate": "2014-04-17",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2014-05-27",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2015-01-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2015-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2015-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2015-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2014-06-16",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2014-05-27",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2014-04-17",
+      "source": "0",
+      "url": "www.hamk.fi"
+     }
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "f9fdaafa97c9016647a5dbd959c1d6d87fbb5cc217d0c32d4d5e1c0cf24475a4",
     "observedVia": "live"
    }
   ]

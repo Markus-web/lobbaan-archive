@@ -1834,6 +1834,389 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "f7c380036951d8c58493eebfa1aac9953a1f3afb0304b1d91eb0335982b4fc0d",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "2",
+       "co": "",
+       "entrance": "",
+       "postCode": "00510",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2004-05-05",
+       "source": "0",
+       "street": "Kuortaneenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1897064-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1897064-6"
+     },
+     "lastModified": "2026-11-12T07:06:00",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Manufacture of other medical and dental instruments and supplies",
+        "languageCode": "3"
+       },
+       {
+        "description": "Muu lääkintä- ja hammaslääkintäinstrumenttien ja -tarvikkeiden valmistus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Övrig tillverkning av medicinsk och dental utrustning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "32502",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "GE Healthcare Finland Oy",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Instrumentarium",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Inra",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Datex",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Palomex",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lääkintäsähkö",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Acorn Monitors",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Instrumentarium Imaging",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Instrumed",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Datex-Ohmeda",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ohmeda",
+       "registrationDate": "2004-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Metava",
+       "registrationDate": "2007-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Medko",
+       "registrationDate": "2007-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "GE Healthcare Finland - X-Ray",
+       "registrationDate": "2008-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Medko Medical",
+       "registrationDate": "2008-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "GE Healthcare Projects",
+       "registrationDate": "2008-02-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "GE Healthcare Kuvantavat laitteet",
+       "registrationDate": "2008-04-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "GE Healthcare Diagnostic Imaging",
+       "registrationDate": "2008-04-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Deio",
+       "registrationDate": "2009-12-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "GE Healthcare IT",
+       "registrationDate": "2009-12-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sotem",
+       "registrationDate": "2010-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2004-12-30",
+       "register": "1",
+       "registrationDate": "2004-05-05",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2004-12-31",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2004-12-31",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2004-12-31",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2005-09-23",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2004-12-31",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2005-01-04",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2004-12-31",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "283be26c91f09bc63b9360ddd4601c9478661488e2709d47c97f8e7fe0a27507",
     "observedVia": "live"
    }
   ]

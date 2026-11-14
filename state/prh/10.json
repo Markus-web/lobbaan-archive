@@ -5868,6 +5868,514 @@
     },
     "firstSeen": "2026-11-12",
     "hash": "7c455d19cc74db05fccea85ed524f5a3e4d79d59d031b86cffed6deb59ef6889",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "6",
+       "co": "",
+       "entrance": "B",
+       "postCode": "02600",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2024-02-26",
+       "source": "0",
+       "street": "Linnoitustie",
+       "type": 2
+      }
+     ],
+     "businessId": "2863321-3",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2017-10-25",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2863321-3"
+     },
+     "lastModified": "2026-11-12T13:14:34",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Dental practice care activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Hammaslääkäripalvelut",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tandläkarverksamhet",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "86230",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Oral Hammaslääkärit Oy",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2022-05-31",
+       "name": "Colosseum Dental Finland Oy",
+       "registrationDate": "2017-10-25",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Ison Omenan Hammaslääkärikeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ison Omenan Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Colosseum Dental Finland",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Viherlaakson Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helilän Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Niittyhuipun Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "HammasKarisma",
+       "registrationDate": "2025-03-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammasklinikka Puijon Hammas",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammaskeijut",
+       "registrationDate": "2025-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tandläkarstation Vitadent",
+       "registrationDate": "2023-07-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hallituskadun hammaslääkäriasema",
+       "registrationDate": "2026-03-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Hammaslääkärikeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rantasalmen ja Varkauden Hammaskolmio",
+       "registrationDate": "2025-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammaslääkäriasema Vitadent",
+       "registrationDate": "2023-07-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "City Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "A-Hammas",
+       "registrationDate": "2024-08-25",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Espan Hammaslääkärikeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Renideo Hammaslääkärit",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oral Clinics Finland",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "QMedical",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oral Health Finland",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Renideo Holding",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oral Healthcare Finland",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammassairaala Oral",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Hammasasema MediKemi",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Hammaspiste",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tampereen Hammaskeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Renideo Group",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Erottajan hammaslääkärikeskus",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Töölöntorin Hammaslääkärit",
+       "registrationDate": "2025-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pellavanhammas",
+       "registrationDate": "2025-10-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ison Omenan Hammaslääkäriasema",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sun Hymy",
+       "registrationDate": "2025-03-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Opushammas",
+       "registrationDate": "2026-03-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oral Hammaslääkärit Ltd",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Oral Hammaslääkärit Ab",
+       "registrationDate": "2022-05-31",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2017-10-24",
+       "register": "1",
+       "registrationDate": "2017-10-18",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2017-10-25",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2022-06-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2020-10-31",
+       "register": "6",
+       "registrationDate": "2017-10-04",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2022-06-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2017-11-02",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2017-10-25",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2022-05-31",
+      "source": "0",
+      "url": "www.oral.fi"
+     }
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "1a3383e873d83f9a309b1d2cf8bd11db4c2cb26ebf9b4751493a562dd989b5f2",
     "observedVia": "live"
    }
   ]

@@ -1334,6 +1334,293 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "c2ec907486f8ba7632009dcb9c5a171c5d061cfeedb02be0032e63496721993c",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "15",
+       "postCode": "02150",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2009-02-20",
+       "source": "0",
+       "street": "Keilaranta",
+       "type": 1
+      },
+      {
+       "postCode": "02151",
+       "postOfficeBox": "39",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2009-02-20",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "0721811-7",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2024-01-10",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      },
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "endDate": "2024-01-09",
+       "registrationDate": "2014-11-06",
+       "source": "1",
+       "type": "17",
+       "version": 2
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0721811-7"
+     },
+     "lastModified": "2026-11-12T19:38:38",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Computer consultancy and computer facilities management activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Datakonsultverksamhet och datordrift",
+        "languageCode": "2"
+       },
+       {
+        "description": "Laitteistokonsultointi ja käyttö- ja hallintapalvelut",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "62200",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Nixu Oy",
+       "registrationDate": "2024-01-10",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2024-01-10",
+       "name": "Nixu Oyj",
+       "registrationDate": "2014-11-06",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Nixu Open",
+       "registrationDate": "2010-09-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Panorama Partners",
+       "registrationDate": "2015-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Net People",
+       "registrationDate": "2004-09-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Datatieto",
+       "registrationDate": "2002-04-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Integratum",
+       "registrationDate": "2015-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Magic Cookie",
+       "registrationDate": "2002-04-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1989-06-21",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1989-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1988-12-15",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1989-06-21",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "55745b4525064f3f0092ee21937ea2264f8b2526697fec2a19b7f62cac74e1d8",
     "observedVia": "live"
    }
   ]

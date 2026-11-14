@@ -3855,6 +3855,907 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "135402db9af9aee6bb2d5fd70fd1709dd6be22fd8dde100e2cb20b192c13f5b2",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "5",
+       "co": "",
+       "entrance": "",
+       "postCode": "00240",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2016-12-21",
+       "source": "0",
+       "street": "Uutiskatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "c/o Lakiasiat",
+       "entrance": "",
+       "postCode": "00024",
+       "postOfficeBox": "17",
+       "postOffices": [
+        {
+         "city": "RUNDRADION",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "YLEISRADIO",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2019-10-21",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0215438-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0215438-8"
+     },
+     "lastModified": "2026-11-12T10:48:41",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Planering och sändning av tv-program samt distribution av video",
+        "languageCode": "2"
+       },
+       {
+        "description": "Televisio-ohjelmien ja videosisältöjen tuottaminen ja levitys",
+        "languageCode": "1"
+       },
+       {
+        "description": "Television programming, broadcasting and video distribution activities",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "60200",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Yleisradio Oy",
+       "registrationDate": "1994-08-24",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1994-08-23",
+       "name": "Oy. Yleisradio Ab.",
+       "registrationDate": "1944-06-26",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Ylen aikainen",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kaakkois-Suomen Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelä-Karjalan Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuopion iänj",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjois-Karjalan Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Etelä-Pohjanmaa",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Suupohja",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Suomenselkä",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Keski-Pohjanmaa",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Uusimaa",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulun läänin Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Oulu Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Perämeri",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Rovaniemi",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Tornio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Koilliskaira",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Saamen Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelä-Savon Radio",
+       "registrationDate": "1990-06-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Västnyland",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Östnyland",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Länsi-Suomen Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Keski-Suomi",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pirkanmaan Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Päijät-Hämeen Radio",
+       "registrationDate": "1989-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mediapaja",
+       "registrationDate": "1993-12-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Häme",
+       "registrationDate": "1995-06-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Savo",
+       "registrationDate": "1996-03-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Vega",
+       "registrationDate": "1997-08-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Extrem",
+       "registrationDate": "1997-08-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sámi Info",
+       "registrationDate": "1998-06-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ylen läntinen",
+       "registrationDate": "1999-02-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Peili",
+       "registrationDate": "1999-02-09",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Capital FM",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kainuun Radio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kymenlaakson Radio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lahden Radio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lapin Radio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lasten Radio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nuntii Latini",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Aino",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radioateljee",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Aurora",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Finland",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Itä-Uusimaa",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Kantti",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radiomafia",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Masto",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radioteatteri",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE World",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Ylen Ykkönen",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Satakunnan Radio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Radio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ylen Klassinen",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "FSR - Finlands Svenska Radio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "FST - Finlands Svenska Television",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "FST 5",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Internytt",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Mellannyland",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Åboland",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Österbotten",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kulttuurikanava",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjoisvisio",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TV1",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "TV2",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE24",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Mondo",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Teema",
+       "registrationDate": "2001-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Radio Suomi",
+       "registrationDate": "2003-07-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLEn Urheiluradio",
+       "registrationDate": "2001-10-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLEn Rockradio",
+       "registrationDate": "2001-10-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLEn Jazzradio",
+       "registrationDate": "2001-10-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Jox",
+       "registrationDate": "2003-03-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Multifoorumi",
+       "registrationDate": "2002-12-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Radio Kuu / Q",
+       "registrationDate": "2002-11-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLEX",
+       "registrationDate": "2002-11-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Radio 1",
+       "registrationDate": "2002-11-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLEQ",
+       "registrationDate": "2002-12-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE R2",
+       "registrationDate": "2003-01-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Katsojatyytyväisyys",
+       "registrationDate": "2003-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Kuuntelijatyytyväisyys",
+       "registrationDate": "2003-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Uutisarvostukset",
+       "registrationDate": "2003-01-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Elävä arkisto",
+       "registrationDate": "2007-04-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Koulu-tv",
+       "registrationDate": "2007-04-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Areena",
+       "registrationDate": "2007-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE Extra",
+       "registrationDate": "2007-06-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "YLE PUHE",
+       "registrationDate": "2009-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Yle FOLK",
+       "registrationDate": "2015-09-02",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordvision",
+       "registrationDate": "2001-02-13",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "YLE Arenan",
+       "registrationDate": "2007-06-28",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1926-10-12",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-27",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Alkutuottajana ja/tai kuvataiteilijana arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig som primärproducent och/eller bildkonstnär",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for agriculture and forestry",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "83"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1950-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-09-13",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1926-10-12",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2016-12-21",
+      "source": "0",
+      "url": "www.yle.fi"
+     }
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "b0a81f4cd06987e8999598e431c8936e7bc15341643df710e4993d8ba159f92d",
     "observedVia": "live"
    }
   ]
@@ -4618,6 +5519,273 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "3c5a66f128432c9aceb441a250d8ba6f9e2ed60aa93ab1fc1e6e2bbd2b8a7e20",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "2",
+       "co": "c/o Bonalive Oy",
+       "entrance": "",
+       "postCode": "20750",
+       "postOffices": [
+        {
+         "city": "TURKU",
+         "languageCode": "1",
+         "municipalityCode": "853"
+        },
+        {
+         "city": "ÅBO",
+         "languageCode": "2",
+         "municipalityCode": "853"
+        }
+       ],
+       "registrationDate": "2025-02-01",
+       "source": "0",
+       "street": "Biolinja",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "2",
+       "co": "c/o Bonalive Oy",
+       "entrance": "",
+       "postCode": "20750",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "TURKU",
+         "languageCode": "1",
+         "municipalityCode": "853"
+        },
+        {
+         "city": "ÅBO",
+         "languageCode": "2",
+         "municipalityCode": "853"
+        }
+       ],
+       "registrationDate": "2025-02-01",
+       "source": "0",
+       "street": "Biolinja",
+       "type": 2
+      }
+     ],
+     "businessId": "2298640-5",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2009-11-24",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2298640-5"
+     },
+     "lastModified": "2026-11-12T07:46:35",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Luonnontieteen ja tekniikan tutkimus ja kehittäminen",
+        "languageCode": "1"
+       },
+       {
+        "description": "Naturvetenskaplig och teknisk forskning och utveckling",
+        "languageCode": "2"
+       },
+       {
+        "description": "Research and experimental development on natural sciences and engineering",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "72100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Bonalive Oy",
+       "registrationDate": "2024-11-05",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2024-11-05",
+       "name": "BonAlive Biomaterials Oy",
+       "registrationDate": "2009-11-24",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Bonalive Ltd",
+       "registrationDate": "2024-11-05",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2009-11-23",
+       "register": "1",
+       "registrationDate": "2009-11-13",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2009-11-24",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2009-12-03",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2009-12-02",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2009-12-02",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2009-11-27",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2009-11-24",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2010-01-29",
+      "source": "0",
+      "url": "www.bonalive.com"
+     }
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "8dc05ea330bbd255e23d428c5d6173f96bac1ccde11a0f56a4c6c7f12c8a969a",
     "observedVia": "live"
    }
   ]

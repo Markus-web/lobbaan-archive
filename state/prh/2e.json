@@ -278,6 +278,289 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "dc2d7da2825f9e04ea880453303bb99bda29e4bff4efadba80fe47892f05f953",
+    "observedVia": "live",
+    "until": "2026-11-14"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "1",
+       "postCode": "04250",
+       "postOffices": [
+        {
+         "city": "KERAVA",
+         "languageCode": "1",
+         "municipalityCode": "245"
+        },
+        {
+         "city": "KERAVA",
+         "languageCode": "2",
+         "municipalityCode": "245"
+        }
+       ],
+       "registrationDate": "2008-07-01",
+       "source": "0",
+       "street": "SINEBRYCHOFFINAUKIO",
+       "type": 1
+      },
+      {
+       "postCode": "04201",
+       "postOfficeBox": "87",
+       "postOffices": [
+        {
+         "city": "KERAVA",
+         "languageCode": "1",
+         "municipalityCode": "245"
+        },
+        {
+         "city": "KERAVA",
+         "languageCode": "2",
+         "municipalityCode": "245"
+        }
+       ],
+       "registrationDate": "2008-07-01",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "0113951-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0113951-4"
+     },
+     "lastModified": "2026-11-12T15:17:12",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Framställning av öl",
+        "languageCode": "2"
+       },
+       {
+        "description": "Manufacture of beer",
+        "languageCode": "3"
+       },
+       {
+        "description": "Oluen valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "11050",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Oy Sinebrychoff Ab",
+       "registrationDate": "1955-04-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1955-03-31",
+       "name": "Aktiebolaget P. Sinebrychoff",
+       "registrationDate": "1896-12-19",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Cheers",
+       "registrationDate": "1988-07-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pyynikki",
+       "registrationDate": "1992-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Koff",
+       "registrationDate": "1996-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Juomapalvelu",
+       "registrationDate": "2000-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Aito-Lähde",
+       "registrationDate": "2000-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1896-12-19",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1997-11-06",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1944-01-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1896-12-19",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2009-10-20",
+      "source": "0",
+      "url": "www.sinebrychoff.fi"
+     }
+    },
+    "firstSeen": "2026-11-14",
+    "hash": "dba24ba08e4d2413e0e2c9def9b1ce439f122870bfccd3253e83efdd7e739453",
     "observedVia": "live"
    }
   ]
