@@ -3140,6 +3140,271 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "9ea8a215d2fdefb88b4e1e2ad99dbf51e108e8e7c0bdf568ca8753f53d35e03d",
+    "observedVia": "live",
+    "until": "2026-11-15"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "23",
+       "co": "",
+       "entrance": "",
+       "postCode": "28130",
+       "postOffices": [
+        {
+         "city": "PORI",
+         "languageCode": "1",
+         "municipalityCode": "609"
+        },
+        {
+         "city": "PORI",
+         "languageCode": "2",
+         "municipalityCode": "609"
+        }
+       ],
+       "registrationDate": "2017-05-10",
+       "source": "0",
+       "street": "Satakunnankatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "28101",
+       "postOfficeBox": "1001",
+       "postOffices": [
+        {
+         "city": "PORI",
+         "languageCode": "1",
+         "municipalityCode": "609"
+        },
+        {
+         "city": "PORI",
+         "languageCode": "2",
+         "municipalityCode": "609"
+        }
+       ],
+       "registrationDate": "2017-05-10",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "2388924-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2011-02-11",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2388924-4"
+     },
+     "lastModified": "2026-11-13T08:20:58",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Korkea-asteen koulutus yliopistoissa ja ammattikorkeakouluissa",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tertiary education",
+        "languageCode": "3"
+       },
+       {
+        "description": "Universitets- eller högskoleutbildning",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "85400",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Satakunnan ammattikorkeakoulu Oy",
+       "registrationDate": "2011-02-11",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Satakunta University of Applied Sciences",
+       "registrationDate": "2015-01-15",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Vesi-Instituutti WANDER",
+       "registrationDate": "2016-02-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2011-02-10",
+       "register": "1",
+       "registrationDate": "2011-02-04",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2011-02-11",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2011-03-02",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2011-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2014-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2011-03-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2011-02-11",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2017-05-10",
+      "source": "0",
+      "url": "www.samk.fi"
+     }
+    },
+    "firstSeen": "2026-11-15",
+    "hash": "2ccb474035b8c5ffead713ee47edb720f852de35f0dfbb5a0d4d437a3da9ba5a",
     "observedVia": "live"
    }
   ]
@@ -3698,6 +3963,284 @@
     },
     "firstSeen": "2026-11-11",
     "hash": "779fc3fefc3283d91854cdb41339f0201d57057e434e045989187003c4d0df6a",
+    "observedVia": "live",
+    "until": "2026-11-15"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "5",
+       "co": "",
+       "entrance": "",
+       "postCode": "37120",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "NOKIA",
+         "languageCode": "1",
+         "municipalityCode": "536"
+        },
+        {
+         "city": "NOKIA",
+         "languageCode": "2",
+         "municipalityCode": "536"
+        }
+       ],
+       "registrationDate": "2012-11-16",
+       "source": "0",
+       "street": "Vitikankatu",
+       "type": 2
+      }
+     ],
+     "businessId": "2512033-2",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2012-11-27",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2512033-2"
+     },
+     "lastModified": "2026-11-09T19:21:46",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Diverse övrig finansiell verksamhet utom försäkrings- och pensionsfondsverksamhet",
+        "languageCode": "2"
+       },
+       {
+        "description": "Muualla luokittelematon muu rahoituspalvelutoiminta pois lukien vakuutus- ja eläkevakuutustoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other financial service activities, except insurance and pension funding n.e.c.",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "64990",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "XD Invest Oy",
+       "registrationDate": "2012-11-27",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "XD Ventures",
+       "registrationDate": "2017-12-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "XD Invest Ltd",
+       "registrationDate": "2012-11-27",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2012-11-26",
+       "register": "1",
+       "registrationDate": "2012-11-16",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2012-11-27",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2012-11-28",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2012-11-16",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2017-11-14",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2014-03-31",
+       "register": "6",
+       "registrationDate": "2013-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2016-11-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2026-05-12",
+       "register": "7",
+       "registrationDate": "2023-12-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2012-11-27",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-15",
+    "hash": "6a6a173724bdf0bda41d3299e99abbf0e5b99616c3c80554b917f46063893c9c",
     "observedVia": "live"
    }
   ]
