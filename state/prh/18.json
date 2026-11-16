@@ -776,6 +776,396 @@
     },
     "firstSeen": "2026-11-05",
     "hash": "c1011e45566426c55e179e0044c14aed20050b9b41cbd775f9a91ae236b31391",
+    "observedVia": "live",
+    "until": "2026-11-16"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "10",
+       "co": "",
+       "entrance": "",
+       "postCode": "00120",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2000-01-07",
+       "source": "0",
+       "street": "UUDENMAANKATU",
+       "type": 2
+      }
+     ],
+     "businessId": "1564596-0",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1999-10-26",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1564596-0"
+     },
+     "lastModified": "2026-11-13T12:55:53",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Kirjojen kustantaminen",
+        "languageCode": "1"
+       },
+       {
+        "description": "Publishing of books",
+        "languageCode": "3"
+       },
+       {
+        "description": "Utgivning av böcker",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "58110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Kustannusosakeyhtiö Otava",
+       "registrationDate": "2000-01-07",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2000-01-06",
+       "name": "Kirjaosakeyhtiö Otava",
+       "registrationDate": "1999-10-26",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Moreeni-kustannus",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kustannusyhtiö Kirjastudio",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Taifuuni",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kustannusyhtiö Nemo",
+       "registrationDate": "2017-04-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Satukustannus",
+       "registrationDate": "2019-12-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Finn Lectura",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Multikustannus",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kääntöpiiri",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kustannusyhtiö Moreeni",
+       "registrationDate": "2017-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Atena Kustannus",
+       "registrationDate": "2021-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "ALR-Music",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "F-Kustannus",
+       "registrationDate": "2015-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tähtiperhe",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pystykorva",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Like Kustannus",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Otavakirjat",
+       "registrationDate": "2010-03-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Otavan Koulusuora",
+       "registrationDate": "1999-10-26",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Karisto",
+       "registrationDate": "2020-02-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Cloubi",
+       "registrationDate": "2022-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ubiikki",
+       "registrationDate": "2022-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Verlagsaktiengesellschaft Otava",
+       "registrationDate": "2000-01-07",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Otava Publishing Company Ltd",
+       "registrationDate": "2000-01-07",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Förlagsaktiebolaget Otava",
+       "registrationDate": "2000-01-07",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1999-10-26",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1999-11-17",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2000-01-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2000-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2000-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2000-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1999-10-26",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-16",
+    "hash": "7f8b9f9d6ba85062dae62f00cd72e1497a67a99553675d00c43a7851c47e339f",
     "observedVia": "live"
    }
   ]
@@ -1570,6 +1960,580 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "efd47a2a59fff2610d34e07d823b548cb25a0deca2ada4a209f5ecca76c0ab61",
+    "observedVia": "live",
+    "until": "2026-11-16"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "2",
+       "co": "",
+       "entrance": "A",
+       "postCode": "00380",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-09-08",
+       "source": "0",
+       "street": "Karvaamokuja",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00381",
+       "postOfficeBox": "42",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-09-08",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "1628390-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2000-11-02",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1628390-6"
+     },
+     "lastModified": "2026-11-13T08:38:57",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Betonituotteiden valmistus rakennustarkoituksiin",
+        "languageCode": "1"
+       },
+       {
+        "description": "Manufacture of concrete products for construction purposes",
+        "languageCode": "3"
+       },
+       {
+        "description": "Tillverkning av betongvaror för byggändamål",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "23610",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Rudus Oy",
+       "registrationDate": "2008-01-02",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2008-01-01",
+       "name": "Lohja Rudus Oy Ab",
+       "registrationDate": "2000-11-13",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Suomen Kiviaines",
+       "registrationDate": "2000-11-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Salon Jalostussora",
+       "registrationDate": "2000-11-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Airiston Sora",
+       "registrationDate": "2000-11-17",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lännen Betoni",
+       "registrationDate": "2000-11-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Vaisaaren Kivi",
+       "registrationDate": "2000-11-21",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Turun Kalliomurske",
+       "registrationDate": "2000-11-22",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tiesepeli",
+       "registrationDate": "2000-11-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Tehobetoni",
+       "registrationDate": "2000-11-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Seinäjoen Betoni",
+       "registrationDate": "2000-11-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Salon Sementtivalimo",
+       "registrationDate": "2000-11-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Mega-Betoni",
+       "registrationDate": "2000-11-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lapuan Betoni ja Sora",
+       "registrationDate": "2000-12-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuopion Sora",
+       "registrationDate": "2000-12-04",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Karhin Sora",
+       "registrationDate": "2000-12-05",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Ekobetoni",
+       "registrationDate": "2000-12-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lohja",
+       "registrationDate": "2000-12-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Topibetoni",
+       "registrationDate": "2000-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Peruskallio",
+       "registrationDate": "2000-12-12",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kokemäen Jalostesora",
+       "registrationDate": "2000-12-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nummen Sementtivalimo",
+       "registrationDate": "2000-12-14",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Betonipalvelu",
+       "registrationDate": "2000-12-15",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pohjolan Sorajaloste",
+       "registrationDate": "2001-10-08",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kuusaan Betoni",
+       "registrationDate": "2003-03-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kulloon Teollisuuskiinteistöt",
+       "registrationDate": "2003-03-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rajabetoni - Gränsbetong",
+       "registrationDate": "2003-03-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Perämeren Betoni",
+       "registrationDate": "2003-03-13",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Velj. Kaukasalo",
+       "registrationDate": "2005-01-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kivikeskus",
+       "registrationDate": "2005-04-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Sora Helminen",
+       "registrationDate": "2005-04-19",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MR-Kiviaines",
+       "registrationDate": "2005-04-20",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rudus Kuljetus",
+       "registrationDate": "2007-03-30",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Etelän Betoni",
+       "registrationDate": "2008-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "VV-Pumppaus",
+       "registrationDate": "2009-10-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kauhajoen Valmisbetoni",
+       "registrationDate": "2012-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Karvian Betoni ja Sora",
+       "registrationDate": "2012-05-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Murskauskolmio",
+       "registrationDate": "2012-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rudus Valmisbetoni",
+       "registrationDate": "2013-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rudus Betonituote",
+       "registrationDate": "2014-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Abetoni",
+       "registrationDate": "2014-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Elpotek",
+       "registrationDate": "2014-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Rudus Murskaus",
+       "registrationDate": "2014-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Karjalan Murske",
+       "registrationDate": "2014-03-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kullo Industrifastigheter",
+       "registrationDate": "2003-03-13",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2000-11-02",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2000-11-02",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2000-11-02",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2000-11-02",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2000-11-02",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Alkutuottajana ja/tai kuvataiteilijana arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig som primärproducent och/eller bildkonstnär",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for agriculture and forestry",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2000-11-02",
+       "type": "83"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2000-11-02",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2000-11-02",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-16",
+    "hash": "202824f7b6e47250bce90fa92d4035798e6207cf56629362b9d025ba46574c0c",
     "observedVia": "live"
    }
   ]
@@ -2874,6 +3838,439 @@
     },
     "firstSeen": "2026-11-09",
     "hash": "95f3764c1993305cc869c1b8676c2e962ff5527d53f79b0b78b478e45e4aed0f",
+    "observedVia": "live",
+    "until": "2026-11-16"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "10",
+       "co": "",
+       "entrance": "",
+       "postCode": "53100",
+       "postOffices": [
+        {
+         "city": "LAPPEENRANTA",
+         "languageCode": "1",
+         "municipalityCode": "405"
+        },
+        {
+         "city": "LAPPEENRANTA",
+         "languageCode": "2",
+         "municipalityCode": "405"
+        }
+       ],
+       "registrationDate": "2020-05-25",
+       "source": "0",
+       "street": "Villimiehenkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "10",
+       "co": "",
+       "entrance": "",
+       "postCode": "53100",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "LAPPEENRANTA",
+         "languageCode": "1",
+         "municipalityCode": "405"
+        },
+        {
+         "city": "LAPPEENRANTA",
+         "languageCode": "2",
+         "municipalityCode": "405"
+        }
+       ],
+       "registrationDate": "2020-05-25",
+       "source": "0",
+       "street": "Villimiehenkatu",
+       "type": 2
+      }
+     ],
+     "businessId": "1967543-8",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2005-05-31",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1967543-8"
+     },
+     "lastModified": "2026-11-13T08:23:23",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Computer programming activities",
+        "languageCode": "3"
+       },
+       {
+        "description": "Dataprogrammering",
+        "languageCode": "2"
+       },
+       {
+        "description": "Ohjelmistojen suunnittelu ja valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "62100",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Visma Solutions Oy",
+       "registrationDate": "2026-11-05",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2026-11-05",
+       "name": "Netvisor Solutions Oy",
+       "registrationDate": "2026-11-05",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Fivaldi",
+       "registrationDate": "2023-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "DigitalBooker",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Severa",
+       "registrationDate": "2013-05-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Verkkolaskut.fi",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "FabricAI",
+       "registrationDate": "2024-09-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Valueframe",
+       "registrationDate": "2018-01-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Solanum",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma ePasseli",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Passeli Merit",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Clento",
+       "registrationDate": "2023-03-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Netvisor KYC",
+       "registrationDate": "2026-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma Avendo",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Netvisor Pro",
+       "registrationDate": "2026-04-29",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Karhu Palvelut",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Netvisor",
+       "registrationDate": "2012-12-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Accode",
+       "registrationDate": "2025-06-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Passeli Ohjelmat",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma Sign",
+       "registrationDate": "2022-10-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma eAccounting",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "ePasseli",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fikuro",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Visma Passeli",
+       "registrationDate": "2026-08-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2005-05-30",
+       "register": "1",
+       "registrationDate": "2005-05-26",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2005-05-31",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2005-05-30",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2005-05-26",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2005-02-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-02-02",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2005-06-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2005-05-31",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2018-04-17",
+      "source": "0",
+      "url": "http://www.vismasolutions.com"
+     }
+    },
+    "firstSeen": "2026-11-16",
+    "hash": "a58a8ca11ba6812e341fda17f49998744ba3819b93f4d608491dbabe430cb344",
     "observedVia": "live"
    }
   ]

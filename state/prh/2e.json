@@ -561,6 +561,289 @@
     },
     "firstSeen": "2026-11-14",
     "hash": "dba24ba08e4d2413e0e2c9def9b1ce439f122870bfccd3253e83efdd7e739453",
+    "observedVia": "live",
+    "until": "2026-11-16"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "1",
+       "postCode": "04250",
+       "postOffices": [
+        {
+         "city": "KERAVA",
+         "languageCode": "1",
+         "municipalityCode": "245"
+        },
+        {
+         "city": "KERAVA",
+         "languageCode": "2",
+         "municipalityCode": "245"
+        }
+       ],
+       "registrationDate": "2008-07-01",
+       "source": "0",
+       "street": "SINEBRYCHOFFINAUKIO",
+       "type": 1
+      },
+      {
+       "postCode": "04201",
+       "postOfficeBox": "87",
+       "postOffices": [
+        {
+         "city": "KERAVA",
+         "languageCode": "1",
+         "municipalityCode": "245"
+        },
+        {
+         "city": "KERAVA",
+         "languageCode": "2",
+         "municipalityCode": "245"
+        }
+       ],
+       "registrationDate": "2008-07-01",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "0113951-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0113951-4"
+     },
+     "lastModified": "2026-11-13T19:30:05",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Framställning av öl",
+        "languageCode": "2"
+       },
+       {
+        "description": "Manufacture of beer",
+        "languageCode": "3"
+       },
+       {
+        "description": "Oluen valmistus",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "11050",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Oy Sinebrychoff Ab",
+       "registrationDate": "1955-04-01",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1955-03-31",
+       "name": "Aktiebolaget P. Sinebrychoff",
+       "registrationDate": "1896-12-19",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Cheers",
+       "registrationDate": "1988-07-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pyynikki",
+       "registrationDate": "1992-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Koff",
+       "registrationDate": "1996-12-11",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Juomapalvelu",
+       "registrationDate": "2000-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Aito-Lähde",
+       "registrationDate": "2000-08-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1896-12-19",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1997-11-06",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1944-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1896-12-19",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2009-10-20",
+      "source": "0",
+      "url": "www.sinebrychoff.fi"
+     }
+    },
+    "firstSeen": "2026-11-16",
+    "hash": "a19f8c2b6d092dc01a225b76a44e087cc806b09fa4eacad93179fcd5f6440c12",
     "observedVia": "live"
    }
   ]
@@ -1308,6 +1591,510 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "ca206f9e7daf13926b396db143571c5f5a1c3649707643b77ec7651e1b6b3297",
+    "observedVia": "live",
+    "until": "2026-11-16"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "18",
+       "co": "",
+       "entrance": "A",
+       "postCode": "00120",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-10-18",
+       "source": "0",
+       "street": "Lönnrotinkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00101",
+       "postOfficeBox": "1259",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-10-18",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0599340-0",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0599340-0"
+     },
+     "lastModified": "2026-11-13T11:41:41",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Kirjojen kustantaminen",
+        "languageCode": "1"
+       },
+       {
+        "description": "Publishing of books",
+        "languageCode": "3"
+       },
+       {
+        "description": "Utgivning av böcker",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "58110",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Werner Söderström Osakeyhtiö",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2018-12-31",
+       "name": "Bonnier Kirjat Suomi Oy",
+       "registrationDate": "2014-12-31",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Sangatsu Manga",
+       "registrationDate": "2006-01-03",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Readme.fi",
+       "registrationDate": "2020-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bonnier Books Finland",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Werner & Jarl",
+       "registrationDate": "2018-03-07",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pocket.fi taskukirjat",
+       "registrationDate": "2014-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bazar Kustannus",
+       "registrationDate": "2020-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Koko perheen pukinkontti KPP",
+       "registrationDate": "2000-08-23",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Readme",
+       "registrationDate": "2020-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bonnier Kirjat",
+       "registrationDate": "2014-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kirjava satama",
+       "registrationDate": "1997-07-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kustannusyhtiö Kolibri",
+       "registrationDate": "2005-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bonnier Kirjat Suomi",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Panda-Myynti",
+       "registrationDate": "2003-12-18",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Punainen Jättiläinen",
+       "registrationDate": "2009-01-27",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Uudet Kirjat-kerho",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Johnny Kniga",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bookmark",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kustannusyhtiö Tammi",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kids.fi lastenkirjat",
+       "registrationDate": "2014-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kirjayhtymä",
+       "registrationDate": "1999-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "KidsB.fi",
+       "registrationDate": "2014-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Johanna-kirjakerho",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bonnierpocket.fi",
+       "registrationDate": "2014-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Lasten Parhaat Kirjat",
+       "registrationDate": "2006-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Helmi-kustannus",
+       "registrationDate": "2002-05-24",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Bazar",
+       "registrationDate": "2020-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Docendo",
+       "registrationDate": "2022-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kustannusyhtiö Kosmos",
+       "registrationDate": "2019-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Satusiivet - Sagovingar",
+       "registrationDate": "2006-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kustannusyhtiö Vakka ja Kansi",
+       "registrationDate": "2022-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Pulitzer",
+       "registrationDate": "2022-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Minerva Kustannus",
+       "registrationDate": "2022-02-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Werner Söderström Ltd",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Rote Riese",
+       "registrationDate": "2009-01-27",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "Red giant",
+       "registrationDate": "2009-01-27",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      },
+      {
+       "name": "Röda jätten",
+       "registrationDate": "2009-01-27",
+       "source": "1",
+       "type": "4",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1985-08-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1985-09-03",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1994-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2003-02-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1985-08-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1985-08-15",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-16",
+    "hash": "c4b7230df0c1633ab122931308925350842d62aff098a52e862d3c761d3817e3",
     "observedVia": "live"
    }
   ]
@@ -2566,6 +3353,245 @@
     },
     "firstSeen": "2026-11-12",
     "hash": "a53d7b1378e58e4042e5a737a59ceaf7b5903a23a44c257a28ca399d7be625d2",
+    "observedVia": "live",
+    "until": "2026-11-16"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "3",
+       "co": "",
+       "entrance": "D",
+       "postCode": "50100",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "2025-02-04",
+       "source": "0",
+       "street": "Prikaatinkatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "50101",
+       "postOfficeBox": "3",
+       "postOffices": [
+        {
+         "city": "MIKKELI",
+         "languageCode": "1",
+         "municipalityCode": "491"
+        },
+        {
+         "city": "MIKKELI",
+         "languageCode": "2",
+         "municipalityCode": "491"
+        }
+       ],
+       "registrationDate": "1995-01-02",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0981408-6",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1994-04-13",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.0981408-6"
+     },
+     "lastModified": "2026-11-09T10:21:17",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Sähkön siirto",
+        "languageCode": "1"
+       },
+       {
+        "description": "Transmission of electricity",
+        "languageCode": "3"
+       },
+       {
+        "description": "Överföring av elektricitet",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "35130",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Järvi-Suomen Energia Oy",
+       "registrationDate": "1994-04-13",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Järvi-Suomen Verkko",
+       "registrationDate": "2012-01-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "JSEOY",
+       "registrationDate": "2026-05-28",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1994-04-13",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1994-10-06",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "1995-01-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1995-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1994-04-13",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-16",
+    "hash": "30288b8452568a2711a8aa2f6368ffd165e4500f70cca7869e33e8703f8ecbc3",
     "observedVia": "live"
    }
   ]
