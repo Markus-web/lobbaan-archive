@@ -577425,15 +577425,29 @@
   "companyId": "3310326-8",
   "companyName": "Javacom Oy",
   "companyType": "company_id",
-  "createdAt": "2026-11-11",
-  "diaryNumber": "JAV-26-8515-T",
-  "id": 8515,
-  "isEdited": false,
+  "createdAt": "2026-11-16",
+  "diaryNumber": "JAV-26-8516-T",
+  "id": 8516,
+  "isEdited": true,
   "isOnlyFinancials": false,
   "isOverdue": true,
   "mainIndustry": "Muualla luokittelematon muu rahoituspalvelutoiminta pois lukien vakuutus- ja eläkevakuutustoiminta",
   "otherCompanyId": null,
-  "previousYearFinancials": null,
+  "previousYearFinancials": {
+   "activityNotificationId": 8516,
+   "createdAt": "2026-11-16",
+   "id": 757,
+   "lobbying": {
+    "employeeTotal": 1,
+    "externalLobbyingGuidanceCosts": 0,
+    "manYears": "less_than_one",
+    "marketingCosts": "less_than_1000",
+    "representationCosts": "less_than_1000"
+   },
+   "lobbyingGuidance": {
+    "revenue": 5000
+   }
+  },
   "reportingEndDate": null,
   "reportingStartDate": null,
   "supplementaryCompanyNames": [],
@@ -577451,30 +577465,30 @@
   "termId": 5,
   "topics": [
    {
-    "activityNotificationId": 8515,
+    "activityNotificationId": 8516,
     "activityType": "guidance",
     "contactTopicOther": "Yrityksen yleisen tunnettuisuuden lisääminen ja sitä koskeva neuvonta",
     "contactTopicProject": null,
     "contactTopicType": "other",
     "contactedTargets": [],
-    "createdAt": "2026-11-11",
+    "createdAt": "2026-11-16",
     "customerCompanyId": "2217041-4",
     "customerCompanyName": "Verda",
     "customerOtherCompanyId": "",
     "customerSupplementaryCompanyNames": [],
-    "id": 35372,
+    "id": 35374,
     "supportQuality": "Keskeisten asiakkaan kannalta relevanttien toimijoiden hahmottaminen",
     "title": null
    },
    {
-    "activityNotificationId": 8515,
+    "activityNotificationId": 8516,
     "activityType": "contact_for_customer",
     "contactTopicOther": "Yrityksen yleisen tunnettuisuuden parantaminen ja sitä koskeva vaikuttamistyö",
     "contactTopicProject": null,
     "contactTopicType": "other",
     "contactedTargets": [
      {
-      "activityNotificationTopicId": 35373,
+      "activityNotificationTopicId": 35375,
       "contactMethods": [
        "meeting"
       ],
@@ -577482,7 +577496,7 @@
       "otherContactMethod": ""
      },
      {
-      "activityNotificationTopicId": 35373,
+      "activityNotificationTopicId": 35375,
       "contactMethods": [
        "meeting"
       ],
@@ -577490,12 +577504,12 @@
       "otherContactMethod": ""
      }
     ],
-    "createdAt": "2026-11-11",
+    "createdAt": "2026-11-16",
     "customerCompanyId": "2217041-4",
     "customerCompanyName": "Verda",
     "customerOtherCompanyId": "",
     "customerSupplementaryCompanyNames": [],
-    "id": 35373,
+    "id": 35375,
     "supportQuality": "",
     "title": null
    }

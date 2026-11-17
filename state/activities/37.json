@@ -6698,6 +6698,113 @@
    }
   ]
  },
+ "JAV-26-8516-T": {
+  "key": "JAV-26-8516-T",
+  "versions": [
+   {
+    "data": {
+     "activityAmount": "many",
+     "activityNotificationDate": "2026-11-11",
+     "companyId": "3310326-8",
+     "companyName": "Javacom Oy",
+     "companyType": "company_id",
+     "createdAt": "2026-11-16",
+     "diaryNumber": "JAV-26-8516-T",
+     "id": 8516,
+     "isEdited": true,
+     "isOnlyFinancials": false,
+     "isOverdue": true,
+     "mainIndustry": "Muualla luokittelematon muu rahoituspalvelutoiminta pois lukien vakuutus- ja eläkevakuutustoiminta",
+     "otherCompanyId": null,
+     "previousYearFinancials": {
+      "activityNotificationId": 8516,
+      "createdAt": "2026-11-16",
+      "id": 757,
+      "lobbying": {
+       "employeeTotal": 1,
+       "externalLobbyingGuidanceCosts": 0,
+       "manYears": "less_than_one",
+       "marketingCosts": "less_than_1000",
+       "representationCosts": "less_than_1000"
+      },
+      "lobbyingGuidance": {
+       "revenue": 5000
+      }
+     },
+     "reportingEndDate": null,
+     "reportingStartDate": null,
+     "supplementaryCompanyNames": [],
+     "term": {
+      "collectFinancials": true,
+      "createdAt": "2024-06-20",
+      "id": 5,
+      "reportingEndDate": "2026-06-30T00:00:00.000Z",
+      "reportingPeriodOngoing": false,
+      "reportingStartDate": "2026-01-01T00:00:00.000Z",
+      "signUpEndDate": "2026-08-31T00:00:00.000Z",
+      "signUpStartDate": "2026-07-01T00:00:00.000Z",
+      "status": "closed"
+     },
+     "termId": 5,
+     "topics": [
+      {
+       "activityNotificationId": 8516,
+       "activityType": "guidance",
+       "contactTopicOther": "Yrityksen yleisen tunnettuisuuden lisääminen ja sitä koskeva neuvonta",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [],
+       "createdAt": "2026-11-16",
+       "customerCompanyId": "2217041-4",
+       "customerCompanyName": "Verda",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35374,
+       "supportQuality": "Keskeisten asiakkaan kannalta relevanttien toimijoiden hahmottaminen",
+       "title": null
+      },
+      {
+       "activityNotificationId": 8516,
+       "activityType": "contact_for_customer",
+       "contactTopicOther": "Yrityksen yleisen tunnettuisuuden parantaminen ja sitä koskeva vaikuttamistyö",
+       "contactTopicProject": null,
+       "contactTopicType": "other",
+       "contactedTargets": [
+        {
+         "activityNotificationTopicId": 35375,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 3818,
+         "otherContactMethod": ""
+        },
+        {
+         "activityNotificationTopicId": 35375,
+         "contactMethods": [
+          "meeting"
+         ],
+         "contactedTargetId": 4433,
+         "otherContactMethod": ""
+        }
+       ],
+       "createdAt": "2026-11-16",
+       "customerCompanyId": "2217041-4",
+       "customerCompanyName": "Verda",
+       "customerOtherCompanyId": "",
+       "customerSupplementaryCompanyNames": [],
+       "id": 35375,
+       "supportQuality": "",
+       "title": null
+      }
+     ],
+     "useForExit": false
+    },
+    "firstSeen": "2026-11-17",
+    "hash": "a18b07002871a2979557683417e8577c488042253a920e6eab61442b5be238f5",
+    "observedVia": "live"
+   }
+  ]
+ },
  "KAL-26-5675-T": {
   "key": "KAL-26-5675-T",
   "versions": [

@@ -6504,6 +6504,446 @@
     },
     "firstSeen": "2026-11-06",
     "hash": "f020c6365ef58bde86e30cd33a7adbd5112a7152f450244015c7577cd02bd99d",
+    "observedVia": "live",
+    "until": "2026-11-17"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "5",
+       "co": "",
+       "entrance": "",
+       "postCode": "00020",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "NORDEA",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "NORDEA",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2017-09-25",
+       "source": "0",
+       "street": "Hamnbanegatan",
+       "type": 2
+      }
+     ],
+     "businessId": "2858394-9",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2017-09-27",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2858394-9"
+     },
+     "lastModified": "2026-11-16T14:23:23",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Annan stödverksamhet avseende finansiella tjänster utom försäkrings- och pensionsfondsverksamhet",
+        "languageCode": "2"
+       },
+       {
+        "description": "Muu rahoitusta palveleva toiminta pois lukien vakuutus- ja eläkevakuutustoiminta",
+        "languageCode": "1"
+       },
+       {
+        "description": "Other activities auxiliary to financial services, except insurance and pension funding",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "66190",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Nordea Bank Abp",
+       "registrationDate": "2018-06-29",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2018-06-29",
+       "name": "Nordea Holding Abp",
+       "registrationDate": "2017-09-27",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Nordea Bank Oyj",
+       "registrationDate": "2018-06-29",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Nordea Bank Finland",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Pankki Suomi",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Föreningsbanken",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Yhdyspankki",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Kansallispankki",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "KOP Järjestöpankki",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Merita",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Merita Bank",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Merita Pankki",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "MeritaNordbanken",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Asset Management",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Group",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Investment Banking",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Solo",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Union Bank of Finland - UBF",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Private Banking",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Privatbanken",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Yksityispankki",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Private Bank",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Private Wealth Management",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Kapitalförvaltning",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Varallisuudenhoito",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Nordea Corporate Finance",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Unitas",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Fidenta",
+       "registrationDate": "2018-10-01",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2017-09-26",
+       "register": "1",
+       "registrationDate": "2017-09-25",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2017-09-27",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2017-09-25",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2018-06-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2018-06-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2018-10-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2017-09-29",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2017-09-27",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-17",
+    "hash": "cbd90c099c5986a924bf7eaae387aae771ece7e818894841a08054ab267f506b",
     "observedVia": "live"
    }
   ]

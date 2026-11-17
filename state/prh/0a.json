@@ -4302,6 +4302,331 @@
     },
     "firstSeen": "2026-11-15",
     "hash": "b4b3a0aff6b776dbf3f24958709a21a7d54216262162cdf9893c9a8fa27e7f3a",
+    "observedVia": "live",
+    "until": "2026-11-17"
+   },
+   {
+    "changedFields": [
+     "addresses",
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "02020",
+       "postOfficeBox": "25",
+       "postOffices": [
+        {
+         "city": "METSÄ",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "METSÄ",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2004-07-21",
+       "source": "0",
+       "street": "",
+       "type": 2
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "1",
+       "co": "",
+       "entrance": "",
+       "postCode": "02150",
+       "postOffices": [
+        {
+         "city": "ESBO",
+         "languageCode": "2",
+         "municipalityCode": "049"
+        },
+        {
+         "city": "ESPOO",
+         "languageCode": "1",
+         "municipalityCode": "049"
+        }
+       ],
+       "registrationDate": "2026-11-16",
+       "source": "0",
+       "street": "Keilalahdentie",
+       "type": 1
+      }
+     ],
+     "businessId": "1867831-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2004-01-08",
+       "registrationDate": "2003-12-10",
+       "source": "1",
+       "type": "16",
+       "version": 2
+      },
+      {
+       "descriptions": [
+        {
+         "description": "Julkinen osakeyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Public limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Publikt aktiebolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "2004-01-09",
+       "source": "1",
+       "type": "17",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.1867831-1"
+     },
+     "lastModified": "2026-11-16T10:59:16",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Manufacture of household and sanitary goods and of toilet requisites",
+        "languageCode": "3"
+       },
+       {
+        "description": "Paperisten talous- ja hygieniatarvikkeiden valmistus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Tillverkning av hushålls- och hygienartiklar av papper",
+        "languageCode": "2"
+       }
+      ],
+      "registrationDate": "2026-01-30",
+      "source": "2",
+      "type": "17220",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Metsä Tissue Oyj",
+       "registrationDate": "2004-01-09",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "2004-01-08",
+       "name": "Metsa Acquisition Oy",
+       "registrationDate": "2003-12-10",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Metsä Tissue Corporation",
+       "registrationDate": "2004-01-09",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2003-12-07",
+       "register": "1",
+       "registrationDate": "2003-12-08",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2003-12-09",
+       "register": "1",
+       "registrationDate": "2003-12-08",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2003-12-10",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2004-01-02",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2003-12-08",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2006-01-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2004-01-02",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2003-12-10",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2003-12-10",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-17",
+    "hash": "69e4f35daea119e2f6af6431363529d3cc89c28d018c878aec85287f42936624",
     "observedVia": "live"
    }
   ]
