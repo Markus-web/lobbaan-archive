@@ -2394,6 +2394,305 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "d640fc5ef7c734f6246865161525d9789d9b6510be3c79386ad15c57cd60b082",
+    "observedVia": "live",
+    "until": "2026-11-18"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "21",
+       "co": "",
+       "entrance": "B",
+       "postCode": "00130",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2018-03-20",
+       "source": "0",
+       "street": "Kasarmikatu",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "",
+       "co": "",
+       "entrance": "",
+       "postCode": "00101",
+       "postOfficeBox": "600",
+       "postOffices": [
+        {
+         "city": "HELSINGFORS",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "HELSINKI",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "1993-10-05",
+       "source": "0",
+       "street": "",
+       "type": 2
+      }
+     ],
+     "businessId": "0944524-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Försäkringsaktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Insurance company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Vakuutusosakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "1993-10-27",
+       "source": "1",
+       "type": "24",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-11-16T09:38:59",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Activities of non-life insurance companies",
+        "languageCode": "3"
+       },
+       {
+        "description": "Skadeförsäkringsbolag",
+        "languageCode": "2"
+       },
+       {
+        "description": "Vahinkovakuutusyhtiöt",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "65121",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Vakuutusosakeyhtiö Garantia",
+       "registrationDate": "1993-10-27",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Försäkringsaktiebolaget Garantia",
+       "registrationDate": "1993-10-27",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Garantia Insurance Company Ltd",
+       "registrationDate": "1993-10-27",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Garantia Invest",
+       "registrationDate": "1994-11-16",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Securent",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      },
+      {
+       "name": "Takaamo",
+       "registrationDate": "2018-12-31",
+       "source": "1",
+       "type": "3",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1993-10-27",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Momsskyldig som köpare eller för eget bruk",
+         "languageCode": "2"
+        },
+        {
+         "description": "Ostajana tai omasta käytöstä arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT liable as a buyer or on self-supply",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2023-06-01",
+       "type": "86"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Momsskyldig som köpare eller för eget bruk",
+         "languageCode": "2"
+        },
+        {
+         "description": "Ostajana tai omasta käytöstä arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT liable as a buyer or on self-supply",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2015-06-28",
+       "register": "6",
+       "registrationDate": "2010-12-15",
+       "type": "86"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2023-05-31",
+       "register": "6",
+       "registrationDate": "2015-06-29",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1993-11-01",
+       "type": "41"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1993-10-27",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "1993-10-27",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-18",
+    "hash": "26d1f6718f110dde94617043e094be5fa00d7f5a990aee386a8f60c968d6b854",
     "observedVia": "live"
    }
   ]

@@ -8151,6 +8151,228 @@
     },
     "firstSeen": "2026-11-16",
     "hash": "650ae44d793d07ae7707bc5b020dc114c35a6154f3cf40504b5c92c1653685c0",
+    "observedVia": "live",
+    "until": "2026-11-18"
+   },
+   {
+    "changedFields": [
+     "lastModified",
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "5",
+       "postCode": "26100",
+       "postOffices": [
+        {
+         "city": "RAUMA",
+         "languageCode": "1",
+         "municipalityCode": "684"
+        },
+        {
+         "city": "RAUMA",
+         "languageCode": "2",
+         "municipalityCode": "684"
+        }
+       ],
+       "registrationDate": "2019-01-11",
+       "source": "0",
+       "street": "Suojantie",
+       "type": 1
+      },
+      {
+       "postCode": "26101",
+       "postOfficeBox": "55",
+       "postOffices": [
+        {
+         "city": "RAUMA",
+         "languageCode": "1",
+         "municipalityCode": "684"
+        },
+        {
+         "city": "RAUMA",
+         "languageCode": "2",
+         "municipalityCode": "684"
+        }
+       ],
+       "registrationDate": "2019-01-11",
+       "source": "0",
+       "type": 2
+      }
+     ],
+     "businessId": "2965795-4",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2019-01-31",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2965795-4"
+     },
+     "lastModified": "2026-11-16T07:25:01",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Building of military ships and vessels",
+        "languageCode": "3"
+       },
+       {
+        "description": "Byggande av militära skepp och fartyg",
+        "languageCode": "2"
+       },
+       {
+        "description": "Sotilasalusten rakentaminen",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-03-19",
+      "source": "2",
+      "type": "30130",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "RMC Defence Oy",
+       "registrationDate": "2019-01-31",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2019-01-30",
+       "register": "1",
+       "registrationDate": "2019-01-11",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2019-01-31",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2019-01-11",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2018-12-18",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2019-01-31",
+       "type": "1"
+      }
+     ],
+     "registrationDate": "2019-01-31",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2019-01-11",
+      "source": "0",
+      "url": "www.rmcfinland.fi"
+     }
+    },
+    "firstSeen": "2026-11-18",
+    "hash": "cc19e2ac0d4b0df07776d3bbb05157d6ae02e8c07f9ce1ccf445c25f8c46b448",
     "observedVia": "live"
    }
   ]
