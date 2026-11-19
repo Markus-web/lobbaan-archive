@@ -1017,6 +1017,261 @@
     },
     "firstSeen": "2026-11-15",
     "hash": "7231380227ac15c5c3e31b6146bff6a62060a55f655754d1774d62e6d8c0d664",
+    "observedVia": "live",
+    "until": "2026-11-19"
+   },
+   {
+    "changedFields": [
+     "lastModified"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "buildingNumber": "1",
+       "postCode": "00018",
+       "postOffices": [
+        {
+         "city": "ILMARINEN",
+         "languageCode": "1",
+         "municipalityCode": "091"
+        },
+        {
+         "city": "ILMARINEN",
+         "languageCode": "2",
+         "municipalityCode": "091"
+        }
+       ],
+       "registrationDate": "2007-07-04",
+       "source": "0",
+       "street": "Porkkalankatu",
+       "type": 2
+      }
+     ],
+     "businessId": "0107638-1",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Keskinäinen vakuutusyhtiö",
+         "languageCode": "1"
+        },
+        {
+         "description": "Mutual insurance company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Ömsesidigt försäkringsbolag",
+         "languageCode": "2"
+        }
+       ],
+       "registrationDate": "1998-07-24",
+       "source": "1",
+       "type": "12",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "lastModified": "2026-11-17T10:28:13",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Obligatorisk arbetspensionsförsäkring",
+        "languageCode": "2"
+       },
+       {
+        "description": "Pakollinen työeläkevakuutus",
+        "languageCode": "1"
+       },
+       {
+        "description": "Statutory pension insurance by employers",
+        "languageCode": "3"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "84302",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Keskinäinen Eläkevakuutusyhtiö Ilmarinen",
+       "registrationDate": "1998-07-24",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "endDate": "1998-07-23",
+       "name": "Eläkevakuutusosakeyhtiö Ilmarinen",
+       "registrationDate": "1962-01-19",
+       "source": "1",
+       "type": "1",
+       "version": 2
+      },
+      {
+       "name": "Ömsesidiga Pensionsförsäkringsbolaget Ilmarinen",
+       "registrationDate": "1998-07-24",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Ilmarinen Mutual Pension Insurance Company",
+       "registrationDate": "1998-07-24",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "1962-01-19",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "1978-03-15",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "1995-03-01",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-10-01",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "För överlåtelse av nyttjanderätten till en fastighet",
+         "languageCode": "2"
+        },
+        {
+         "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+         "languageCode": "1"
+        },
+        {
+         "description": "VAT-obliged for the transfer of rights to use immovable property",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2022-10-01",
+       "type": "82"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Member of liability group",
+         "languageCode": "3"
+        },
+        {
+         "description": "Momsskyldig som medlem i ansvarsgruppen",
+         "languageCode": "2"
+        },
+        {
+         "description": "Vastuuryhmän jäsenenä",
+         "languageCode": "1"
+        }
+       ],
+       "endDate": "2022-09-30",
+       "register": "6",
+       "registrationDate": "2005-11-01",
+       "type": "V80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "1962-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "1962-01-19",
+     "status": "2",
+     "tradeRegisterStatus": "1"
+    },
+    "firstSeen": "2026-11-19",
+    "hash": "3fe227d9cab4967cba5dfc8caea658f9f8185f9e142066d01c74704ef6934a64",
     "observedVia": "live"
    }
   ]

@@ -1148,7 +1148,7 @@
    "min": 100000
   },
   "entityForm": "Registered Association",
-  "epAccredited": 8,
+  "epAccredited": 9,
   "financialYear": {
    "end": "2025-12-01",
    "start": "2025-01-01"
@@ -4109,7 +4109,7 @@
    "min": 50000
   },
   "entityForm": "foundation",
-  "epAccredited": 1,
+  "epAccredited": 0,
   "financialYear": {
    "end": "2025-12-01",
    "start": "2025-01-01"
@@ -6506,8 +6506,8 @@
   "entityForm": "International organisation",
   "epAccredited": 0,
   "financialYear": {
-   "end": "2024-12-01",
-   "start": "2024-01-01"
+   "end": "2025-12-01",
+   "start": "2025-01-01"
   },
   "goals": "EFI's mission is to carry out, strengthen, and mobilise forest research and expertise aimed at addressing policy-relevant needs with regard to forests and their governance. The aim of EFI’s research activities is to provide scientific basis for policy support, using applied, integrated and multidisciplinary methods in addressing policy needs at the European level and in different European regions and countries.",
   "id": "38315289949-88",
@@ -6522,12 +6522,12 @@
    "Research and innovation"
   ],
   "intermediaries": [],
-  "lastUpdateDate": "2026-11-09",
-  "legislativeProposals": "•\tCOM(2021)706 Deforestation-free supply chains\r\n•\tCOM(2022)304 Nature Restoration Law\r\n•\tCOM(2022)672 Carbon Removal Certification\r\n•\tCOM(2023)415 Forest Reproductive Material\r\n•\tCOM(2023)728 Monitoring Framework for resilient European Forests\r\n•\tCOM(2021)554 LULUCF Revision\r\n•\tCOM(2021)572 New EU Forest Strategy for 2030\r\n•\tHorizon Europe",
+  "lastUpdateDate": "2026-11-18",
+  "legislativeProposals": "•\tCOM(2021)706 Deforestation-free supply chains\n•\tCOM(2022)304 Nature Restoration Law\n•\tCOM(2022)672 Carbon Removal Certification\n•\tCOM(2023)415 Forest Reproductive Material\n•\tCOM(2023)728 Monitoring Framework for resilient European Forests\n•\tCOM(2021)554 LULUCF Revision\n•\tCOM(2021)572 New EU Forest Strategy for 2030\n•\tCOM(2023)416 Soil Monitoring and Resilience\n•\tHorizon Europe",
   "levels": [
+   "european",
    "sub-national",
    "national",
-   "european",
    "global"
   ],
   "memberOf": "Member of the International Union of Forest Research Organizations (IUFRO)",
@@ -8585,45 +8585,6 @@
   "name": "Solar Foods Oy",
   "registrationDate": "2023-05-05",
   "website": "https://solarfoods.com/"
- },
- {
-  "acronym": "STKS",
-  "category": "Non-governmental organisations, platforms and networks and similar",
-  "city": "Vaasa",
-  "costs": {
-   "max": 49999,
-   "min": 25000
-  },
-  "entityForm": "rekisteröity yhdistys",
-  "epAccredited": 0,
-  "financialYear": {
-   "end": "2025-12-01",
-   "start": "2025-01-01"
-  },
-  "goals": "Vuonna 1929 perustettu Suomen tieteellinen kirjastoseura ry. (STKS) on kirjasto- ja tietopalvelualan aatteellinen järjestö, jonka jäseniksi ovat tervetulleita kaikki alan toimijat, niin yksityishenkilöt kuin organisaatiot ja yhteisötkin. Seuran nimestä huolimatta jäsenistömme tulee kaikilta kirjastosektoreilta, eivätkä koulutuksemme suinkaan keskity tieteellisiin kirjastoihin, vaan sisällöt sopivat kaikille aihepiiristä kiinnostuneille, työpaikasta riippumatta. Seura toimii tieteellisenä yhdistyksenä, jonka tarkoituksena on tehdä tunnetuksi tietohuollon merkitystä tuotantotekijänä sekä tutkimus- ja koulutustoiminnan välttämättömänä perusedellytyksenä. Seura tarjoaa jäsenilleen mahdollisuuden verkostoitua ja tukea muutoksen hallintaan muuttuvassa maailmassa ja omassa työssä. Välineinä tähän ovat seuran julkaisema Signum-lehti ja ennenkaikkea aktiivisten työryhmien toteuttamat, alan eri osa-alueisiin keskittyvät, seminaarit ja koulutukset. Näiden lisäksi STKS antaa lausun (...)",
-  "id": "488963421714-18",
-  "interestRepresented": "Promotes their own interests or the collective interests of their members",
-  "interests": [
-   "Communication",
-   "Culture",
-   "Culture and media",
-   "Digital economy and society",
-   "Education and training",
-   "Justice and fundamental rights",
-   "Research and innovation"
-  ],
-  "intermediaries": [],
-  "lastUpdateDate": "2026-03-10",
-  "legislativeProposals": "korkeakoulut, yliopistot, kirjastot, tietopalvelut, tietohuolto, tekijänoikeus, koulutus, tietosuoja, immateriaalioikeudet, tiedonlouhinta, tutkimusdata, tieteellinen julkaiseminen, sananvapaus, avoin tiede ja tutkimus",
-  "levels": [
-   "national"
-  ],
-  "memberOf": "Kansainväliset: IFLA, Eblida, Liber, UK Serials Group\r\nKansalliset: Tieteellisten seurain valtuuskunta, Suomen tiedekustantajien liitto, Suomen kirjastomuseoyhdistys",
-  "members": 2,
-  "membersFTE": 0.5,
-  "name": "Suomen tieteellinen kirjastoseura",
-  "registrationDate": "2016-05-11",
-  "website": "http://www.stks.fi/"
  },
  {
   "category": "Non-governmental organisations, platforms and networks and similar",
@@ -13588,6 +13549,42 @@
   "website": "http://www.syke.fi"
  },
  {
+  "acronym": "CREA",
+  "category": "Think tanks and research institutions",
+  "city": "Helsinki",
+  "entityForm": "NGO",
+  "epAccredited": 0,
+  "financialYear": {
+   "end": "2026-05-01",
+   "start": "2025-06-01"
+  },
+  "goals": "The Centre for Research on Energy and Clean Air (CREA) is an independent research organisation focused on revealing the trends, causes, and health impacts, as well as the solutions to air pollution. CREA uses scientific data, research, and evidence to support the efforts of governments, companies, and campaigning organisations worldwide in their efforts to move towards clean energy and clean air, believing that effective research and communication are the keys to successful policies, investment decisions, and advocacy efforts. CREA was founded in Helsinki and has staff in several Asian and European countries.",
+  "id": "826336596481-63",
+  "interestRepresented": "Does not represent commercial interests",
+  "interests": [
+   "Climate action",
+   "Energy",
+   "Environment",
+   "External relations",
+   "Foreign affairs and security policy",
+   "International co-operation and development",
+   "Research and innovation",
+   "Trade",
+   "Transport"
+  ],
+  "intermediaries": [],
+  "legislativeProposals": "Green Deal and related climate and energy policies, sanctions policies, engagement with China",
+  "levels": [
+   "global"
+  ],
+  "memberOf": "Global Clean Energy Network, International Climate Policy Hub, B4Ukraine coalition",
+  "members": 6,
+  "membersFTE": 1.35,
+  "name": "Centre for Research on Energy and Clean Air",
+  "registrationDate": "2025-02-13",
+  "website": "https://energyandcleanair.org/"
+ },
+ {
   "category": "Companies & groups",
   "city": "Helsinki",
   "costs": {
@@ -15774,7 +15771,7 @@
    "min": 200000
   },
   "entityForm": "Cooperative",
-  "epAccredited": 1,
+  "epAccredited": 0,
   "financialYear": {
    "end": "2025-12-01",
    "start": "2025-01-01"
