@@ -211,6 +211,42 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "804b632932dbacbe53259cc5897ff73879b3e66744c300a345d3929810d6fc9f",
+    "observedVia": "live",
+    "until": "2026-11-20"
+   },
+   {
+    "changedFields": [
+     "verificationPassed",
+     "verified"
+    ],
+    "data": {
+     "acceptanceIdentifier": null,
+     "endDate": "2026-08-20",
+     "financialSupport": false,
+     "financialSupportURL": null,
+     "id": "https://www.kansalaisaloite.fi/api/v1/initiatives/16897",
+     "name": {
+      "fi": "Loppu kohtuuttomille YEL-maksuille!",
+      "sv": null
+     },
+     "primaryLanguage": "fi",
+     "proposalType": "PREPARATION",
+     "startDate": "2026-02-20",
+     "state": "ACCEPTED",
+     "stateDate": "2026-02-23T11:38:20+02:00",
+     "supportStatementsInWeb": false,
+     "supportStatementsOnPaper": false,
+     "supportStatementsRemoved": null,
+     "url": {
+      "fi": "https://www.kansalaisaloite.fi/fi/aloite/16897",
+      "sv": "https://www.kansalaisaloite.fi/sv/initiativ/16897"
+     },
+     "verificationPassed": true,
+     "verified": "2026-11-06",
+     "votingInProgress": false
+    },
+    "firstSeen": "2026-11-20",
+    "hash": "b49b4473564f7b503ed5adf9e6e344cb0260260fe001f069796d7b4a19b99a61",
     "observedVia": "live"
    }
   ]

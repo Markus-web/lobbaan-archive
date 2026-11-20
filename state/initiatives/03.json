@@ -535,6 +535,41 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "54992082af5378a9b4b0f8c5c84f5b48dad46cff9287688354cab36296b14aa8",
+    "observedVia": "live",
+    "until": "2026-11-20"
+   },
+   {
+    "changedFields": [
+     "votingInProgress"
+    ],
+    "data": {
+     "acceptanceIdentifier": null,
+     "endDate": "2026-11-11",
+     "financialSupport": false,
+     "financialSupportURL": null,
+     "id": "https://www.kansalaisaloite.fi/api/v1/initiatives/17360",
+     "name": {
+      "fi": "Työtodistuksen antaminen viipymättä ja viimeistään 7 päivän kuluessa pyynnöstä.",
+      "sv": null
+     },
+     "primaryLanguage": "fi",
+     "proposalType": "PREPARATION",
+     "startDate": "2026-05-11",
+     "state": "ACCEPTED",
+     "stateDate": "2026-05-13T10:47:14+03:00",
+     "supportStatementsInWeb": false,
+     "supportStatementsOnPaper": false,
+     "supportStatementsRemoved": null,
+     "url": {
+      "fi": "https://www.kansalaisaloite.fi/fi/aloite/17360",
+      "sv": "https://www.kansalaisaloite.fi/sv/initiativ/17360"
+     },
+     "verificationPassed": false,
+     "verified": null,
+     "votingInProgress": false
+    },
+    "firstSeen": "2026-11-20",
+    "hash": "b216a6778d20ece8d370341b2b4ce7124049832f3a7036f3b5a1b35a37ff8510",
     "observedVia": "live"
    }
   ]

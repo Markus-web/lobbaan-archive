@@ -211,6 +211,41 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "5631717afa325793b2def3d2aa4dd569108104354374225cf7d05ef464cdce77",
+    "observedVia": "live",
+    "until": "2026-11-20"
+   },
+   {
+    "changedFields": [
+     "votingInProgress"
+    ],
+    "data": {
+     "acceptanceIdentifier": null,
+     "endDate": "2026-11-06",
+     "financialSupport": false,
+     "financialSupportURL": null,
+     "id": "https://www.kansalaisaloite.fi/api/v1/initiatives/17358",
+     "name": {
+      "fi": "Kiihottaminen kansanryhmää vastaan -pykälää täsmennettävä – vahingollisuus rangaistavuuden kriteeriksi",
+      "sv": null
+     },
+     "primaryLanguage": "fi",
+     "proposalType": "PREPARATION",
+     "startDate": "2026-05-06",
+     "state": "ACCEPTED",
+     "stateDate": "2026-05-08T10:27:29+03:00",
+     "supportStatementsInWeb": false,
+     "supportStatementsOnPaper": false,
+     "supportStatementsRemoved": null,
+     "url": {
+      "fi": "https://www.kansalaisaloite.fi/fi/aloite/17358",
+      "sv": "https://www.kansalaisaloite.fi/sv/initiativ/17358"
+     },
+     "verificationPassed": false,
+     "verified": null,
+     "votingInProgress": false
+    },
+    "firstSeen": "2026-11-20",
+    "hash": "e9a4a747a0cfd7c154b00879e972590ea415a16334f738b6c67ac95cbab87fa8",
     "observedVia": "live"
    }
   ]
@@ -283,6 +318,42 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "5b6acaa04bf00e83a548b7ada7c310736bd2e2d8dc4d9469ecf860c36daddf51",
+    "observedVia": "live"
+   }
+  ]
+ },
+ "https://www.kansalaisaloite.fi/api/v1/initiatives/18371": {
+  "key": "https://www.kansalaisaloite.fi/api/v1/initiatives/18371",
+  "versions": [
+   {
+    "data": {
+     "acceptanceIdentifier": null,
+     "endDate": "2027-05-17",
+     "financialSupport": false,
+     "financialSupportURL": null,
+     "id": "https://www.kansalaisaloite.fi/api/v1/initiatives/18371",
+     "name": {
+      "fi": "Neurokirjon osaaminen pakolliseksi osaksi sosiaali- ja terveysalan, varhaiskasvatuksen ja perusopetuksen ammattilaisten koulutusta",
+      "sv": null
+     },
+     "primaryLanguage": "fi",
+     "proposalType": "PREPARATION",
+     "startDate": "2026-11-17",
+     "state": "ACCEPTED",
+     "stateDate": "2026-11-20T16:42:48+02:00",
+     "supportStatementsInWeb": false,
+     "supportStatementsOnPaper": false,
+     "supportStatementsRemoved": null,
+     "url": {
+      "fi": "https://www.kansalaisaloite.fi/fi/aloite/18371",
+      "sv": "https://www.kansalaisaloite.fi/sv/initiativ/18371"
+     },
+     "verificationPassed": false,
+     "verified": null,
+     "votingInProgress": true
+    },
+    "firstSeen": "2026-11-20",
+    "hash": "5c04cd3ea10c662c7de36ca1d9945580e171ee2d2592bc5a1c6a130ed2b1fb6d",
     "observedVia": "live"
    }
   ]

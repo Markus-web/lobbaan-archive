@@ -355,6 +355,41 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "733164fbd35abfe37e6959a7366299d3dfe4c8b3dcd38bea243482078037bdf3",
+    "observedVia": "live",
+    "until": "2026-11-20"
+   },
+   {
+    "changedFields": [
+     "votingInProgress"
+    ],
+    "data": {
+     "acceptanceIdentifier": null,
+     "endDate": "2026-11-01",
+     "financialSupport": false,
+     "financialSupportURL": null,
+     "id": "https://www.kansalaisaloite.fi/api/v1/initiatives/17274",
+     "name": {
+      "fi": "Poronkasvatus yhteiskuntakelpoiseksi",
+      "sv": null
+     },
+     "primaryLanguage": "fi",
+     "proposalType": "PREPARATION",
+     "startDate": "2026-05-01",
+     "state": "ACCEPTED",
+     "stateDate": "2026-04-21T14:35:37+03:00",
+     "supportStatementsInWeb": false,
+     "supportStatementsOnPaper": false,
+     "supportStatementsRemoved": null,
+     "url": {
+      "fi": "https://www.kansalaisaloite.fi/fi/aloite/17274",
+      "sv": "https://www.kansalaisaloite.fi/sv/initiativ/17274"
+     },
+     "verificationPassed": false,
+     "verified": null,
+     "votingInProgress": false
+    },
+    "firstSeen": "2026-11-20",
+    "hash": "e1bc32ce7f535284f806b39131fa2bf895e8ecac377d463baf9be522fde2b465",
     "observedVia": "live"
    }
   ]
