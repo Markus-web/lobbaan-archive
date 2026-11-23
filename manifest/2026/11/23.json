@@ -1,0 +1,120 @@
+{
+ "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
+ "changes": {
+  "added": 1,
+  "edited": 5
+ },
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-23T01:45:15.401Z",
+ "sources": [
+  {
+   "bytes": 1367764,
+   "fetchedAt": "2026-11-23T01:45:15.401Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 1389,
+   "sha256": "11824b0fb96f4041e5fb40381c097688edb4e68736a94c0936846929aad41049",
+   "snapshotKey": "snapshots/2026-11-23/register-notification.json.gz",
+   "source": "register-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification"
+  },
+  {
+   "bytes": 36720558,
+   "fetchedAt": "2026-11-23T01:45:23.180Z",
+   "httpStatus": 200,
+   "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
+   "ok": true,
+   "records": 5847,
+   "sha256": "c0a8e1814f5d8940787706087f63fe3bdbaed4a05a049c239b7942d53779293e",
+   "snapshotKey": "snapshots/2026-11-19/activity-notification.json.gz",
+   "source": "activity-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-activity-notification"
+  },
+  {
+   "bytes": 59281,
+   "fetchedAt": "2026-11-23T01:46:15.064Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 81,
+   "sha256": "b179caab4ca661194388fe557537eeabb0c1791fbba306c49e26c8875d998db1",
+   "snapshotKey": "snapshots/2026-10-29/exit-notification.json.gz",
+   "source": "exit-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-exit-notification"
+  },
+  {
+   "bytes": 2,
+   "fetchedAt": "2026-11-23T01:46:15.125Z",
+   "httpStatus": 200,
+   "note": "Implausibly few records; removals not inferred.",
+   "ok": true,
+   "partial": true,
+   "records": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "snapshotKey": "snapshots/2026-10-29/penalty-payments.json.gz",
+   "source": "penalty-payments",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-penalty-payments"
+  },
+  {
+   "bytes": 1744,
+   "fetchedAt": "2026-11-23T01:46:15.162Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 6,
+   "sha256": "f9d2a83c7f770b75b84fecbddfb5b9702d8fccce52042a3735aef985dd517a83",
+   "snapshotKey": "snapshots/2026-10-29/term.json.gz",
+   "source": "term",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-term"
+  },
+  {
+   "bytes": 2962096,
+   "fetchedAt": "2026-11-23T01:46:15.199Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 4550,
+   "sha256": "48da9a1aee70d8d842b5e2cb3b3f5b84441c1a2fd28cb46289aca12e3b5278cd",
+   "snapshotKey": "snapshots/2026-10-29/targets.json.gz",
+   "source": "targets",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-target/targets"
+  },
+  {
+   "bytes": 1642070,
+   "fetchedAt": "2026-11-23T01:46:16.402Z",
+   "ok": true,
+   "records": 1953,
+   "sha256": "aa26ec0390c16fb33420776cc3e7af1a0f8aad4a44b424fcabfadc0ceff950c0",
+   "snapshotKey": "snapshots/2026-11-23/kansalaisaloite-initiatives.json.gz",
+   "source": "kansalaisaloite-initiatives",
+   "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
+  },
+  {
+   "bytes": 702870,
+   "fetchedAt": "2026-11-23T01:46:18.929Z",
+   "httpStatus": 200,
+   "note": "Finnish head offices from the export of 2026-11-22T21:00:00.038+00:00 (18115 organisations, 118830149 bytes, SHA-256 f5b9d644e7d6a1b5ffa0e47bdd3842bdc47c574f4e2c2d07e64cdf1126e1d902).",
+   "ok": true,
+   "records": 400,
+   "sha256": "a6407fa2a03aa371faf0048d723de6b9329582d4086e64180355cfa7071553a3",
+   "snapshotKey": "snapshots/2026-11-23/eu-register.json.gz",
+   "source": "eu-register",
+   "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
+  },
+  {
+   "fetchedAt": "2026-11-23T01:46:30.063Z",
+   "note": "Feeds not reached: iltalehti (fetch failed).",
+   "ok": true,
+   "partial": true,
+   "records": 10,
+   "source": "news",
+   "url": "https://www.vtv.fi/feed/ https://www.hs.fi/rss/politiikka.xml https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET https://www.iltalehti.fi/rss/uutiset.xml https://www.verkkouutiset.fi/feed/"
+  },
+  {
+   "fetchedAt": "2026-11-23T01:52:19.183Z",
+   "note": "Rotating refresh: 700 of 1378 business IDs, 38 failed (429: 1, network: 37); stopped after 38 failures in a row.",
+   "ok": true,
+   "partial": true,
+   "records": 18,
+   "source": "prh-ytj",
+   "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
+  }
+ ]
+}

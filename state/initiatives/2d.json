@@ -535,6 +535,41 @@
     },
     "firstSeen": "2026-11-20",
     "hash": "99305d3ab4e80ad94abad1a6887ea1a4535bee3bb0793bc9c94df6daf8003fa9",
+    "observedVia": "live",
+    "until": "2026-11-23"
+   },
+   {
+    "changedFields": [
+     "votingInProgress"
+    ],
+    "data": {
+     "acceptanceIdentifier": null,
+     "endDate": "2027-05-23",
+     "financialSupport": true,
+     "financialSupportURL": null,
+     "id": "https://www.kansalaisaloite.fi/api/v1/initiatives/18170",
+     "name": {
+      "fi": "Kielletään kaasukammiot – sikojen ja kanojen hiilidioksiditainnutuksesta luovuttava Suomessa",
+      "sv": null
+     },
+     "primaryLanguage": "fi",
+     "proposalType": "PREPARATION",
+     "startDate": "2026-11-23",
+     "state": "ACCEPTED",
+     "stateDate": "2026-11-12T17:36:18+02:00",
+     "supportStatementsInWeb": false,
+     "supportStatementsOnPaper": false,
+     "supportStatementsRemoved": null,
+     "url": {
+      "fi": "https://www.kansalaisaloite.fi/fi/aloite/18170",
+      "sv": "https://www.kansalaisaloite.fi/sv/initiativ/18170"
+     },
+     "verificationPassed": false,
+     "verified": null,
+     "votingInProgress": true
+    },
+    "firstSeen": "2026-11-23",
+    "hash": "187f310188b349751578c872ecfd295d5c7c5bca4abefa4106b15dfea930fd9d",
     "observedVia": "live"
    }
   ]

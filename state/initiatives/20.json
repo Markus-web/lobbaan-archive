@@ -319,6 +319,41 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "82a959b05f575f06bede78285cb75180be1e92cede7a73f48140fca6aa9006e1",
+    "observedVia": "live",
+    "until": "2026-11-23"
+   },
+   {
+    "changedFields": [
+     "votingInProgress"
+    ],
+    "data": {
+     "acceptanceIdentifier": null,
+     "endDate": "2026-11-22",
+     "financialSupport": false,
+     "financialSupportURL": null,
+     "id": "https://www.kansalaisaloite.fi/api/v1/initiatives/17411",
+     "name": {
+      "fi": "Eroaminen Suomen Valtiosta",
+      "sv": null
+     },
+     "primaryLanguage": "fi",
+     "proposalType": "PREPARATION",
+     "startDate": "2026-05-22",
+     "state": "ACCEPTED",
+     "stateDate": "2026-08-05T13:28:26+03:00",
+     "supportStatementsInWeb": false,
+     "supportStatementsOnPaper": false,
+     "supportStatementsRemoved": null,
+     "url": {
+      "fi": "https://www.kansalaisaloite.fi/fi/aloite/17411",
+      "sv": "https://www.kansalaisaloite.fi/sv/initiativ/17411"
+     },
+     "verificationPassed": false,
+     "verified": null,
+     "votingInProgress": false
+    },
+    "firstSeen": "2026-11-23",
+    "hash": "f5df63d60327f1ed11cf9ccda24f4c60ffe7e474ae86afef624ab265b97e80f6",
     "observedVia": "live"
    }
   ]

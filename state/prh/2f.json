@@ -5308,6 +5308,271 @@
     },
     "firstSeen": "2026-11-18",
     "hash": "acb009cff9947e6a382999c778320085f4955f558e70e4c9eae9ed7eeb313548",
+    "observedVia": "live",
+    "until": "2026-11-23"
+   },
+   {
+    "changedFields": [
+     "registeredEntries"
+    ],
+    "data": {
+     "addresses": [
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "76",
+       "co": "",
+       "entrance": "",
+       "postCode": "68600",
+       "postOffices": [
+        {
+         "city": "JAKOBSTAD",
+         "languageCode": "2",
+         "municipalityCode": "598"
+        },
+        {
+         "city": "PIETARSAARI",
+         "languageCode": "1",
+         "municipalityCode": "598"
+        }
+       ],
+       "registrationDate": "2018-01-16",
+       "source": "0",
+       "street": "Alholmsvägen",
+       "type": 1
+      },
+      {
+       "apartmentIdSuffix": "",
+       "apartmentNumber": "",
+       "buildingNumber": "76",
+       "co": "",
+       "entrance": "",
+       "postCode": "68600",
+       "postOfficeBox": "",
+       "postOffices": [
+        {
+         "city": "JAKOBSTAD",
+         "languageCode": "2",
+         "municipalityCode": "598"
+        },
+        {
+         "city": "PIETARSAARI",
+         "languageCode": "1",
+         "municipalityCode": "598"
+        }
+       ],
+       "registrationDate": "2018-01-16",
+       "source": "0",
+       "street": "Alholmintie",
+       "type": 2
+      }
+     ],
+     "businessId": "2650921-9",
+     "companyForms": [
+      {
+       "descriptions": [
+        {
+         "description": "Aktiebolag",
+         "languageCode": "2"
+        },
+        {
+         "description": "Limited company",
+         "languageCode": "3"
+        },
+        {
+         "description": "Osakeyhtiö",
+         "languageCode": "1"
+        }
+       ],
+       "registrationDate": "2014-11-04",
+       "source": "1",
+       "type": "16",
+       "version": 1
+      }
+     ],
+     "companySituations": [],
+     "euId": {
+      "source": "1",
+      "value": "FIFPRO.2650921-9"
+     },
+     "lastModified": "2026-11-16T13:25:06",
+     "mainBusinessLine": {
+      "descriptions": [
+       {
+        "description": "Hamnverksamhet",
+        "languageCode": "2"
+       },
+       {
+        "description": "Operation of harbours",
+        "languageCode": "3"
+       },
+       {
+        "description": "Satamatoiminta",
+        "languageCode": "1"
+       }
+      ],
+      "registrationDate": "2026-01-01",
+      "source": "2",
+      "type": "52221",
+      "typeCodeSet": "TOIMI4"
+     },
+     "names": [
+      {
+       "name": "Jakobstads Hamn Ab",
+       "registrationDate": "2014-11-04",
+       "source": "1",
+       "type": "1",
+       "version": 1
+      },
+      {
+       "name": "Pietarsaaren Satama Oy",
+       "registrationDate": "2014-11-04",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      },
+      {
+       "name": "Port of Pietarsaari Ltd",
+       "registrationDate": "2015-01-29",
+       "source": "1",
+       "type": "2",
+       "version": 1
+      }
+     ],
+     "registeredEntries": [
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Oregistrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisteröimätön",
+         "languageCode": "1"
+        },
+        {
+         "description": "Unregistered",
+         "languageCode": "3"
+        }
+       ],
+       "endDate": "2014-11-03",
+       "register": "1",
+       "registrationDate": "2014-10-29",
+       "type": "0"
+      },
+      {
+       "authority": "2",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "1",
+       "registrationDate": "2014-11-04",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "4",
+       "registrationDate": "2014-11-13",
+       "type": "1"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "5",
+       "registrationDate": "2014-10-29",
+       "type": "55"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+         "languageCode": "1"
+        },
+        {
+         "description": "Momsskyldig för rörelseverksamhet",
+         "languageCode": "2"
+        },
+        {
+         "description": "VAT-liable for business activity",
+         "languageCode": "3"
+        }
+       ],
+       "register": "6",
+       "registrationDate": "2014-10-07",
+       "type": "80"
+      },
+      {
+       "authority": "1",
+       "descriptions": [
+        {
+         "description": "Registered",
+         "languageCode": "3"
+        },
+        {
+         "description": "Registrerad",
+         "languageCode": "2"
+        },
+        {
+         "description": "Rekisterissä",
+         "languageCode": "1"
+        }
+       ],
+       "register": "7",
+       "registrationDate": "2015-01-01",
+       "type": "41"
+      }
+     ],
+     "registrationDate": "2014-11-04",
+     "status": "2",
+     "tradeRegisterStatus": "1",
+     "website": {
+      "registrationDate": "2018-01-16",
+      "source": "0",
+      "url": "www.portofpietarsaari.fi"
+     }
+    },
+    "firstSeen": "2026-11-23",
+    "hash": "451d622a81de373abbc8bb45099fcdd9fae2d3f199172116bd200a3a3f589be7",
     "observedVia": "live"
    }
   ]
