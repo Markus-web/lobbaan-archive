@@ -1,0 +1,117 @@
+{
+ "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
+ "changes": {
+  "added": 1,
+  "edited": 3
+ },
+ "date": "2026-11-25",
+ "generatedAt": "2026-11-25T01:45:15.703Z",
+ "sources": [
+  {
+   "bytes": 1369007,
+   "fetchedAt": "2026-11-25T01:45:15.703Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 1390,
+   "sha256": "930157fc15af60f0f694e452e0874580b2156e6bd209c62a43d9406ff6e0a7b2",
+   "snapshotKey": "snapshots/2026-11-24/register-notification.json.gz",
+   "source": "register-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification"
+  },
+  {
+   "bytes": 36720859,
+   "fetchedAt": "2026-11-25T01:45:22.568Z",
+   "httpStatus": 200,
+   "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
+   "ok": true,
+   "records": 5847,
+   "sha256": "5d3dbe12b66712f523b8181c58f82dba315e252f9294613b7d0e4bf54b51be8e",
+   "snapshotKey": "snapshots/2026-11-24/activity-notification.json.gz",
+   "source": "activity-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-activity-notification"
+  },
+  {
+   "bytes": 59281,
+   "fetchedAt": "2026-11-25T01:46:16.458Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 81,
+   "sha256": "b179caab4ca661194388fe557537eeabb0c1791fbba306c49e26c8875d998db1",
+   "snapshotKey": "snapshots/2026-10-29/exit-notification.json.gz",
+   "source": "exit-notification",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-exit-notification"
+  },
+  {
+   "bytes": 2,
+   "fetchedAt": "2026-11-25T01:46:16.517Z",
+   "httpStatus": 200,
+   "note": "Implausibly few records; removals not inferred.",
+   "ok": true,
+   "partial": true,
+   "records": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "snapshotKey": "snapshots/2026-10-29/penalty-payments.json.gz",
+   "source": "penalty-payments",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-penalty-payments"
+  },
+  {
+   "bytes": 1744,
+   "fetchedAt": "2026-11-25T01:46:16.542Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 6,
+   "sha256": "f9d2a83c7f770b75b84fecbddfb5b9702d8fccce52042a3735aef985dd517a83",
+   "snapshotKey": "snapshots/2026-10-29/term.json.gz",
+   "source": "term",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-term"
+  },
+  {
+   "bytes": 2962683,
+   "fetchedAt": "2026-11-25T01:46:16.565Z",
+   "httpStatus": 200,
+   "ok": true,
+   "records": 4551,
+   "sha256": "8eb3be2cbbb0984fc7d30f2d0fb395de1eeb1b4e7635895ac56c116bd09c2457",
+   "snapshotKey": "snapshots/2026-11-25/targets.json.gz",
+   "source": "targets",
+   "url": "https://public.api.avoimuusrekisteri.fi/open-data-target/targets"
+  },
+  {
+   "error": "fetch failed",
+   "fetchedAt": "2026-11-25T01:46:17.530Z",
+   "ok": false,
+   "partial": true,
+   "records": 0,
+   "source": "kansalaisaloite-initiatives",
+   "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
+  },
+  {
+   "bytes": 703524,
+   "fetchedAt": "2026-11-25T01:46:23.612Z",
+   "httpStatus": 200,
+   "note": "Finnish head offices from the export of 2026-11-24T21:00:00.034+00:00 (18164 organisations, 119262617 bytes, SHA-256 12192bded8d51639c8311f5803df252407672dbbda93caa9566aa7835be0dbc0).",
+   "ok": true,
+   "records": 400,
+   "sha256": "3cf50985a5b4d220e0bf20aa4a326deb12694914a54da25864b4fe24ad48c863",
+   "snapshotKey": "snapshots/2026-11-25/eu-register.json.gz",
+   "source": "eu-register",
+   "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
+  },
+  {
+   "fetchedAt": "2026-11-25T01:47:36.076Z",
+   "ok": true,
+   "records": 11,
+   "source": "news",
+   "url": "https://www.vtv.fi/feed/ https://www.hs.fi/rss/politiikka.xml https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET https://www.iltalehti.fi/rss/uutiset.xml https://www.verkkouutiset.fi/feed/"
+  },
+  {
+   "fetchedAt": "2026-11-25T01:52:47.773Z",
+   "note": "Rotating refresh: 700 of 1379 business IDs, 35 failed (429: 1, network: 34); stopped after 35 failures in a row.",
+   "ok": true,
+   "partial": true,
+   "records": 11,
+   "source": "prh-ytj",
+   "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
+  }
+ ]
+}

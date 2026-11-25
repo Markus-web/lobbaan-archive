@@ -1,15 +1,15 @@
 {
  "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
  "changes": {
-  "added": 3,
-  "removed": 2
+  "added": 1,
+  "edited": 3
  },
- "date": "2026-11-24",
- "generatedAt": "2026-11-24T01:45:14.608Z",
+ "date": "2026-11-25",
+ "generatedAt": "2026-11-25T01:45:15.703Z",
  "sources": [
   {
    "bytes": 1369007,
-   "fetchedAt": "2026-11-24T01:45:14.608Z",
+   "fetchedAt": "2026-11-25T01:45:15.703Z",
    "httpStatus": 200,
    "ok": true,
    "records": 1390,
@@ -20,7 +20,7 @@
   },
   {
    "bytes": 36720859,
-   "fetchedAt": "2026-11-24T01:45:21.910Z",
+   "fetchedAt": "2026-11-25T01:45:22.568Z",
    "httpStatus": 200,
    "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
    "ok": true,
@@ -32,7 +32,7 @@
   },
   {
    "bytes": 59281,
-   "fetchedAt": "2026-11-24T01:46:22.656Z",
+   "fetchedAt": "2026-11-25T01:46:16.458Z",
    "httpStatus": 200,
    "ok": true,
    "records": 81,
@@ -43,7 +43,7 @@
   },
   {
    "bytes": 2,
-   "fetchedAt": "2026-11-24T01:46:22.726Z",
+   "fetchedAt": "2026-11-25T01:46:16.517Z",
    "httpStatus": 200,
    "note": "Implausibly few records; removals not inferred.",
    "ok": true,
@@ -56,7 +56,7 @@
   },
   {
    "bytes": 1744,
-   "fetchedAt": "2026-11-24T01:46:22.765Z",
+   "fetchedAt": "2026-11-25T01:46:16.542Z",
    "httpStatus": 200,
    "ok": true,
    "records": 6,
@@ -66,51 +66,50 @@
    "url": "https://public.api.avoimuusrekisteri.fi/open-data-term"
   },
   {
-   "bytes": 2962096,
-   "fetchedAt": "2026-11-24T01:46:22.787Z",
+   "bytes": 2962683,
+   "fetchedAt": "2026-11-25T01:46:16.565Z",
    "httpStatus": 200,
    "ok": true,
-   "records": 4550,
-   "sha256": "48da9a1aee70d8d842b5e2cb3b3f5b84441c1a2fd28cb46289aca12e3b5278cd",
-   "snapshotKey": "snapshots/2026-10-29/targets.json.gz",
+   "records": 4551,
+   "sha256": "8eb3be2cbbb0984fc7d30f2d0fb395de1eeb1b4e7635895ac56c116bd09c2457",
+   "snapshotKey": "snapshots/2026-11-25/targets.json.gz",
    "source": "targets",
    "url": "https://public.api.avoimuusrekisteri.fi/open-data-target/targets"
   },
   {
-   "bytes": 1642082,
-   "fetchedAt": "2026-11-24T01:46:24.055Z",
-   "ok": true,
-   "records": 1953,
-   "sha256": "0595fbd002e920d923bcb77af096ff309f3d23e82922dceb4d9f6a1f082e4a21",
-   "snapshotKey": "snapshots/2026-11-24/kansalaisaloite-initiatives.json.gz",
+   "error": "fetch failed",
+   "fetchedAt": "2026-11-25T01:46:17.530Z",
+   "ok": false,
+   "partial": true,
+   "records": 0,
    "source": "kansalaisaloite-initiatives",
    "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
   },
   {
-   "bytes": 702870,
-   "fetchedAt": "2026-11-24T01:46:26.304Z",
+   "bytes": 703524,
+   "fetchedAt": "2026-11-25T01:46:23.612Z",
    "httpStatus": 200,
-   "note": "Finnish head offices from the export of 2026-11-23T21:00:00.023+00:00 (18154 organisations, 119158065 bytes, SHA-256 965ee14c6ae3bdadcf490c670c658c729a532a1d9e4ed41e4834d4f0e5647130).",
+   "note": "Finnish head offices from the export of 2026-11-24T21:00:00.034+00:00 (18164 organisations, 119262617 bytes, SHA-256 12192bded8d51639c8311f5803df252407672dbbda93caa9566aa7835be0dbc0).",
    "ok": true,
    "records": 400,
-   "sha256": "e715d5f06c575b12de0276a803a747a45b89441b806b46838ce8b5949e0987cf",
-   "snapshotKey": "snapshots/2026-11-24/eu-register.json.gz",
+   "sha256": "3cf50985a5b4d220e0bf20aa4a326deb12694914a54da25864b4fe24ad48c863",
+   "snapshotKey": "snapshots/2026-11-25/eu-register.json.gz",
    "source": "eu-register",
    "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
   },
   {
-   "fetchedAt": "2026-11-24T01:47:39.493Z",
+   "fetchedAt": "2026-11-25T01:47:36.076Z",
    "ok": true,
    "records": 11,
    "source": "news",
    "url": "https://www.vtv.fi/feed/ https://www.hs.fi/rss/politiikka.xml https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET https://www.iltalehti.fi/rss/uutiset.xml https://www.verkkouutiset.fi/feed/"
   },
   {
-   "fetchedAt": "2026-11-24T01:52:29.808Z",
-   "note": "Rotating refresh: 700 of 1379 business IDs, 33 failed (429: 1, network: 32); stopped after 33 failures in a row.",
+   "fetchedAt": "2026-11-25T01:52:47.773Z",
+   "note": "Rotating refresh: 700 of 1379 business IDs, 35 failed (429: 1, network: 34); stopped after 35 failures in a row.",
    "ok": true,
    "partial": true,
-   "records": 12,
+   "records": 11,
    "source": "prh-ytj",
    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3"
   }
