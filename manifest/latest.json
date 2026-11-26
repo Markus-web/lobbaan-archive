@@ -1,26 +1,26 @@
 {
  "archiveRepo": "https://github.com/Markus-web/lobbaan-archive",
  "changes": {
-  "added": 1,
-  "edited": 3
+  "edited": 1,
+  "removed": 1
  },
- "date": "2026-11-25",
- "generatedAt": "2026-11-25T01:45:15.703Z",
+ "date": "2026-11-26",
+ "generatedAt": "2026-11-26T01:45:16.182Z",
  "sources": [
   {
-   "bytes": 1369007,
-   "fetchedAt": "2026-11-25T01:45:15.703Z",
+   "bytes": 1368274,
+   "fetchedAt": "2026-11-26T01:45:16.182Z",
    "httpStatus": 200,
    "ok": true,
-   "records": 1390,
-   "sha256": "930157fc15af60f0f694e452e0874580b2156e6bd209c62a43d9406ff6e0a7b2",
-   "snapshotKey": "snapshots/2026-11-24/register-notification.json.gz",
+   "records": 1389,
+   "sha256": "8e060c412854fc8b57a511d20d0ab3a83e327d23c479bdaf8747dee78fe925d6",
+   "snapshotKey": "snapshots/2026-11-26/register-notification.json.gz",
    "source": "register-notification",
    "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification"
   },
   {
    "bytes": 36720859,
-   "fetchedAt": "2026-11-25T01:45:22.568Z",
+   "fetchedAt": "2026-11-26T01:45:23.284Z",
    "httpStatus": 200,
    "note": "Bulk endpoint failed (HTTP 500); assembled from 6 per-term endpoints.",
    "ok": true,
@@ -32,7 +32,7 @@
   },
   {
    "bytes": 59281,
-   "fetchedAt": "2026-11-25T01:46:16.458Z",
+   "fetchedAt": "2026-11-26T01:46:14.455Z",
    "httpStatus": 200,
    "ok": true,
    "records": 81,
@@ -43,7 +43,7 @@
   },
   {
    "bytes": 2,
-   "fetchedAt": "2026-11-25T01:46:16.517Z",
+   "fetchedAt": "2026-11-26T01:46:14.624Z",
    "httpStatus": 200,
    "note": "Implausibly few records; removals not inferred.",
    "ok": true,
@@ -56,7 +56,7 @@
   },
   {
    "bytes": 1744,
-   "fetchedAt": "2026-11-25T01:46:16.542Z",
+   "fetchedAt": "2026-11-26T01:46:14.648Z",
    "httpStatus": 200,
    "ok": true,
    "records": 6,
@@ -67,7 +67,7 @@
   },
   {
    "bytes": 2962683,
-   "fetchedAt": "2026-11-25T01:46:16.565Z",
+   "fetchedAt": "2026-11-26T01:46:14.681Z",
    "httpStatus": 200,
    "ok": true,
    "records": 4551,
@@ -78,7 +78,7 @@
   },
   {
    "error": "fetch failed",
-   "fetchedAt": "2026-11-25T01:46:17.530Z",
+   "fetchedAt": "2026-11-26T01:46:15.655Z",
    "ok": false,
    "partial": true,
    "records": 0,
@@ -86,27 +86,29 @@
    "url": "https://www.kansalaisaloite.fi/api/v1/initiatives"
   },
   {
-   "bytes": 703524,
-   "fetchedAt": "2026-11-25T01:46:23.612Z",
+   "bytes": 705382,
+   "fetchedAt": "2026-11-26T01:46:21.764Z",
    "httpStatus": 200,
-   "note": "Finnish head offices from the export of 2026-11-24T21:00:00.034+00:00 (18164 organisations, 119262617 bytes, SHA-256 12192bded8d51639c8311f5803df252407672dbbda93caa9566aa7835be0dbc0).",
+   "note": "Finnish head offices from the export of 2026-11-25T21:00:00.037+00:00 (18169 organisations, 119316766 bytes, SHA-256 ac8d8d96ae4336edf62cdfb467a233876183c8c09e8355228a959fa3f66fbe01).",
    "ok": true,
-   "records": 400,
-   "sha256": "3cf50985a5b4d220e0bf20aa4a326deb12694914a54da25864b4fe24ad48c863",
-   "snapshotKey": "snapshots/2026-11-25/eu-register.json.gz",
+   "records": 401,
+   "sha256": "cf4af7685a14e5aabafe18d6146671c02b3d368322f72d66df8388ac7959cf7b",
+   "snapshotKey": "snapshots/2026-11-26/eu-register.json.gz",
    "source": "eu-register",
    "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest"
   },
   {
-   "fetchedAt": "2026-11-25T01:47:36.076Z",
+   "fetchedAt": "2026-11-26T01:47:37.114Z",
+   "note": "Feeds not reached: iltalehti (fetch failed).",
    "ok": true,
+   "partial": true,
    "records": 11,
    "source": "news",
    "url": "https://www.vtv.fi/feed/ https://www.hs.fi/rss/politiikka.xml https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET https://www.iltalehti.fi/rss/uutiset.xml https://www.verkkouutiset.fi/feed/"
   },
   {
-   "fetchedAt": "2026-11-25T01:52:47.773Z",
-   "note": "Rotating refresh: 700 of 1379 business IDs, 35 failed (429: 1, network: 34); stopped after 35 failures in a row.",
+   "fetchedAt": "2026-11-26T01:52:59.259Z",
+   "note": "Rotating refresh: 700 of 1379 business IDs, 35 failed (network: 35); stopped after 35 failures in a row.",
    "ok": true,
    "partial": true,
    "records": 11,
