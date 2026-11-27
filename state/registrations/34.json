@@ -435,6 +435,7 @@
  },
  "HEL-26-2719-R": {
   "key": "HEL-26-2719-R",
+  "removedAt": "2026-11-27",
   "versions": [
    {
     "data": {
@@ -495,7 +496,8 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "d0e6479b7eeb125c11eabc3bdee338296a69bfc6ba5da316fcc53c3363f2c453",
-    "observedVia": "live"
+    "observedVia": "live",
+    "until": "2026-11-27"
    }
   ]
  },
@@ -739,6 +741,44 @@
     },
     "firstSeen": "2026-10-29",
     "hash": "92bea9eba617c2e5c417c3a525622c84898bcf9b81dc79c0044056b7119f474c",
+    "observedVia": "live",
+    "until": "2026-11-27"
+   },
+   {
+    "changedFields": [
+     "activityIsOverdue",
+     "exited"
+    ],
+    "data": {
+     "activityIsOverdue": false,
+     "commitToEthicalLobbying": null,
+     "companyId": "2862495-8",
+     "companyName": "Silo AI Oy",
+     "companyType": "company_id",
+     "createdAt": "2025-08-28",
+     "description": "Silo AI on Euroopan suurimpia tekoälylaboratorio, jonka missiona on rakentaa Eurooppalaista tekoälyn lippulaivaa. Olemme luotettu kumppani, joka tuo tekoälyn avulla kilpailuetua tuotteisiin. Rakennamme tekoälyyn perustuvia ratkaisuja ja tuotteita, jotka mahdollistavat älykkäät laitteet, itseohjautuvat autot, teollisuus 4.0:n sekä älykkäät kaupungit. Silo AI'n omistaa Advanced Micro Devices Inc.",
+     "diaryNumber": "SIL-25-1900-R",
+     "exited": true,
+     "id": 1900,
+     "isEdited": true,
+     "mainIndustry": "Ohjelmistojen suunnittelu ja valmistus",
+     "memberships": [
+      {
+       "createdAt": "2025-08-28",
+       "title": "Teknologiateollisuus ry"
+      },
+      {
+       "createdAt": "2025-08-28",
+       "title": "Suomen Startup-yhteisö ry"
+      }
+     ],
+     "otherCompanyId": null,
+     "registrationDate": "2024-04-16",
+     "returnDate": null,
+     "supplementaryCompanyNames": []
+    },
+    "firstSeen": "2026-11-27",
+    "hash": "6ccae3d94999ae39c09498b61f5a496b3e5a15bf24ed6e813ac4fee8b94c3cb2",
     "observedVia": "live"
    }
   ]
